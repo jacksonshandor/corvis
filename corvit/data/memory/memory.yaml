@@ -1,0 +1,51 @@
+---
+emotional_state:
+  :happiness: 0
+  :sadness: 0
+  :anger: 0
+:short_term_memory:
+- I live such a high ass fucked up life.
+- Well, the day is sure bright.
+- nothing, I don't get high.
+:long_term_memory:
+- Well, the day is sure bright.
+- Well, the day is sure bright.
+- Well, the day is sure bright.
+- nothing, I don't get high.
+- nothing, I don't get high.
+- nothing, I don't get high.
+:word_pair_memory:
+  :statement:
+    i:
+      live: 2
+      don't: 2
+    live:
+      such: 2
+    such:
+      a: 2
+    a:
+      high: 2
+    high:
+      ass: 2
+    ass:
+      fucked: 2
+    fucked:
+      up: 2
+    up:
+      life.: 2
+    well,:
+      the: 2
+    the:
+      day: 2
+    day:
+      is: 2
+    is:
+      sure: 2
+    sure:
+      bright.: 2
+    nothing,:
+      i: 2
+    don't:
+      get: 2
+    get:
+      high.: 2

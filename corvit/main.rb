@@ -109,7 +109,7 @@ class ChatBot
     @short_term_memory.each do |topic|
       if user_input.downcase.include?(topic.downcase)
         @long_term_memory << topic
-        @short_term_memory.delete(topic)
+        #@short_term_memory.delete(topic)
         return
       end
     end
@@ -121,8 +121,10 @@ class ChatBot
   end
 
   def update_long_term_memory(user_input)
-    @long_term_memory << user_input
-    @long_term_memory.shift if @long_term_memory.size > 5
+    unless @long_term_memory.include?(user_input)
+      @long_term_memory << user_input
+      @long_term_memory.shift if @long_term_memory.length > 5
+    end
   end
 
   def long_term_memory_updated?
@@ -154,6 +156,7 @@ class ChatBot
   end
 
   def save_memory_to_file
+    FileUtils.mkdir_p('data/memory')
     # Define the file path for memory data
     memory_file_path = 'data/memory/memory.yaml'
 
