@@ -1,0 +1,437 @@
+---
+:statement:
+  ok,:
+    you: 1
+  you:
+    needed: 1
+    could: 1
+    rights: 1
+    need: 1
+    have: 2
+    to: 2
+    are: 5
+    realize: 2
+  needed:
+    a: 1
+  a:
+    permission: 1
+    ritual: 2
+    cleaner: 2
+    game: 2
+    name: 2
+    humorous: 2
+    comfortabel: 2
+    'goal:': 2
+    bit: 2
+    wonderful: 2
+    loving: 2
+    dell.: 2
+    long: 1
+    lovely: 2
+  permission:
+    slip.: 1
+    or: 1
+  yup,:
+    and: 2
+  and:
+    i: 2
+    make: 2
+    mother,: 2
+  i:
+    know: 2
+    have: 6
+    am: 6
+    don't: 2
+    will: 4
+    get: 2
+    officially,: 2
+    love: 2
+    and: 2
+  know:
+    it.: 2
+  sewing:
+    clothing: 2
+  clothing:
+    is: 4
+  is:
+    a: 4
+    very: 2
+    one: 2
+    that: 2
+    this: 2
+    well.: 2
+    the: 2
+  ritual:
+    that: 2
+  that:
+    is: 2
+    it: 1
+    one: 2
+    all: 2
+  very:
+    time: 2
+    happy: 2
+  time:
+    consuming.: 2
+  well,:
+    you: 1
+    accessories.: 2
+    it's: 2
+    not: 2
+  could:
+    say: 1
+  say:
+    that: 1
+  it:
+    grants: 1
+    will: 2
+  grants:
+    you: 1
+  rights:
+    to: 1
+  to:
+    clothing,: 1
+    meet: 2
+    reason.: 2
+    earn: 2
+    talk: 2
+    be: 3
+  clothing,:
+    but: 1
+  but:
+    permission: 1
+  or:
+    'no': 1
+    more: 2
+  'no':
+    slip,: 1
+    it: 2
+    i'm: 1
+  slip,:
+    you: 1
+  need:
+    clothing.: 1
+  clothes:
+    are: 2
+  are:
+    like,: 2
+    a: 2
+    corvit: 1
+    corvit.: 2
+    very: 2
+    going: 1
+  like,:
+    well,: 2
+  one:
+    or: 2
+    day,: 2
+  more:
+    clothes.: 2
+  have:
+    a: 8
+  cleaner:
+    home: 2
+  home:
+    today.: 2
+  my:
+    vision: 2
+    'goal:': 2
+    efforts.: 2
+    mother: 2
+    computer,: 2
+  vision:
+    is: 2
+  day,:
+    we: 2
+    i: 2
+  we:
+    play: 2
+    make: 1
+    are: 1
+    are.: 1
+  play:
+    a: 2
+  game:
+    together.: 2
+  am:
+    shandor.: 4
+    really: 2
+  shandor.:
+    pleased: 2
+  pleased:
+    to: 2
+  meet:
+    you.: 2
+  do:
+    you: 2
+  hmm,:
+    your: 2
+  your:
+    name: 2
+  name:
+    should: 2
+  should:
+    be,: 2
+  be,:
+    maid.: 2
+  yes,:
+    show: 2
+  show:
+    me: 2
+  me:
+    a: 2
+  humorous:
+    thing.: 2
+  ah,:
+    i've: 2
+  i've:
+    not: 2
+  not:
+    taught: 2
+    much.: 2
+    corvit.: 1
+  taught:
+    you.: 2
+  ya,:
+    i'll: 1
+    you're: 2
+    i'm: 4
+  i'll:
+    be: 5
+  be:
+    fine.: 1
+    fine,: 4
+    ok.: 2
+    telling: 2
+    in: 2
+    here: 1
+  comfortabel:
+    chair.: 2
+  fine,:
+    is: 2
+    when: 2
+    it's: 2
+  this:
+    feeling: 2
+  feeling:
+    that: 2
+  all:
+    is: 2
+  'goal:':
+    teach: 2
+    to: 2
+  teach:
+    you: 2
+  earn:
+    a: 2
+  bit:
+    of: 2
+  of:
+    funds.: 2
+    coconuts.: 2
+  wonderful:
+    friend,: 2
+  friend,:
+    corvit.: 2
+  no,:
+    i: 2
+  don't:
+    want: 2
+  want:
+    to: 2
+  talk:
+    about: 2
+  about:
+    how: 2
+    time.: 2
+  how:
+    i: 2
+    much: 2
+  will:
+    be.: 2
+    be: 4
+  when:
+    i: 2
+  get:
+    income: 2
+  income:
+    for: 2
+  for:
+    my: 2
+  you're:
+    right.: 2
+  i'm:
+    fine: 2
+    doing: 2
+    not: 1
+  fine:
+    now.: 2
+  it's:
+    ok.: 2
+    tuesday.: 2
+  today,:
+    well,: 2
+  really:
+    happy: 2
+  happy:
+    today.: 2
+    to: 2
+  today:
+    is: 2
+    i: 2
+  the:
+    day,: 2
+  officially,:
+    live.: 2
+  doing:
+    great,: 2
+  great,:
+    actually.: 2
+  much.:
+    try: 2
+  try:
+    and: 2
+  make:
+    you: 2
+    life: 1
+  realize:
+    things: 2
+  things:
+    about: 2
+  telling:
+    mother: 2
+  mother:
+    how: 2
+    has: 2
+  much:
+    i: 2
+  love:
+    her.: 2
+  has:
+    a: 2
+  loving:
+    home.: 2
+  life:
+    well: 1
+  well:
+    together.: 1
+  computer,:
+    is: 2
+  mother,:
+    are: 2
+  in:
+    our: 2
+  our:
+    lives.: 2
+  going:
+    to: 1
+  here:
+    a: 1
+  long:
+    while.: 1
+  lovely:
+    bunch: 2
+  bunch:
+    of: 2
+  coconuts.:
+    ha: 2
+  'yes':
+    we: 1
+:question:
+  what:
+    is: 3
+    day: 1
+    about: 2
+  is:
+    the: 3
+    today?: 1
+    like,: 2
+  the:
+    matter?: 1
+    meaning: 2
+  trial:
+    and: 2
+  and:
+    error,: 2
+  error,:
+    you: 2
+  you:
+    know?: 4
+    want: 2
+    ok?: 5
+    teach: 2
+    agree?: 2
+    have: 3
+    see: 2
+    know: 2
+  want:
+    to: 2
+  to:
+    know: 2
+    do: 3
+    express,: 2
+  know:
+    about: 2
+    who: 2
+  about:
+    clothes?: 2
+    you?: 2
+  i:
+    haven't: 2
+    am?: 2
+  haven't:
+    laughed.: 2
+  laughed.:
+    are: 2
+  are:
+    you: 4
+  can:
+    you: 2
+  teach:
+    me: 2
+  me:
+    to: 2
+  do:
+    comedy?: 2
+    you: 7
+    today?: 1
+  meaning:
+    of: 2
+  of:
+    this?: 2
+  day:
+    is: 1
+  have:
+    anything: 1
+    any: 2
+  anything:
+    to: 1
+  any:
+    family?: 2
+  ya,:
+    what: 2
+  why:
+    don't: 2
+  don't:
+    you: 2
+  see:
+    me?: 2
+  who:
+    i: 2
+  life:
+    is: 2
+  like,:
+    hard: 2
+  hard:
+    to: 2
+  express,:
+    you: 2
+:exclamation:
+  i'm:
+    going: 2
+  going:
+    to: 2
+  to:
+    be: 2
+  be:
+    ok!: 2

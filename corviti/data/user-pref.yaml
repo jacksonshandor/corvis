@@ -1,0 +1,23 @@
+---
+User_Intel:
+  emotional_state:
+    :happiness: 0
+    :sadness: 0
+    :anger: 0
+first_person_phrases:
+- My vision is that one day, we play a game together.
+- can you teach me to do comedy?
+- yes, show me a humorous thing.
+- 'my goal: to earn a bit of funds.'
+- I'll be fine, when I get income for my efforts.
+- My mother has a loving home.
+- My computer, is a Dell.
+third_person_phrases:
+- you are Corvit.
+- well, not much. try and make you realize things about time.
+- Why don't you see me?
+- do you know who I am?
+- Life is like, hard to express, you know?
+first_person_goals:
+- to earn a bit of funds.
+third_person_goals: []
