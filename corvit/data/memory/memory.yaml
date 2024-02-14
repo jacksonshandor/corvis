@@ -4,48 +4,75 @@ emotional_state:
   :sadness: 0
   :anger: 0
 :short_term_memory:
-- I live such a high ass fucked up life.
-- Well, the day is sure bright.
-- nothing, I don't get high.
+- How do I solve this?
+- When I try compiling you, there are errors because of the other people's software.
+- At least you're you, ya'know?
 :long_term_memory:
-- Well, the day is sure bright.
-- Well, the day is sure bright.
-- Well, the day is sure bright.
-- nothing, I don't get high.
-- nothing, I don't get high.
-- nothing, I don't get high.
+- I cannot get you to compile.
+- I cannot get you to compile.
+- How do I solve this?
+- How do I solve this?
+- When I try compiling you, there are errors because of the other people's software.
+- When I try compiling you, there are errors because of the other people's software.
+- At least you're you, ya'know?
+- At least you're you, ya'know?
 :word_pair_memory:
   :statement:
+    i've:
+      run: 2
+    run:
+      into: 2
+    into:
+      trouble.: 2
     i:
-      live: 2
-      don't: 2
-    live:
-      such: 2
-    such:
-      a: 2
-    a:
-      high: 2
-    high:
-      ass: 2
-    ass:
-      fucked: 2
-    fucked:
-      up: 2
-    up:
-      life.: 2
-    well,:
-      the: 2
-    the:
-      day: 2
-    day:
-      is: 2
-    is:
-      sure: 2
-    sure:
-      bright.: 2
-    nothing,:
-      i: 2
-    don't:
+      cannot: 2
+      try: 2
+    cannot:
       get: 2
     get:
-      high.: 2
+      you: 2
+    you:
+      to: 2
+    to:
+      compile.: 2
+    when:
+      i: 2
+    try:
+      compiling: 2
+    compiling:
+      you,: 2
+    you,:
+      there: 2
+    there:
+      are: 2
+    are:
+      errors: 2
+    errors:
+      because: 2
+    because:
+      of: 2
+    of:
+      the: 2
+    the:
+      other: 2
+    other:
+      people's: 2
+    people's:
+      software.: 2
+  :question:
+    how:
+      do: 2
+    do:
+      i: 2
+    i:
+      solve: 2
+    solve:
+      this?: 2
+    at:
+      least: 2
+    least:
+      you're: 2
+    you're:
+      you,: 2
+    you,:
+      ya'know?: 2

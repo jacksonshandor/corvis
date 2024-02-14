@@ -18,7 +18,6 @@ class ChatBot
   attr_accessor :emotional_state
 
   def initialize(user_name)
-    load_memory_from_file
     @user_name = user_name
     @user_data = load_user_data
     @short_term_memory = []
@@ -32,6 +31,8 @@ class ChatBot
     @emotional_state = { happiness: 0, sadness: 0, anger: 0 }
     @word_frequency = Hash.new(0)
     @ai_keywords = ["you", "yourself", "yours", "bot", "chatbot"]
+    load_memory_from_file
+
   end
 
   def start_game
@@ -90,7 +91,7 @@ class ChatBot
   def update_markov_chain(input)
     update_short_term_memory(input)
     update_long_term_memory(input)
-    update_word_pair_memory(input, categorize_input(input))
+    update_word_pair_memory(input)
   
     save_user_data
     save_memory_to_file
@@ -100,7 +101,7 @@ class ChatBot
     move_to_long_term_memory(user_input)
     update_long_term_memory(user_input)
     check_and_adjust_short_term_memory if long_term_memory_updated?
-    update_word_pair_memory(user_input , categorize_input(user_input))
+    update_word_pair_memory(user_input)
     #save_user_data
     #save_memory_to_file
   end
@@ -109,7 +110,7 @@ class ChatBot
     @short_term_memory.each do |topic|
       if user_input.downcase.include?(topic.downcase)
         @long_term_memory << topic
-        #@short_term_memory.delete(topic)
+        @short_term_memory.delete(topic)
         return
       end
     end
@@ -121,10 +122,8 @@ class ChatBot
   end
 
   def update_long_term_memory(user_input)
-    unless @long_term_memory.include?(user_input)
-      @long_term_memory << user_input
-      @long_term_memory.shift if @long_term_memory.length > 5
-    end
+    @long_term_memory << user_input
+    @long_term_memory.shift if @long_term_memory.size > 5
   end
 
   def long_term_memory_updated?
@@ -132,22 +131,35 @@ class ChatBot
   end
 
   def check_and_adjust_short_term_memory
-    @short_term_memory.pop if @short_term_memory.count > 3
+    if @short_term_memory.size > 3
+      @short_term_memory.shift(@short_term_memory.size - 3)
+    end
   end
 
-  def update_word_pair_memory(input, category)
-    words = input.downcase.split
+  def update_word_pair_memory(user_input)
+    words = user_input.downcase.split
     words.each_with_index do |word, index|
       next_word = words[index + 1]
       next if next_word.nil? # Skip if there's no next word
-
-      # Use category as the key in the word pair memory
+  
+      # Determine the category of the word
+      category = categorize_input(user_input)
+  
+      # Update word pair memory based on category
       @word_pair_memory[category] ||= {}
-      @word_pair_memory[category][word] ||= Hash.new(0)
-      @word_pair_memory[category][word][next_word] += 1 if  @word_pair_memory[category][word][next_word] != nil
+      @word_pair_memory[category][word] ||= {}
+      @word_pair_memory[category][word][next_word] ||= 0
+      
+      # Increment the count only if the phrase is used again
+      @word_pair_memory[category][word][next_word] += 1 if word_pair_repeated?(category, word, next_word)
     end
-
-    save_memory_to_file
+  end
+  
+  def word_pair_repeated?(category, word, next_word)
+    return false unless @word_pair_memory[category] && @word_pair_memory[category][word]
+  
+    # Check if the next word exists in the word pair memory for the given category and word
+    @word_pair_memory[category][word].key?(next_word)
   end
 
   def save_user_data
@@ -156,51 +168,74 @@ class ChatBot
   end
 
   def save_memory_to_file
-    FileUtils.mkdir_p('data/memory')
-    # Define the file path for memory data
-    memory_file_path = 'data/memory/memory.yaml'
-
-    # Load existing memory data from file if it exists
-    existing_memory_data = File.exist?(memory_file_path) ? YAML.load_file(memory_file_path) : {}
-
-    # Update emotional state in the memory data
-    existing_memory_data['emotional_state'] = @emotional_state
-
-    # Merge existing memory data with current memory data
-    merged_memory_data = existing_memory_data.merge(short_term_memory: @short_term_memory, long_term_memory: @long_term_memory, word_pair_memory: @word_pair_memory)
-
-    # Write the merged memory data to the file
-    File.open(memory_file_path, 'w') { |file| file.write(merged_memory_data.to_yaml) }
+    # Define the file paths for memory data
+    short_term_memory_file_path = 'data/memory/short_term_memory.txt'
+    long_term_memory_file_path = 'data/memory/long_term_memory.txt'
+    word_pair_memory_file_path = 'data/memory/word_pair_memory.yaml'
+  
+    # Append short term memory to file
+    File.open(short_term_memory_file_path, 'w') { |file| file.puts(@short_term_memory.join("\n")) }
+  
+    # Append long term memory to file
+    File.open(long_term_memory_file_path, 'w') { |file| file.puts(@long_term_memory.join("\n")) }
+  
+    # Save word pair memory to file
+    File.open(word_pair_memory_file_path, 'w') { |file| file.write(@word_pair_memory.to_yaml) }
   end
 
   def load_memory_from_file
     # Define the file path for memory data
-    memory_file_path = 'data/memory/memory.yaml'
+    memory_file_path = 'data/memory/word_pair_memory.yaml'
 
     # Load memory data from file if it exists
     if File.exist?(memory_file_path)
-      memory_data = YAML.load_file(memory_file_path)
+      short_term_memory_file_path = 'data/memory/short_term_memory.txt'
+      long_term_memory_file_path = 'data/memory/long_term_memory.txt'
+      word_pair_memory_file_path = 'data/memory/word_pair_memory.yaml'
 
-      # Load emotional state from memory data
-      @emotional_state = memory_data['emotional_state'] || { happiness: 0, sadness: 0, anger: 0 }
+      # Load short term memory from file
+      @short_term_memory = File.exist?(short_term_memory_file_path) ? File.readlines(short_term_memory_file_path).map(&:chomp) : []
 
-      # Load short term memory, long term memory, and word pair memory from memory data
-      @short_term_memory = memory_data['short_term_memory'] || []
-      @long_term_memory = memory_data['long_term_memory'] || []
-      @word_pair_memory = memory_data['word_pair_memory'] || {}
+      # Load long term memory from file
+      @long_term_memory = File.exist?(long_term_memory_file_path) ? File.readlines(long_term_memory_file_path).map(&:chomp) : []
+
+      # Load word pair memory from file
+      @word_pair_memory = File.exist?(word_pair_memory_file_path) ? YAML.load_file(word_pair_memory_file_path) : {}
     else
+      puts("NO FILE FOUND")
       # Initialize memory data and emotional state if the file doesn't exist
       @emotional_state = { happiness: 0, sadness: 0, anger: 0 }
       @short_term_memory = []
       @long_term_memory = []
       @word_pair_memory = {}
     end
+    puts(@short_term_memory)
+  end
+
+  def update_emotional_state(input)
+    words = input.downcase.split
+    if words.include?(@user_name.downcase)
+      # If the user mentions the user's name, lower sadness
+      @emotional_state[:sadness] -= 1
+    elsif words.include?('ai') || words.include?('corvit')  # Add other names the user might refer to the AI as
+      # If the user mentions the AI, raise happiness
+      @emotional_state[:happiness] += 1
+    elsif !short_term_memory_contains_subject?(input)
+      # If the subject is not in the short-term memory, increase sadness
+      @emotional_state[:sadness] += 1
+    end
+  end
+  
+  def short_term_memory_contains_subject?(input)
+    # Check if any word in the input matches the short-term memory
+    @short_term_memory.any? { |topic| input.downcase.include?(topic.downcase) }
   end
 
 
   def get_user_input(input)
     update_markov_chain(input)
     update_user_preferences(input)
+    update_emotional_state(input)
     @interaction_count += 1
   end
 
