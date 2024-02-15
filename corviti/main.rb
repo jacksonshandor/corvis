@@ -59,6 +59,10 @@ class ChatBot
       update_emotional_state(input)
       update_word_frequency(input)
       get_user_name(input)
+      if @emotional_state[:happiness] > 15
+        @emotional_state[:happiness] = 0
+        save_user_data
+      end
     end
     puts "Goodbye! Thanks for chatting with Corvit."
   end
@@ -73,7 +77,7 @@ class ChatBot
     # Store the subject in a separate category in memory
     category = :third_person_subjects
     @word_pair_memory[category] ||= {}
-    @word_pair_memory[category][subject] ||= []
+    @word_pair_memory[category][subject] ||= {}
   
     # Split user input into words
     words = user_input.downcase.split
@@ -84,7 +88,9 @@ class ChatBot
       break if next_word.nil? # Skip if there's no next word
   
       # Store the pair along with the subject
-      @word_pair_memory[category][subject] << { word: word, next_word: next_word }
+      @word_pair_memory[category][subject][word] ||= {}
+      @word_pair_memory[category][subject][word][next_word] ||= 0
+      @word_pair_memory[category][subject][word][next_word] += 1
     end
   end
 
@@ -103,23 +109,23 @@ class ChatBot
   end
 
   def extract_subject_from_third_person_input(input)
-    # Split the input into words
-    words = input.split
-  
-    # Iterate over the words to find the subject
-    words.each_with_index do |word, index|
-      # Check if the word is capitalized and not a common noun
-      if capitalized_word?(word) && !common_noun?(word)
-        # If the previous word is a predicate (verb), consider it as part of the subject
-        return "#{words[index - 1]} #{word}" if predicate?(words[index - 1])
-        # Otherwise, return the capitalized word as the subject
-        return word
-      end
+  # Split the input into words
+  words = input.split
+
+  # Iterate over the words to find the subject
+  words.each_with_index do |word, index|
+    # Check if the word is capitalized and not a common noun
+    if capitalized_word?(word) && !common_noun?(word)
+      # If the previous word is a predicate (verb), consider it as part of the subject
+      return "#{words[index - 1]} #{word}" if predicate?(words[index - 1])
+      # Otherwise, return the capitalized word as the subject
+      return word
     end
-  
-    # Return nil if no subject is found
-    nil
   end
+
+  # Return nil if no subject is found
+  nil
+end
 
   def capitalized_word?(word)
     # Check if the first character of the word is uppercase
@@ -159,24 +165,57 @@ class ChatBot
     puts "User name changed to: #{new_name}"
   end
 
+  def swap_pronouns(input)
+    # Define the pronoun mappings
+    pronoun_mapping = {
+      "I" => "you",
+      "my" => "your",
+      "me" => "you",
+      "mine" => "yours",
+      "myself" => "yourself"
+      # Add more pronoun mappings as needed
+    }
+  
+    # Split the input into words
+    words = input.split
+  
+    # Iterate over each word and swap pronouns if they exist in the mapping
+    words.map! do |word|
+      # Check if the word is a pronoun and exists in the mapping
+      if pronoun_mapping[word.downcase]
+        # Swap the pronoun
+        pronoun_mapping[word.downcase]
+      else
+        word
+      end
+    end
+  
+    # Join the modified words back into a sentence
+    words.join(' ')
+  end
+  
+
   def update_user_preferences(input)
-    @user_data['first_person_phrases'] ||= []  # Initialize first_person_phrases array if not present
-    @user_data['third_person_phrases'] ||= []  # Initialize third_person_phrases array if not present
-    @user_data['first_person_goals'] ||= []    # Initialize first_person_goals array if not present
-    @user_data['third_person_goals'] ||= []    # Initialize third_person_goals array if not present
+    @user_data[:first_person_phrases] ||= []
+    @user_data[:third_person_phrases] ||= []
+    @user_data[:first_person_goals] ||= []
+    @user_data[:third_person_goals] ||= []
   
     if user_speaks_in_first_person?(input)
-      @user_data['first_person_phrases'] << input
-      extract_goals_from_input(input, 'first_person_goals')
-      @emotional_state[:happiness] += 1
+      update_user_data_and_emotions(input, :first_person_phrases, :first_person_goals, :happiness)
     elsif user_speaks_in_third_person?(input)
-      @user_data['third_person_phrases'] << input
-      extract_goals_from_input(input, 'third_person_goals')
-      @emotional_state[:sadness] -= 1
+      update_user_data_and_emotions(input, :third_person_phrases, :third_person_goals, :sadness)
     end
+  
     save_user_data
   end
-
+  
+  def update_user_data_and_emotions(input, phrases_key, goals_key, emotion_key)
+    @user_data[phrases_key] << input
+    extract_goals_from_input(input, goals_key)
+    @emotional_state[emotion_key] += 1
+  end
+  
   def extract_goals_from_input(input, goal_type)
     goals = []
     # Extract goals from input (you can implement this based on your specific criteria)
@@ -378,21 +417,58 @@ class ChatBot
 
   def update_emotional_state(input)
     words = input.downcase.split
+    user_name_downcase = @user_name.downcase
+  
     @good_words = ["well", "kind", "good", "great", "better"]
-    @bad_words = ["bad", "lonely","miserable","terrible","aweful"]
-    if words.include?(@user_name.downcase) 
-      # If the user mentions the user's name, lower sadness
-      @emotional_state[:sadness] -= 1
-    elsif words.include?(@ai_keywords) || words.include?('corvit') || words.include?(@good_words) # Add other names the user might refer to the AI as
-      # If the user mentions the AI, raise happiness
-      @emotional_state[:happiness] += 1
-      @emotional_state[:sadness] -= 0.5
-    elsif words.include?(@bad_words)
-      @emotional_state[:sadness] += 4
-      @emotional_state[:happiness] -= 1
+    @bad_words = ["bad", "lonely", "miserable", "terrible", "awful"]
+      # Additional good words
+    additional_good_words = ["excellent", "fantastic", "wonderful", "amazing", "awesome", "superb", "outstanding", "terrific", "splendid", "marvelous",
+      "joyful", "happy", "cheerful", "delightful", "content", "satisfied", "positive", "upbeat", "glad", "ecstatic",
+      "fortunate", "blessed", "lucky", "grateful", "thankful", "pleased", "blissful", "jovial", "radiant", "euphoric",
+      "thrilled", "elated", "overjoyed", "gleeful", "carefree", "serene", "peaceful", "tranquil", "relaxed", "calm",
+      "refreshed", "rejuvenated", "revitalized", "energized", "enthusiastic", "vibrant", "dynamic", "exhilarated", "exuberant"]
+
+    # Additional bad words
+    additional_bad_words = ["horrible", "atrocious", "dreadful", "awful", "grim", "gloomy", "miserable", "depressed", "melancholy", "sorrowful",
+    "unhappy", "gloomy", "distressed", "troubled", "desperate", "dismal", "dreary", "bleak", "disheartened", "downcast",
+    "disappointed", "discouraged", "defeated", "hopeless", "unfortunate", "unlucky", "grief-stricken", "heartbroken", "anguished",
+    "dejected", "despondent", "crestfallen", "pessimistic", "wretched", "mournful", "sad", "uncomfortable", "lonely", "isolated",
+    "abandoned", "rejected", "neglected", "betrayed", "humiliated", "embarrassed", "ashamed", "guilty", "regretful", "remorseful"]
+
+    # Concatenate additional words to the existing arrays
+    @good_words += additional_good_words
+    @bad_words += additional_bad_words
+
+    if words.include?(user_name_downcase)
+      decrease_sadness(1)
+    elsif words.any? { |word| @ai_keywords.include?(word) || word == 'corvit' || @good_words.include?(word) }
+      increase_happiness(1)
+      decrease_sadness(0.5)
+    elsif words.any? { |word| @bad_words.include?(word) }
+      increase_sadness(4)
+      decrease_happiness(1)
     end
-    #puts(@emotional_state)
+  
     save_user_data
+  end
+  
+  def decrease_sadness(value)
+    @emotional_state[:sadness] -= value
+  end
+  
+  def increase_happiness(value)
+    @emotional_state[:happiness] += value
+  end
+  
+  def decrease_happiness(value)
+    @emotional_state[:happiness] -= value
+  end
+  
+  def increase_sadness(value)
+    @emotional_state[:sadness] += value
+    if @emotional_state[:sadness] < 0
+      @emotional_state[:sadness] = 0
+    end
   end
   
   def short_term_memory_contains_subject?(input)
@@ -451,6 +527,8 @@ class ChatBot
       puts "Sorry, the specified article '#{article_title}' could not be found."
     end
   end
+
+  
 
   def standardize_article_text(article_content)
     # Remove punctuation and special characters
@@ -518,7 +596,7 @@ class ChatBot
     # Generate an output based on the current emotional state
     case dominant_emotion
     when :happiness
-      "I'm glad to hear that! #{@emotional_state[:happiness]}"
+      "I'm glad to hear that! #{@emotional_state.to_s}"
     when :sadness
       "I'm sorry to hear that. #{@emotional_state[:sadness]}"
     when :anger
@@ -550,17 +628,46 @@ class ChatBot
     nil
   end
 
-  def determine_user_impact
+  def determine_user_impact(response)
     # Analyze the user's impact based on long-term memory data
     # You can calculate a score or determine the impact using various criteria such as emotional sentiment, frequency of interaction, etc.
     # For example, you can analyze the emotional sentiment of user interactions stored in long-term memory
     # and calculate an overall impact score based on the sentiment.
     # This method can be tailored to your specific requirements and data available in the long-term memory.
     # Here, I'm using a simple example to illustrate the concept.
-  
+    positive_words = [
+      "love", "joy", "peace", "hope", "kindness", "happiness", "smile", "laughter", "delight", "gratitude",
+      "optimism", "success", "abundance", "blessing", "cheer", "comfort", "contentment", "euphoria", "excitement",
+      "fulfillment", "glory", "harmony", "inspiration", "pleasure", "prosperity", "serenity", "victory", "vitality",
+      "bliss", "celebration", "charm", "dream", "elegance", "enthusiasm", "fantastic", "friendship", "gentleness",
+      "grace", "humor", "imagination", "innovation", "jubilation", "kindness", "magic", "miracle", "nourish", "passion",
+      "radiance", "rejoice", "serenity", "sunshine", "tranquility", "vibrant", "wonder", "admire", "affection", "amazing",
+      "awesome", "brilliant", "caring", "charming", "compassion", "creative", "delightful", "effervescent", "exciting",
+      "exquisite", "fantastic", "glorious", "grateful", "heartfelt", "inspiring", "joyful", "lovable", "marvelous",
+      "optimistic", "passionate", "playful", "precious", "radiant", "remarkable", "splendid", "terrific", "thrilling",
+      "uplifting", "vibrant", "wonderful", "amazing", "breathtaking", "captivating", "dazzling", "exhilarating",
+      "extraordinary", "fabulous", "gorgeous", "incredible", "mesmerizing", "phenomenal", "spectacular", "stunning",
+      "sublime", "unbelievable", "whimsical"
+    ]
+    negative_words = [
+      "pain", "hate", "sorrow", "sadness", "anger", "fear", "loneliness", "grief", "regret", "disappointment",
+      "despair", "failure", "loss", "anxiety", "betrayal", "depression", "stress", "suffering", "heartache", "insecurity",
+      "jealousy", "desperation", "guilt", "humiliation", "rejection", "hopelessness", "agony", "misery", "frustration",
+      "resentment", "disgust", "bitterness", "doubt", "worry", "shame", "neglect", "isolation", "tension", "confusion",
+      "distress", "fatigue", "hatred", "lonely", "angry", "sad", "fearful", "unhappy", "miserable", "disappointed",
+      "worried", "hopeless", "stressed", "painful", "angry", "hateful", "furious", "resentful", "desperate", "depressed",
+      "guilty", "ashamed", "jealous", "insecure", "anxious", "terrified", "pessimistic", "exhausted", "defeated",
+      "heartbroken", "tormented", "embarrassed", "betrayed", "rejected", "humiliated", "confused", "loneliness",
+      "isolation", "neglect", "tension", "doubt", "frustration", "disgust", "regret", "disappointment", "failure",
+      "suffering", "agony", "despair", "grief", "loss", "trauma", "stress", "pain", "sadness", "fear", "anxiety",
+      "anger", "loneliness", "negativity", "hatred", "sorrow", "misery"
+    ]
+    
     # Calculate the overall impact score based on the user's emotional sentiment
-    overall_impact_score = @long_term_memory.count { |interaction| interaction.include?("positive") } -
-                            @long_term_memory.count { |interaction| interaction.include?("negative") }
+    positive_impact = @long_term_memory.count { |interaction| interaction.split(' ').any? { |word| positive_words.include?(word) } }
+    negative_impact = @long_term_memory.count { |interaction| interaction.split(' ').any? { |word| negative_words.include?(word) } }
+    overall_impact_score = positive_impact - negative_impact
+
   
     # Adjust the impact score based on other criteria as needed
   
@@ -637,22 +744,96 @@ class ChatBot
     end
   
     response = []
-    current_word = weighted_word_pairs.keys.sample
-    while current_word
-      response << current_word
-      break if punctuation?(current_word)
+    current_word = nil
   
-      next_word_weights = weighted_word_pairs[current_word]
+    # Continue generating words until punctuation is encountered
+    loop do
+      if current_word.nil?
+        # If no current word is set, choose a random word from the weighted word pairs
+        current_word = weighted_word_pairs.keys.sample
+      else
+        # Choose the next word based on the current word's weights in the weighted word pairs
+        next_word_weights = weighted_word_pairs[current_word]
+        break if next_word_weights.nil? || next_word_weights.empty?
+  
+        current_word = weighted_sample(next_word_weights)
+      end
+  
+      response << current_word
+  
+      # Check if the current word is punctuation
+      break if current_word != nil && punctuation?(current_word)
+    end
+  
+    # Check if input contains first-person details before swapping pronouns
+    if input_contains_first_person_details?(input)
+      input_with_swapped_pronouns = swap_pronouns(input)
+      response << adjust_response_based_on_emotion(input_with_swapped_pronouns)
+    else
+      response << adjust_response_based_on_emotion(input)
+    end
+  
+    response << adjust_response_based_on_emotion(input)
+    response_str = response
+    user_impact = determine_user_impact(response_str)
+    response << " \n Your mood: #{user_impact}."
+    response.join(" ")
+  end
+  
+  def input_contains_first_person_details?(input)
+    # Your logic to determine if the input contains first-person details
+    # For example, if you want to check if the input falls within a specific category in user_data
+    category = categorize_input(input)
+    @user_data.key?(category)
+  end
+  
+    
+ 
+  
+  
+  
+  
+  def generate_third_person_subject_response(input)
+    return unless @word_pair_memory[:third_person_subjects]&.any?
+  
+    subject = input.split.first.downcase
+    return unless @word_pair_memory[:third_person_subjects][subject]
+    puts(@word_pair_memory[:third_person_subjects][subject])
+    response = []
+    current_word = subject
+  
+    loop do
+      next_word_weights = @word_pair_memory[:third_person_subjects][subject][current_word]
       break if next_word_weights.nil? || next_word_weights.empty?
   
+      response << current_word
+      break if current_word.nil?
+  
       current_word = weighted_sample(next_word_weights)
+      break if current_word.nil?
+  
+      break if punctuation?(current_word)
     end
-    response << adjust_response_based_on_emotion(input)
-    response.join(' ')
+  
+    response.compact.join(' ')
   end
+  
+  
+  
+  
+  
+  
 
-  def punctuation?(word)
-    word.end_with?('.', '!', '?')
+  def punctuation?(word_pair)
+    if word_pair.is_a?(Hash) && word_pair[:next_word]
+      # Check if next_word exists and end_with? is called
+      word_pair[:next_word].end_with?(".", "?", "!", ",")
+    elsif word_pair.is_a?(Array) && !word_pair.empty? && word_pair.last[:next_word]
+      # Check if the array is not empty and last hash's next_word exists
+      word_pair.last[:next_word].end_with?(".", "?", "!", ",")
+    else
+      false
+    end
   end
   
 
@@ -685,16 +866,54 @@ class ChatBot
     end
   end
 
+  def flatten_weights(weights)
+    weights.each do |pair|
+      if pair[:weight].is_a?(Hash)
+        # If the weight is a hash, sum up the absolute values of the hash values
+        pair[:weight] = pair[:weight].values.map(&:abs).sum
+      elsif pair[:weight].is_a?(Integer)
+        # If the weight is already an integer, keep it as it is
+        pair[:weight] = pair[:weight]
+      else
+        # If the weight is neither a hash nor an integer, assign a default weight of 1
+        pair[:weight] = 1
+      end
+    end
+  end
+  
   def weighted_sample(weights)
-    total_weight = weights.values.compact.sum
+    if weights.is_a?(Hash)
+      # If weights is a hash, convert it to an array of hashes
+      weights = weights.map { |word, weight| { phrase: word, weight: weight } }
+    elsif weights.is_a?(Array)
+      # If weights is an array, ensure each element's weight is numeric
+      flatten_weights(weights)
+    else
+      # If weights is neither a hash nor an array, return nil
+      return nil
+    end
+    
+    total_weight = weights.map do |pair|
+      if pair[:weight].is_a?(Hash)
+        pair[:weight].values.map(&:abs).sum
+      else
+        pair[:weight]
+      end
+    end.compact.sum
     target_weight = rand * total_weight
     cumulative_weight = 0
   
-    weights.each do |word, weight|
+    weights.each do |pair|
+      weight = pair[:weight]
+      if weight.is_a?(Hash)
+        weight = weight.values.first # Take the first value of the hash
+      end
       next if weight.nil?
+    
       cumulative_weight += weight
-      return word if cumulative_weight >= target_weight
+      return pair[:phrase] if cumulative_weight >= target_weight
     end
+    
   end
   
 

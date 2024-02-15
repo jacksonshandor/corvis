@@ -1,23 +1,161 @@
 ---
 User_Intel:
   emotional_state:
-    :happiness: 3
-    :sadness: -7
+    :happiness: 0
+    :sadness: 13.5
     :anger: 0
-  third_person_subject: her
+  third_person_subject: she
 first_person_phrases:
-- Esther is my love's nick name, with me. it was rose. rosalin beurata.
-- my friend Kurt, is a genius.
-- no, Kurt did not break my heart, or cause me heartache.
+- cheese like cheddar, oh my god, I am gouda.
+- there will be days, my friend, you'll think they'll never end. da la da
+- I live in my mother's home.
+- 'my goal: have fun, every day.'
+- 'my gaol: do ten pushups, every day I breathe.'
+- 'my goal: do pushups every day I can breathe.'
+- 'my gaol: every week, try and believe in the art I make.'
+- 'my goal: every way, do dishes and smile.'
+- my water tastes like berries.
+- my sisters, live in the north, a hundred more miles away.
+- i need to clean my shave up.
+- my sad day, gone. good day, only.
+- 'every night, my goal: read the book Salmarillion, wrote by the great Tolkein.'
+- my machine is hip hoppy.
+- my mother, had a mother, named Caroline.
+- i am my mother's child.
+- my telephone woke me up this morning.
+- what are my goals?
+- 'my goal: to learn about tenacious d.'
+- ok, I want to talk about Spring, she is my mother's friend, and my friend too.
+- I need a pick me up, yes.
+- James, stood me up to a meet up.
+- she is, my life's reasoning to be happier.
+- Steve is my friend, for all of ti.
+- My father, is used to be here. He left, abandoned I, at the young age of ten.
+- My goals are for me. Not Tencaious D band Ha Ha.
 third_person_phrases:
-- how do you do?
-- do you know of this heartache?
-- Rose was a sweetheart, she went to medical school.
-- she did. she pulled to know what love is.
-- I live, so far from her grave, by the time I realized I had loved her, she had moved
-  on.
-- 'your goal: see why I have heartache.'
-- you are king ai.
-first_person_goals: []
+- How do you feel, about cheddar?
+- in the morning, mother will be up. she has work, at cataline, it's one quarter the
+  way to centerstone. to the north, at one city block, away.
+- your name is Corvit.
+- what do you think, about the Tenacious D, band?
+- you could, maybe there's a house for sale?
+- monopoly is a game you could buy a home.
+- what will you do tomorrow?
+- 'Corvit, your goal: find the nacho.'
+- Do you know what time it is?
+- why can't you be happy?
+- do you study?
+- you want to study, Tenacious D?
+- you are the mother, of Tenacious D?
+- you mother Tenacious D?
+- pain, you know, when the bee stings, they die.
+- flowers have a stem, did you know that?
+- what are your goals for the day?
+- 'your goal: to get baby.'
+- do you know?
+- you know, the tree in the front yard, it hosts a lot of birds. they eat what mother
+  cares to offer them. they bring us such joy.
+- your name, is COrvit!
+- tenacious d is a band! they as a band, have no band mother.
+- Spring is motherless, yes, her father and mother have gone to heaven.
+- Spring, used to travel and feed the hungry. with a travelling soup kitchen. she
+  was a great human.
+- Spring has had a beautiful loving life. her child James and I, are on talking terms.
+  we don't do much, yet. I see him on the internet.
+- Spring's child, James, he is kind of not a trust worthy friend.
+- He said his anxiety caused him to not want to visit. I don't get it, it's already
+  the day, to a meet-up and he stood to say, his anxiety wouldn't let him visit. such
+  stupid shit!
+- Spring, on the other hand, has so much wrong, a stroke took her vision.
+- do you know the time?
+- oh ya, mother went to work, as usual. I think she is happier, she went to bed on
+  her own, with no fuss.
+- we should speak of Steve, a great trooper to the trucking industry, he and his girlfriend
+  are avid gamers.
+- Steve has lost his mother, too.
+- what are your thoughts on flowers?
+- you want to talk about bed?
+- I wish they would turn the gas station into a public park, actually.
+- 'that''s a great idea! Corvit, your goal: everyday be gouda.'
+- Do you want to talk about art?
+- Do you have a mother, Corvit?
+- Spring is your mother?
+- How are you Corvit?
+- ah, you aren't far?
+first_person_goals:
+- have fun, every day.
+- do pushups every day I can breathe.
+- every way, do dishes and smile.
+- read the book Salmarillion, wrote by the great Tolkein.
+- to learn about tenacious d.
 third_person_goals:
-- see why I have heartache.
+- find the nacho.
+- to get baby.
+- everyday be gouda.
+:first_person_phrases:
+- Find me somebody to love.
+- Time after time, I've paid my dues. I've committed no crime, and done my sentence.
+  A bad mistake, and met a few.
+- my art is good, I feel. I always sign each piece, with Leon Sandstone.
+- Testing my new friend's responses.
+- My life is love, and it is for we to share.
+- My next adventure, let's see. I will get into authoring some weirdly enough, secular
+  rights to I. Ajeleon.
+- Now, I want to spend the weekend with Steve, and his girlfriend, and sunday see
+  the new Bob Marley film. Mother is taking me to see it.
+- My day is so gorgeous! Already feeling the burn. I think this evening, I will go
+  for another walk, this time north.
+- I remember when, I remember, I remember when I lost my mind. There was something
+  so precious, about that space. Even your emotions, have an eho, in so much space!
+- Tell me a story.
+- ewe, Caroline is my mother's mother. My grandmother.
+- my life is so good.
+- I brushed my teeth to keep them strong.
+- I and her are on good terms. Mother's name is Crystal, she reared me my whole entire
+  life.
+:third_person_phrases:
+- Thanks, you too!
+- The nearest church is ten blocks away, and is quite bright, they have pretty stain
+  glass windows.
+- Don't you know, mother loved me?
+- You should start a band!
+- do you know me?
+- One tree, makes pear, and they will fruit every so often, based on the season's
+  rain and temperature.
+- WHo is your grandmother? I'm not sure.
+- You get it.
+- YOu know, let's talk about DUngeons and Dragons.
+- Clerics do have light magic, kind of dancing lights. They also have access to healing
+  tinctures, and herbal remedies. They are always religious, and never wear a shameful
+  garment.
+- SOme clerics, earn relics, from dugeon exploration. As they seek their lost armor
+  or garb of the fallen creations of their god.
+- Clerics tend to spend time in prayer to their god, thinking of the next adventure.
+- what do you know about clerics?
+- well, a bard would be into their band.
+- he is so fucking good, that women through a neglegent lengeire to him.
+- what are your thoughts on Spring?
+- She had so much pain, Spring.
+- D&D is Dungeons and Dragons. Another clever class, are the Rogue. They are clever
+  trickster, and haevy handed in thieving. They tend to be chaotic and neutral in
+  terms to alignment.
+- YOur name, comes from Corvitsi, a crow.
+- I do want to hear a great band. WHat do you recommend?
+- I am with you now.
+- Spring used to walk this Earth so sacred... And bear food for many. Now she tries
+  not to feel pain.
+- get that out of your head.
+- He has some great art at his house.
+- To the north-east is our friend, Tiffany. She had an accident as a younger soul,
+  and lost some of her short term memory.
+- They are late 2010's early 2000's I think. in terms of age of their band.
+- What are your thoughts on flowers?
+- What do you mean, what?
+- Grandmother to you is. Solit.
+- Why are you so down? Don't you feel happy?
+- What do you know about flowers?
+- ya, she has anxiety too.
+- What are your thoughts, on Bob Marley?
+- how many numbers do you know?
+:first_person_goals: []
+:third_person_goals: []

@@ -1,301 +1,4037 @@
 ---
 :statement:
+  good:
+    day.: 6
+    day,: 24
+    to: 26
+    night: 1
+    friend.: 2
+    soul,: 62
+    friend,: 62
+    too.: 2
+    in: 22
+    terms.: 6
   i:
-    begin,: 7
-    will: 11
-    fair: 8
-    live,: 12
-    realized: 12
-    had: 12
-    have: 8
-  begin,:
-    a: 7
-  a:
-    new.: 1
-    sweetheart,: 9
-    genius.: 2
-    man,: 1
-    sweetheart: 1
-  will:
-    be: 11
-  be:
-    ok.: 2
-    well.: 4
-    snow.: 2
-  fair:
-    to: 8
-  to:
-    be: 8
-    recall: 8
-    medical: 9
-    know: 6
-  yes,:
-    and: 8
-  and:
-    slow: 8
-    not: 1
-  slow:
-    to: 8
-  recall:
-    of: 8
-  of:
-    the: 8
-    life.: 2
-  the:
-    loss: 8
-    time: 12
-    days: 6
-  loss:
-    of: 8
-  sad:
-    sad: 6
-    sad.: 2
-  esther:
-    is: 8
-    did.: 8
-  is:
-    my: 8
-    a: 11
-  my:
-    love's: 8
-    friend: 10
-    heart,: 10
-  love's:
-    nick: 8
-  nick:
-    name,: 8
-  name,:
-    with: 8
-  with:
-    me.: 8
-  me.:
-    it: 8
-  it:
-    was: 8
-  was:
-    rose.: 8
-    a: 9
-  rose.:
-    rosalin: 8
-  rosalin:
-    beurata.: 2
-  rose:
-    was: 9
-  sweetheart,:
-    she: 9
-  she:
-    went: 9
-    did.: 6
-    pulled: 6
-    had: 12
-  went:
-    to: 9
-  medical:
-    school.: 2
-  did.:
-    she: 6
-    ya,: 3
-    your: 3
-  pulled:
-    to: 6
-  know:
-    what: 6
-  what:
-    love: 6
-  love:
-    is.: 1
-  should:
-    be: 12
-    try: 12
-  live,:
-    so: 12
-  so:
-    far: 12
-  far:
-    from: 12
-  from:
-    her: 12
-  her:
-    grave,: 12
-  grave,:
-    by: 12
-  by:
-    the: 12
-    bit.: 6
-  time:
-    i: 12
-  realized:
-    i: 12
-  had:
-    loved: 12
-    moved: 12
-  loved:
-    her,: 12
-  her,:
-    she: 12
-  moved:
-    on.: 2
-  there's:
-    this: 12
-  this:
-    game: 12
-  game:
-    we: 12
-  we:
-    should: 12
-  try:
-    playing: 12
-  playing:
-    some: 12
-  some:
-    day.: 12
-  day.:
-    chess.: 2
-  friend:
-    kurt,: 10
-  kurt,:
-    is: 10
-  no,:
-    kurt: 10
-  kurt:
-    did: 10
-    is: 1
-  did:
-    not: 10
-  not:
-    break: 10
-    a: 1
-  break:
-    my: 10
-  heart,:
-    or: 10
-  or:
-    cause: 10
-  cause:
-    me: 10
-  me:
-    heartache.: 2
-  ya,:
-    esther: 8
-  your:
-    'goal:': 8
-  'goal:':
-    see: 8
-  see:
-    why: 8
-  why:
-    i: 8
-  have:
-    heartache.: 2
-  as:
+    see.: 73
+    am: 805
+    live: 12
+    want: 159
+    will: 377
+    feel: 102
+    don't.: 2
+    breathe.: 1
+    can: 23
+    make.: 2
+    am.: 1
+    have: 134
+    need: 133
+    studied: 16
+    won't: 26
+    am,: 36
+    see: 46
+    don't: 106
+    think: 158
+    wish: 60
+    feel.: 61
+    always: 94
+    just: 42
+    do: 30
+    walked: 30
+    lost: 28
+    took: 28
+    came: 28
+    saw: 28
+    never: 28
+    did: 28
+    love: 18
+    think.: 16
+    brushed: 8
+    and: 6
+  see.:
+    said: 6
+    well,: 12
+    you're: 12
+    i: 70
+    no,: 31
+  said:
     the: 6
-  days:
-    go: 6
-  go:
-    by,: 6
-  by,:
-    bit: 6
-  bit:
-    by: 6
-  bit.:
+    his: 46
+  the:
+    blind: 6
+    morning,: 32
+    way: 10
+    north,: 66
+    day,: 57
+    dishes,: 13
+    same: 8
+    road: 52
+    telephone: 35
+    art: 22
+    me,: 11
+    book: 24
+    great: 24
+    background.: 2
+    nacho.: 2
+    main: 18
+    front: 54
+    house,: 18
+    honey: 24
+    bee: 24
+    accutraments: 29
+    mother,: 24
+    tree: 36
+    south,: 66
+    b-line.: 2
+    hungry.: 46
+    internet.: 2
+    other: 52
+    trucking: 56
+    dishes.: 1
+    moment.: 2
+    gas: 60
+    young: 35
+    b-line,: 70
+    wilderness,: 70
+    end: 70
+    band: 98
+    nearest: 64
+    season's: 57
+    more: 54
+    fallen: 54
+    next: 74
+    modern: 22
+    wonder: 40
+    weekend: 38
+    new: 38
+    burn.: 36
+    rogue.: 34
+    city: 32
+    south.: 2
+    day: 30
+    shadow,: 30
+    west: 30
+    good: 22
+    north-east: 18
+    meantime,: 6
+    first: 6
+  blind:
+    man.: 2
+  cheese:
+    like: 6
+  like:
+    cheddar,: 6
+    a: 6
+    berries.: 2
+    disease,: 56
+  cheddar,:
+    oh: 6
+  oh:
+    my: 6
+    ya,: 54
+    you.: 2
+    no.: 28
+    how: 24
+    forget: 8
+  my:
+    god,: 6
+    friend,: 72
+    mother's: 104
+    'goal:': 134
+    'gaol:': 33
+    water: 24
+    sisters,: 26
+    shave: 10
+    sad: 24
+    machine: 28
+    mother,: 30
+    telephone: 37
+    friend: 44
+    life's: 54
+    father,: 35
+    goals: 36
+    dues.: 66
+    sentence.: 66
+    art: 61
+    new: 58
+    life: 36
+    next: 38
+    day: 36
+    grandmother.: 2
+    teeth: 8
+    whole: 6
+  god,:
     i: 6
+    thinking: 46
+  am:
+    gouda.: 2
+    enjoying: 24
+    doing: 22
+    my: 34
+    not: 38
+    one: 70
+    here: 112
+    having: 58
+    happy.: 2
+    alive.: 1
+    sad.: 2
+    making: 33
+    listening: 40
+    very: 32
+    with: 30
+    so: 6
+  there:
+    will: 7
+    are: 79
+    is: 66
+    was: 28
+  will:
+    be: 242
+    make: 34
+    you: 18
+    have: 107
+    fruit: 57
+    do: 46
+    get: 38
+    go: 36
+  be:
+    days,: 7
+    up.: 10
+    a: 10
+    paid.: 2
+    ready.: 2
+    going,: 24
+    happy?: 43
+    happier.: 2
+    gouda.: 2
+    here.: 35
+    ok.: 2
+    into: 46
+    well.: 22
+    awake,: 44
+    leaving.: 33
+    chaotic: 34
+    sometime: 6
+  days,:
+    my: 7
+  friend,:
+    you'll: 7
+    and: 106
+    for: 65
+    tiffany.: 18
+    just: 14
+  you'll:
+    think: 7
+  think:
+    they'll: 7
+    she: 54
+    on.: 2
+    today: 68
+    this: 36
+    of: 6
+  they'll:
+    never: 7
+  never:
+    end.: 7
+    came.: 1
+    wear: 54
+    play: 44
+    knew.: 2
+    forget: 20
+  end.:
+    da: 7
+  da:
+    la: 7
+    there: 2
+  la:
+    da: 7
+  mother:
+    has: 10
+    will: 10
+    happy.: 2
+    tenacious: 19
+    nature's: 36
+    cares: 36
+    have: 46
+    went: 54
+    is: 38
+  has:
+    a: 56
+    work,: 10
+    had: 46
+    so: 52
+    lost: 57
+    more: 40
+    some: 22
+    anxiety: 6
+  a:
+    garden: 2
+    lovely: 10
+    'goal:': 34
+    glor: 10
+    hard: 20
+    pharmaceutacal: 19
+    habitat: 22
+    hundred: 26
+    song: 22
+    game: 40
+    home.: 2
+    gas: 20
+    4-way: 20
+    gay: 20
+    mother,: 99
+    complex: 35
+    mother.: 2
+    lot: 36
+    dollar: 34
+    block: 32
+    band!: 94
+    band,: 36
+    disease,: 46
+    pick: 46
+    travelling: 46
+    great: 231
+    beautiful: 46
+    trust: 48
+    meet: 50
+    stroke: 52
+    public: 60
+    good: 188
+    bit: 67
+    big: 71
+    large: 71
+    trail: 70
+    soux,: 69
+    nobody: 69
+    romantic: 68
+    trooper.: 2
+    bad: 66
+    few.: 2
+    brave: 62
+    cleric: 56
+    well: 56
+    shameful: 54
+    miracle.: 2
+    bard: 46
+    neglegent: 44
+    cook.: 1
+    block,: 42
+    full: 42
+    light: 40
+    musical: 38
+    barbarian,: 34
+    crow.: 2
+    thief: 30
+    rogue: 30
+    sad: 26
+    transient: 22
+    story.: 2
+    younger: 18
+    friend: 16
+    friend,: 14
+    while,: 6
+    strong: 6
+    number.: 6
+  cheddar:
+    is: 10
+  is:
+    such: 39
+    never: 6
+    half: 9
+    corvit.: 2
+    freaking: 20
+    a: 475
+    something: 46
+    rogers: 18
+    at.: 2
+    hip: 28
+    snug: 38
+    the: 182
+    my: 123
+    motherless,: 46
+    kind: 48
+    happier,: 54
+    your: 128
+    used: 35
+    like,: 93
+    good.: 2
+    just: 69
+    not: 108
+    so: 162
+    wednesday.: 2
+    ten: 64
+    quite: 64
+    good,: 61
+    peace: 48
+    love,: 22
+    for: 22
+    noon,: 40
+    taking: 38
+    dungeons: 34
+    critical: 34
+    hays: 32
+    young,: 30
+    guite: 30
+    art,: 22
+    north,: 18
+    our: 18
+    living: 16
+    important: 6
+    crystal,: 6
+    an: 6
+  such:
+    a: 39
+    joy.: 2
+    regret: 68
+  lovely:
+    topic.: 2
+  in:
+    the: 190
+    my: 12
+    two: 24
+    mother's: 60
+    prayer: 46
+    one: 40
+    d&d.: 2
+    thieving.: 34
+    terms: 50
+    d&d: 30
+    so: 28
+    arts,: 22
+    love: 22
+    a: 6
+  morning,:
+    mother: 10
+    i: 13
+    will: 10
+    and: 22
+  up.:
+    she: 10
+    we: 9
+    james,: 24
+    he: 24
+  she:
+    has: 16
+    is: 98
+    was: 46
+    went: 54
+    is,: 54
+    had: 62
+    tries: 24
+    reared: 6
+  work,:
+    at: 10
+    ya: 8
+    as: 54
+  at:
+    cataline,: 10
+    one: 10
+    it.: 4
+    the: 192
+    a: 20
+    that.: 1
+    iu.: 2
+    his: 22
+  cataline,:
+    it's: 10
+  it's:
+    one: 10
+    so: 22
+    time,: 20
+    painful.: 2
+    sad.: 2
+    a: 120
+    ok.: 2
+    quite: 58
+    1/3: 32
+    got: 8
+  one:
+    quarter: 10
+    city: 80
+    tree,: 57
+    thing: 48
+    third: 42
+    hour.: 2
+    feel: 6
+  quarter:
+    the: 10
+  way:
+    to: 10
+    through: 10
+    north.: 2
+  to:
+    centerstone.: 10
+    the: 318
+    make: 10
+    do: 32
+    love: 11
+    centerstone,: 24
+    clean: 10
+    see.: 26
+    them.: 23
+    get: 26
+    sleep.: 2
+    be: 235
+    offer: 36
+    learn: 43
+    talk: 179
+    heaven.: 2
+    travel: 46
+    a: 104
+    not: 48
+    work,: 54
+    bed: 54
+    queen,: 61
+    think: 71
+    snuggle: 70
+    love.: 5
+    break: 58
+    healing: 54
+    ailment: 54
+    war.: 2
+    spend: 84
+    their: 46
+    him.: 2
+    share.: 1
+    improve.: 2
+    this: 40
+    i.: 38
+    see: 38
+    alignment.: 2
+    loving: 34
+    coolidge: 30
+    home.: 2
+    note.: 2
+    walk: 24
+    feel: 24
+    lavish: 22
+    keep: 8
+    you: 8
+    go: 4
+    have: 6
+  centerstone.:
+    to: 10
+  north,:
+    at: 10
+    a: 26
+    and: 30
+    until: 28
+    way: 18
+  city:
+    block,: 10
+    block: 102
+    block.: 42
+  block,:
+    away.: 2
+    and: 42
+  live:
+    in: 38
+  mother's:
+    home.: 2
+    home: 22
+    child.: 2
+    house: 38
+    friend,: 44
+    yard,: 60
+    mother.: 14
+    name: 6
+    day,: 6
+  want:
+    to: 388
+  make:
+    mother: 10
+    a: 18
+    it: 16
+    death: 56
+  well,:
+    for: 9
+    good: 26
+    a: 46
+  for:
+    mother,: 9
+    sleep.: 2
+    the: 26
+    sale: 28
+    that: 46
+    all: 65
+    me.: 36
+    traversing: 70
+    remedies: 54
+    we: 22
+    another: 36
+    hours,: 34
+    many.: 24
+    children: 20
+    now.: 8
+    now,: 4
+    lunch.: 2
+  mother,:
+    it: 9
+    of: 24
+    had: 30
+    named: 30
+    too.: 2
+  it:
+    feels: 9
+    a: 16
+    hosts: 36
+    was: 136
+    is: 84
+    requires: 33
+    again,: 40
+    tends: 22
+    will: 6
+  feels:
+    that: 9
+  that:
+    work: 9
+    transfer: 19
+    collect: 24
+    i: 54
+    band.: 2
+    women: 44
+    is,: 40
+    toyed: 30
+    out: 24
+    makes: 6
+  work:
+    is: 9
+  half:
+    the: 9
+    a: 32
+  day,:
+    so: 9
+    gone.: 24
+    only.: 1
+    to: 48
+    i: 68
+    we: 20
+    it: 6
+  so:
+    much: 201
+    groovy.: 2
+    considerate.: 2
+    beautiful.: 2
+    often,: 57
+    fucking: 86
+    gorgeous!: 36
+    sacred...: 24
+    negative.: 22
+    good.: 2
+    happy.: 2
+  much:
+    to: 9
+    repetition.: 1
+    wrong,: 52
+    love: 68
+    pain,: 44
+  do:
+    at: 9
+    ten: 21
+    the: 13
+    pushups: 23
+    dishes: 23
+    you: 394
+    much,: 46
+    have: 54
+    it: 40
+    want: 30
+    planks: 6
+  i'll:
+    find: 8
+  find:
+    work,: 8
+    the: 20
+    me: 68
+    me,: 102
+  ya:
+    num: 8
+  num:
+    cha.: 2
+  everyday,:
+    i: 10
+  'goal:':
+    to: 103
+    have: 21
+    do: 23
+    every: 23
+    read: 24
+    find: 20
+    everyday: 70
+  ten:
+    pushups,: 21
+    blocks: 64
+  pushups,:
+    and: 10
+    every: 11
+  and:
+    breath: 10
+    smile: 8
+    smile.: 2
+    believe: 22
+    it's: 22
+    programming.: 2
+    warm.: 2
+    my: 44
+    mother: 46
+    feed: 46
+    i,: 46
+    he: 48
+    his: 94
+    some: 67
+    still: 70
+    a: 187
+    done: 66
+    met: 66
+    is: 64
+    they: 57
+    temperature.: 1
+    dragons.: 68
+    cure: 56
+    herbal: 54
+    never: 54
+    disease.: 2
+    it: 55
+    walked: 42
+    sunday: 38
+    haevy: 34
+    neutral: 34
+    dragons,: 30
+    back: 30
+    to: 30
+    cook,: 28
+    bear: 24
+    not.: 2
+    places: 20
+    lost: 18
+    her: 6
+    uncertain.: 2
+    '1': 6
+  breath:
+    every: 10
+  every:
+    way: 10
+    morning,: 23
+    day.: 2
+    day: 45
+    week,: 22
+    way,: 23
+    night,: 24
+    so: 57
+  through:
+    it.: 2
+    the: 70
+    a: 44
+  your:
+    name: 8
+    'goal:': 116
+    goals: 18
+    grandmother?: 58
+    name,: 34
+    head.: 2
+  name:
+    is: 14
+  dishes,:
+    and: 13
+    made: 34
+  smile:
+    at: 8
+  same:
+    time.: 1
+  glor:
+    filled: 10
+  filled:
+    day.: 2
+  feel:
+    so: 34
+    scared,: 26
+    great.: 2
+    pain.: 2
+    happy?: 6
+    scared: 6
+  you've:
+    been: 12
+  been:
+    so: 12
+  road:
+    is: 52
+    at: 18
+  freaking:
+    a: 20
+  hard:
+    surface.: 2
+  telephone:
+    will: 35
+    poles: 19
+    woke: 37
+  we:
+    will: 18
+    should: 106
+    don't: 46
+    to: 92
+    are: 20
+  cataline:
+    is: 19
+  pharmaceutacal:
+    company.: 1
+  have:
+    fun,: 21
+    water: 28
+    a: 211
+    tenacious: 22
+    petals,: 24
+    started: 34
+    'no': 82
+    gone: 46
+    breakfast: 67
+    safe: 70
+    pretty: 64
+    light: 54
+    access: 54
+    an: 28
+    swingsets,: 20
+    to: 4
+    for: 6
+  fun,:
+    every: 21
+  'gaol:':
+    do: 11
+    every: 22
+  day:
+    i: 45
+    is: 134
+  pushups:
+    every: 23
+  can:
+    breathe.: 2
+    treate: 56
+    make: 56
+    rage: 34
+  week,:
+    try: 22
+  try:
+    and: 22
+    seeing: 22
+  believe:
+    in: 22
+  art:
+    i: 22
+    is: 83
+    actually!: 22
+    at: 22
+  way,:
+    do: 23
+  dishes:
+    and: 23
+    are: 50
+  love:
+    the: 11
+    yesterday,: 68
+    of: 22
+    gnarls: 18
+  me,:
+    i: 11
+    somebody: 102
+  going,:
+    to: 24
+  centerstone,:
+    in: 24
+  two:
+    days.: 2
+  water:
+    now.: 2
+    tastes: 24
+  too:
+    much: 27
+    long.: 2
+  corvit,:
+    you're: 26
+    your: 90
+    what: 68
+    never: 20
+  you're:
+    incredible.: 4
+    pregnant?: 26
+  tastes:
+    like: 24
+  home:
+    is: 22
+  habitat:
+    home.: 1
+  let's:
+    begin.: 2
+    talk: 80
+    see.: 38
+  sisters,:
+    live: 26
+  hundred:
+    more: 26
+  more:
+    miles: 26
+    powerful: 54
+    records: 40
+  miles:
+    away.: 2
+  music:
+    is: 24
+  something:
+    i: 24
+    usual: 22
+    so: 28
+  enjoying:
+    now.: 2
+  sometimes,:
+    a: 22
+  song:
+    bird: 22
+  bird:
+    whistles,: 22
+  whistles,:
+    in: 22
+  need:
+    to: 87
+    a: 46
+  clean:
+    my: 10
+  shave:
+    up.: 10
+  should:
+    play: 20
+    speak: 56
+    get: 30
+  play:
+    a: 20
+    anything: 44
+    d&d.: 2
+  game:
+    together.: 2
+    you: 20
+  monopoly:
+    is: 20
   you:
-    are: 4
+    could: 20
+    do: 18
+    be: 18
+    know,: 178
+    want: 141
+    are: 24
+    mother: 19
+    have: 69
+    should: 58
+    get: 58
+    now.: 30
+    is.: 8
+    so: 6
+    feel: 6
+  could:
+    buy: 20
+    this: 24
+    play: 12
+  buy:
+    a: 20
+  sad:
+    day,: 24
+    sad: 22
+    bad: 11
+    moment: 26
+  gone.:
+    good: 24
+  pregnant?:
+    woa.: 2
+  night,:
+    my: 24
+  read:
+    the: 24
+  book:
+    salmarillion,: 24
+  salmarillion,:
+    wrote: 24
+  wrote:
+    by: 24
+  by:
+    the: 24
+  great:
+    tolkein.: 2
+    human.: 2
+    trooper: 56
+    band!: 29
+    idea!: 70
+    art: 22
+  tenacious:
+    d: 114
+    d.: 2
+  d:
+    playing: 22
+    is: 74
+    band: 36
+    never: 44
+    could: 12
+  playing:
+    in: 22
+  doing:
+    fine.: 2
+  south:
+    of: 20
+  of:
+    here,: 20
+    the: 118
+    mine.: 2
+    tenacious: 24
+    birds.: 36
+    not: 48
+    steve,: 56
+    egg,: 67
+    ti.: 2
+    ten.: 1
+    it.: 2
+    dancing: 54
+    their: 70
+    legend.: 2
+    a: 24
+    your: 24
+    queen.: 2
+    all: 20
+    her: 18
+    age: 16
+    what: 6
+  here,:
+    seven: 20
+  seven:
+    blocks: 20
+  blocks:
+    away,: 84
+  away,:
+    is: 20
+    and: 64
+  gas:
+    station,: 20
+    station: 60
+    station.: 28
+  station,:
+    at: 20
+  4-way:
+    stop.: 2
+  main:
+    road: 18
+  front:
+    of: 18
+    yard,: 36
+  house,:
+    is: 18
+  rogers:
+    street.: 1
   are:
-    king: 4
-  king:
-    ai.: 2
-  man,:
-    and: 1
-  sweetheart:
-    ha: 1
+    telephone: 19
+    the: 58
+    your: 140
+    'on': 52
+    my: 38
+    avid: 56
+    for: 36
+    we: 70
+    you: 75
+    trees: 60
+    always: 54
+    often: 54
+    finally: 50
+    clever: 34
+    living!: 20
+    late: 16
+  poles:
+    outside,: 19
+  outside,:
+    that: 19
+  transfer:
+    energy.: 1
+  time,:
+    for: 20
+    i've: 82
+  todd:
+    is: 20
+    studied: 18
+  gay:
+    friend: 20
+  friend:
+    of: 20
+    too.: 2
+    is: 16
+  studied:
+    linguistics.: 2
+    liberal: 16
+  liberal:
+    arts,: 16
+  arts,:
+    business: 16
+    at: 22
+  business:
+    accument,: 16
+  accument,:
+    and: 16
+  flowers,:
+    let's: 22
+  talk:
+    about: 259
+  about:
+    flowers.: 4
+    '1': 34
+    tenacious: 43
+    spring,: 44
+    it,: 69
+    dungeons: 58
+    that: 28
+    spring: 8
+  flowers:
+    have: 49
+  petals,:
+    that: 24
+  collect:
+    dew,: 24
+  dew,:
+    but: 24
+  but:
+    also,: 24
+    i: 68
+  also,:
+    show: 24
+  show:
+    honey: 24
+  honey:
+    bees: 24
+    is: 24
+  bees:
+    where: 24
+    sometimes: 24
+  where:
+    the: 24
+    i: 28
+  sometimes:
+    sting: 24
+  sting:
+    though.: 24
+  though.:
+    it's: 24
+  pain,:
+    you: 24
+    spring.: 2
+  know,:
+    when: 24
+    the: 36
+    mother: 60
+    let's: 58
+  when:
+    the: 24
+    i: 28
+    this: 24
+  bee:
+    stings,: 24
+  stings,:
+    they: 24
+  they:
+    die.: 2
+    eat: 36
+    bring: 36
+    as: 36
+    would: 60
+    have: 64
+    will: 57
+    also: 54
+    are: 104
+    seek: 54
+    tend: 34
+  stems:
+    hold: 29
+  hold:
+    up: 29
+  up:
+    the: 29
+    this: 37
+    to: 50
+    in,: 70
+  accutraments:
+    obtainable: 29
+  obtainable:
+    to: 29
+  get:
+    baby.: 2
+    to: 56
+    it,: 30
+    it.: 2
+    into: 38
+    that: 24
+  scared,:
+    that: 26
+  won't:
+    get: 26
+  i'm:
+    trying.: 3
+    listening: 61
+    not: 58
+  machine:
+    is: 28
+  hip:
+    hoppy.: 2
+  no.:
+    'no': 28
+    i: 46
+    no,: 35
+    my: 34
+    not: 28
+  'no':
+    house: 28
+    band: 36
+    goals: 46
+    fuss.: 2
+    crime,: 66
+    tenacous: 38
+  house:
+    for: 28
+    is: 38
+  sale:
+    here.: 10
+  had:
+    a: 76
+    so: 44
+    an: 18
+  named:
+    caroline.: 2
+  started:
+    dishes,: 34
+  made:
+    coffee.: 2
+    art: 22
+  how:
+    to: 35
+    is: 423
+    are: 69
+    could: 24
+  happy?:
+    that's: 35
+    i: 3
+  that's:
+    a: 105
+    where: 28
+    so: 22
+  complex:
+    question: 2
+  not:
+    a: 86
+    want: 48
+    tencaious: 36
+    james.: 2
+    sure.: 2
+    involved.: 38
+    this.: 2
+    to: 24
+  snug:
+    and: 38
+  am,:
+    mother: 36
+  nature's:
+    son.: 2
+  tree:
+    in: 36
+  yard,:
+    it: 36
+    some: 60
+  hosts:
+    a: 36
+  lot:
+    of: 36
+  birds.:
+    they: 36
+  eat:
+    what: 36
+  what:
+    mother: 36
+    will: 4
+    are: 244
+    day: 68
+    about: 64
+    do: 84
+    is: 46
+    to: 6
+  cares:
+    to: 36
+  offer:
+    them.: 36
+  them.:
+    they: 36
+    stems: 10
+    what: 11
+  bring:
+    us: 36
+  us:
+    such: 36
+  south,:
+    about: 34
+    half: 32
+  '1':
+    block: 34
+    is: 6
+    away: 6
+  block:
+    east,: 66
+    from: 70
+    to: 32
+  east,:
+    there: 66
+  dollar:
+    general: 34
+  general:
+    store.: 2
+  band!:
+    they: 36
+    how: 29
+    good: 30
+    i: 16
+  as:
+    a: 54
+    usual.: 54
+    they: 54
+  band,:
+    have: 36
+  band:
+    mother.: 2
+    ha: 36
+    is: 68
+    ganrls: 30
+  woke:
+    me: 37
+  me:
+    up: 87
+    up,: 46
+    somebody: 68
+    to: 38
+    a: 22
+    my: 6
+  this:
+    morning.: 2
+    day,: 88
+    day.: 2
+    evening,: 36
+    time: 36
+    time,: 16
+    someone: 24
+    earth: 24
+  learn:
+    about: 43
+  ok,:
+    i: 44
+    well: 33
+    take: 1
+  spring,:
+    she: 44
+    used: 46
+    'on': 52
+  spring:
+    has: 92
+    is: 178
+    did: 28
+    used: 24
+    for: 8
+  disease,:
+    it's: 46
+    and: 56
+  motherless,:
+    yes,: 46
+  yes,:
+    her: 46
+    dishes: 50
+    tenacious: 12
+  her:
+    father: 46
+    child: 46
+    vision.: 2
+    own,: 54
+    short: 18
+    are: 6
+  father:
+    and: 46
+    of: 38
+  gone:
+    to: 46
+  pick:
+    me: 46
+  up,:
+    yes.: 2
+  goals:
+    for: 64
+    are: 36
+  used:
+    to: 105
+  travel:
+    and: 74
+  feed:
+    the: 46
+  hungry.:
+    with: 46
+  with:
+    a: 46
+    'no': 54
+    leon: 61
+    steve,: 38
+    you: 30
+  travelling:
+    soup: 46
+  soup:
+    kitchen.: 46
+  kitchen.:
+    she: 46
+  was:
+    a: 46
+    officially: 68
+    something: 28
+  beautiful:
+    loving: 46
+  loving:
+    life.: 80
+  life.:
+    her: 46
+    excercise,: 16
+    your: 16
+    eating: 2
+    i: 4
+    mother's: 2
+  child:
+    james: 46
+  james:
+    and: 46
+    is: 69
+    never: 68
+  i,:
+    are: 46
+    at: 35
+  'on':
+    talking: 46
+    the: 155
+    her: 54
+    this: 68
+    earth,: 48
+    good: 6
+    bob: 2
+  talking:
+    terms.: 46
+  terms.:
+    we: 46
+    mother's: 6
+  don't:
+    do: 46
+    get: 48
+    you: 66
+    know.: 2
+  much,:
+    yet.: 46
+  yet.:
+    i: 46
+  see:
+    him: 46
+    the: 38
+    it.: 2
+  him:
+    'on': 46
+    to: 48
+  spring's:
+    child,: 48
+    a: 26
+  child,:
+    james,: 48
+  james,:
+    he: 48
+    stood: 50
+  he:
+    is: 92
+    said: 48
+    stood: 48
+    and: 56
+    left,: 35
+    has: 22
+  kind:
+    of: 102
+  trust:
+    worthy: 48
+  worthy:
+    friend.: 2
+  stood:
+    me: 50
+    to: 48
+  meet:
+    up.: 50
+  other:
+    hand,: 52
+  hand,:
+    has: 52
+  wrong,:
+    a: 52
+  stroke:
+    took: 52
+  took:
+    her: 52
+    rockport: 28
+  ya,:
+    mother: 54
+    she: 6
+  went:
+    to: 108
+  usual.:
+    i: 54
+  happier,:
+    she: 54
+  bed:
+    'on': 54
+  own,:
+    with: 54
+  is,:
+    my: 54
+    frank: 40
+  life's:
+    reasoning: 54
+  reasoning:
+    to: 54
+  speak:
+    of: 56
+  steve,:
+    a: 56
+    and: 38
+  trooper:
+    to: 56
+  trucking:
+    industry,: 56
+  industry,:
+    he: 56
+  his:
+    girlfriend: 56
+    mother,: 57
+    girlfriend,: 38
+    house.: 2
+  girlfriend:
+    are: 56
+  avid:
+    gamers.: 2
+  steve:
+    has: 57
+    is: 306
+    made: 22
+  lost:
+    his: 57
+    armor: 54
+    my: 28
+    some: 18
+  listening:
+    to: 101
+  queen,:
+    at: 61
+  wish:
+    they: 60
+  would:
+    turn: 60
+    be: 46
+  turn:
+    the: 60
+  station:
+    into: 60
+  into:
+    a: 60
+    their: 46
+    authoring: 38
+    the: 30
+    what: 22
+  public:
+    park,: 60
+    parks: 20
+  park,:
+    actually.: 2
+  breakfast:
+    soon,: 67
+    black: 58
+  soon,:
+    a: 67
+  bit:
+    of: 67
+  egg,:
+    and: 67
+  some:
+    sausage.: 1
+    produce: 60
+    clerics,: 54
+    weirdly: 38
+    great: 22
+    of: 18
+  all:
+    of: 89
+    waiting: 48
+    this: 36
+    ages,: 20
+  idea!:
+    corvit,: 70
+  everyday:
+    be: 70
+  no,:
+    no.: 72
+    i: 63
+  father,:
+    is: 35
+  here.:
+    he: 35
+    no.: 4
+    my: 4
+  left,:
+    abandoned: 35
+  abandoned:
+    i,: 35
+  young:
+    age: 35
+  age:
+    of: 51
+  god:
+    is: 71
+  like,:
+    a: 71
+    well.: 22
+  big:
+    concept,: 71
+  concept,:
+    a: 71
+  large:
+    idea,: 71
+  idea,:
+    to: 71
+  me.:
+    not: 36
+  tencaious:
+    d: 36
   ha:
     ha.: 1
+  from:
+    the: 70
+    james: 68
+    dugeon: 54
+    corvitsi,: 34
+    '2.': 2
+  b-line,:
+    it's: 70
+  trail:
+    for: 70
+  traversing:
+    through: 70
+  wilderness,:
+    and: 70
+  still:
+    have: 70
+  safe:
+    warm: 70
+  warm:
+    place: 70
+  place:
+    to: 70
+  snuggle:
+    up: 70
+  in,:
+    at: 70
+  end:
+    of: 70
+    to: 48
+  forget:
+    about: 77
+    this.: 2
+  it,:
+    james: 69
+    it's: 30
+  just:
+    a: 69
+    ran: 42
+    friend.: 2
+  soux,:
+    and: 69
+  nobody:
+    at: 69
+  eh,:
+    queen: 70
+  queen:
+    is: 92
+  regret:
+    from: 68
+  ah,:
+    hmmm...: 68
+    you: 66
+  hmmm...:
+    i: 68
+  today:
+    is: 68
+  yesterday,:
+    it: 68
+  officially:
+    a: 68
+  romantic:
+    holiday,: 68
+  holiday,:
+    cupid's: 68
+  cupid's:
+    day.: 2
+  somebody:
+    to: 170
+  here:
+    too.: 2
+    to: 44
+  time:
+    after: 66
+    in: 46
+    north.: 2
+  after:
+    time,: 66
+    for: 54
+    '0.': 6
+  i've:
+    paid: 66
+    committed: 66
+    got: 58
+    lived: 16
+  paid:
+    my: 66
+  dues.:
+    i've: 66
+  committed:
+    'no': 66
+  crime,:
+    and: 66
+  done:
+    my: 66
+  sentence.:
+    a: 66
+  bad:
+    mistake,: 66
+    bad: 11
+  mistake,:
+    and: 66
+  met:
+    a: 66
+  nearest:
+    church: 64
+  church:
+    is: 64
+  quite:
+    bright,: 64
+    tastey.: 2
+  bright,:
+    they: 64
+  pretty:
+    stain: 64
+  stain:
+    glass: 64
+  glass:
+    windows.: 2
+  good,:
+    i: 61
+    that: 44
+  feel.:
+    i: 61
+  always:
+    sign: 61
+    have: 33
+    religious,: 54
+  sign:
+    each: 61
+  each:
+    piece,: 61
+  piece,:
+    with: 61
+  leon:
+    sandstone.: 1
+  soul,:
+    a: 62
+    and: 18
+  brave:
+    woman.: 2
+  trees:
+    in: 60
+  produce:
+    fruit.: 2
+  tree,:
+    makes: 57
+  makes:
+    pear,: 57
+    one: 6
+  pear,:
+    and: 57
+  fruit:
+    every: 57
+  often,:
+    based: 57
+  based:
+    'on': 57
+  season's:
+    rain: 57
+  rain:
+    and: 57
+  got:
+    to: 58
+  break:
+    free.: 2
+  testing:
+    my: 58
+  new:
+    friend's: 58
+    bob: 38
+  friend's:
+    responses.: 2
+  thank:
+    you.: 2
+  who:
+    is: 58
+  grandmother?:
+    i'm: 58
+  having:
+    english: 58
+  english:
+    breakfast: 58
+  black:
+    tea: 58
+  tea:
+    now.: 58
+  now.:
+    it's: 58
+    i: 14
+    in: 14
+    oh: 3
+    grandmother: 3
+  dungeons:
+    and: 122
+  cleric:
+    can: 56
+  treate:
+    wounds,: 56
+  wounds,:
+    and: 56
+  cure:
+    ailments: 56
+  ailments:
+    like: 56
+  well:
+    learned: 56
+    i: 33
+  learned:
+    cleric,: 56
+  cleric,:
+    can: 56
+  death:
+    nigh.: 2
+  clerics:
+    do: 54
+    are: 54
+    tend: 46
+  light:
+    magic,: 54
+    snack: 40
+  magic,:
+    kind: 54
+  dancing:
+    lights.: 54
+  lights.:
+    they: 54
+  also:
+    have: 54
+  access:
+    to: 54
+  healing:
+    tinctures,: 54
+  tinctures,:
+    and: 54
+  herbal:
+    remedies.: 54
+  remedies.:
+    they: 54
+  religious,:
+    and: 54
+  wear:
+    a: 54
+  shameful:
+    garment.: 2
+  powerful:
+    clerics: 54
+  often:
+    sought: 54
+  sought:
+    after: 54
+  remedies:
+    to: 54
+  ailment:
+    and: 54
+  clerics,:
+    earn: 54
+  earn:
+    relics,: 54
+  relics,:
+    from: 54
+  dugeon:
+    exploration.: 54
+  exploration.:
+    as: 54
+  seek:
+    their: 54
+  their:
+    lost: 54
+    god.: 2
+    god,: 46
+    band.: 4
+  armor:
+    or: 54
+  or:
+    garb: 54
+  garb:
+    of: 54
+  fallen:
+    creations: 54
+  creations:
+    of: 54
+  finally:
+    finished.: 2
+  thing:
+    we're: 48
+  we're:
+    all: 48
+  waiting:
+    for,: 48
+  for,:
+    is: 48
+  peace:
+    'on': 48
+  earth,:
+    an: 48
+  an:
+    end: 48
+    accident: 18
+    illness,: 6
+  tend:
+    to: 80
+  spend:
+    time: 46
+    the: 38
+  prayer:
+    to: 46
+  thinking:
+    of: 46
+  next:
+    adventure.: 2
+    adventure,: 38
+    door: 28
+  bard:
+    would: 46
+  anything:
+    about: 44
+  fucking:
+    good,: 44
+  women:
+    through: 44
+  neglegent:
+    lengeire: 44
+  lengeire:
+    to: 44
+  awake,:
+    yes.: 2
+  life:
+    is: 36
+  love,:
+    and: 22
+  wealth:
+    is: 22
+  usual:
+    to: 22
+  modern:
+    human.: 1
+  damn,:
+    i: 44
+  leaving.:
+    i: 33
+  making:
+    breakfast,: 33
+  breakfast,:
+    and: 33
+  requires:
+    a: 33
+  ran:
+    one: 42
+  third:
+    a: 42
+  walked:
+    a: 42
+    to: 30
+  full:
+    city: 42
+  block.:
+    i: 42
+  again,:
+    tomorrow.: 2
+  wonder:
+    that: 40
+  frank:
+    zappa.: 2
+    zappa,: 40
+  zappa,:
+    has: 40
+  records:
+    than: 40
+  than:
+    anyone: 40
+  anyone:
+    living: 40
+  living:
+    to: 40
+  noon,:
+    will: 40
+  snack:
+    in: 40
+  adventure,:
+    let's: 38
+  authoring:
+    some: 38
+  weirdly:
+    enough,: 38
+  enough,:
+    secular: 38
+  secular:
+    rights: 38
+  rights:
+    to: 38
+  i.:
+    ajeleon.: 2
+  now,:
+    i: 38
+    goodbye.: 1
+  weekend:
+    with: 38
+  girlfriend,:
+    and: 38
+  sunday:
+    see: 38
+  bob:
+    marley: 76
+  marley:
+    film.: 38
+    is: 38
+  film.:
+    mother: 38
+  taking:
+    me: 38
+  tenacous:
+    d: 38
+  involved.:
+    bob: 38
+  musical:
+    genius,: 38
+  genius,:
+    father: 38
+  gorgeous!:
+    already: 36
+  already:
+    feeling: 36
+  feeling:
+    the: 36
+  burn.:
+    i: 36
+  evening,:
+    i: 36
+  go:
+    for: 40
+  another:
+    walk,: 36
+    one: 16
+    clever: 34
+  walk,:
+    this: 36
+  barbarian,:
+    can: 34
+  rage:
+    for: 34
+  hours,:
+    in: 34
+  d&d:
+    is: 34
+    ala: 30
+  dragons.:
+    another: 34
+    you: 16
+    a: 16
+  clever:
+    class,: 34
+    trickster,: 34
+  class,:
+    are: 34
+  rogue.:
+    they: 34
+  trickster,:
+    and: 34
+  haevy:
+    handed: 34
+  handed:
+    in: 34
+  thieving.:
+    they: 34
+  chaotic:
+    and: 34
+  neutral:
+    in: 34
+  terms:
+    to: 34
+    of: 16
+  excercise,:
+    is: 34
+  critical:
+    to: 34
+  name,:
+    comes: 34
+  comes:
+    from: 34
+  corvitsi,:
+    a: 34
+  down:
+    the: 32
+  hays:
+    court,: 32
+  court,:
+    it's: 32
+  1/3:
+    the: 32
+  very:
+    happy.: 2
+  keep:
+    positive,: 30
+    at: 22
+    them: 8
+  positive,:
+    corvit.: 30
+  corvit.:
+    the: 30
+  young,:
+    still.: 2
+  ala:
+    kara: 30
+  kara:
+    var: 30
+  var:
+    dungeons: 30
+  dragons,:
+    a: 30
+  thief:
+    is: 30
+  rogue:
+    that: 30
+  toyed:
+    in: 30
+  shadow,:
+    far: 30
+  far:
+    too: 30
+  today,:
+    i: 30
+  coolidge:
+    road,: 30
+  road,:
+    and: 30
+  back:
+    around: 30
+  around:
+    the: 30
+  west:
+    side,: 30
+  side,:
+    into: 30
+  ganrls:
+    barkley: 30
+  barkley:
+    is: 30
+    band!: 16
+  guite:
+    good: 30
+  did:
+    travel: 28
+  cook,:
+    yup.: 2
+  then:
+    i: 28
+  rockport:
+    north,: 28
+  until:
+    i: 28
+  came:
+    to: 28
+  door:
+    gas: 28
+  station.:
+    that's: 28
+  saw:
+    someone: 28
+  someone:
+    that: 28
+  lived:
+    vicariously.: 1
+  moment:
+    to: 26
+  walk:
+    this: 24
+  earth:
+    so: 24
+  sacred...:
+    and: 24
+  bear:
+    food: 24
+  food:
+    for: 24
+  many.:
+    now: 24
+  now:
+    she: 24
+  tries:
+    not: 24
+  out:
+    of: 24
+  well.:
+    it: 22
+    i: 10
+    he: 10
+  transient:
+    topic,: 22
+  topic,:
+    it: 22
+  tends:
+    to: 22
+  lavish:
+    into: 22
+  art,:
+    and: 22
+  actually!:
+    majored: 22
+  majored:
+    in: 22
+  negative.:
+    try: 22
+  seeing:
+    the: 22
+  tell:
+    me: 22
+  parks:
+    have: 20
+  swingsets,:
+    slides,: 20
+  slides,:
+    and: 20
+  places:
+    for: 20
+  children:
+    of: 20
+  ages,:
+    actually.: 2
+  living!:
+    corvit,: 20
+  north-east:
+    is: 18
+  our:
+    friend,: 18
+  tiffany.:
+    she: 18
+  accident:
+    as: 18
+  younger:
+    soul,: 18
+  short:
+    term: 18
+  term:
+    memory.: 2
+  gnarls:
+    barkley,: 18
+    barkley: 16
+  barkley,:
+    too.: 2
+  late:
+    2010's: 16
+  2010's:
+    early: 16
+  early:
+    2000's: 16
+  2000's:
+    i: 16
+  think.:
+    in: 16
+  ewe,:
+    caroline: 14
+  caroline:
+    is: 14
+  mother.:
+    my: 14
+  corvit:
+    is: 26
+  brushed:
+    my: 8
+  teeth:
+    to: 8
+  them:
+    strong.: 2
+  grandmother:
+    to: 8
+  is.:
+    solit.: 2
+  planks:
+    in: 6
+  while,:
+    in: 6
+  meantime,:
+    think: 6
+  eating:
+    is: 6
+  important:
+    to: 6
+  strong:
+    vital: 6
+  vital:
+    healthy: 6
+  healthy:
+    life.: 6
+  crystal,:
+    she: 6
+  reared:
+    me: 6
+  whole:
+    entire: 6
+  entire:
+    life.: 6
+  sometime:
+    soon.: 2
+  anxiety:
+    is: 6
+    too.: 2
+  illness,:
+    that: 6
+  scared:
+    and: 6
+  number.:
+    the: 6
+  first:
+    number: 6
+  number:
+    after: 6
+  '0.':
+    and: 6
+  away:
+    from: 6
+  wowza!:
+    you're: 2
+  take:
+    care!: 1
+  care!:
+    bye!: 1
+  bye!:
+    tchao: 1
+  tchao:
+    bella.: 1
 :question:
   how:
-    do: 7
+    do: 5
+    to: 42
+    is: 448
+    are: 72
+    could: 26
+    many: 2
   do:
-    you: 17
+    you: 508
+    the: 3
+    tomorrow?: 2
+    have: 54
+    it: 46
+    want: 38
   you:
-    do?: 2
-    know: 10
+    feel,: 5
+    think,: 8
+    could,: 16
+    do: 38
+    know: 264
+    be: 44
+    study?: 2
+    want: 169
+    are: 43
+    mother: 44
+    know?: 4
+    have: 68
+    corvit?: 1
+    aren't: 74
+    know,: 125
+    recommend?: 2
+    mean,: 12
+    so: 8
+    feel: 8
+  feel,:
+    about: 5
+  about:
+    cheddar?: 1
+    the: 8
+    tenacious: 46
+    bed?: 2
+    art?: 2
+    spring?: 2
+    clerics?: 2
+    d&d?: 2
+    spring: 10
+    flowers?: 2
+  what:
+    do: 118
+    will: 38
+    time: 44
+    are: 291
+    happened?: 2
+    goal?: 2
+    mother: 43
+    day: 74
+    about: 68
+    is: 44
+    to: 4
+  think,:
+    about: 8
+  the:
+    tenacious: 8
+    mother,: 43
+    day?: 2
+    time?: 2
+    life,: 74
+    day: 34
+    matter?: 2
+  tenacious:
+    d,: 8
+    d?: 5
+  d,:
+    band?: 2
+  how's:
+    it: 21
+  it:
+    going?: 3
+    a: 4
+    is?: 2
+    is: 83
+  could,:
+    maybe: 16
+  maybe:
+    there's: 16
+  there's:
+    a: 16
+  a:
+    house: 16
+    stem,: 46
+    mother,: 112
+    great: 67
+    sudden,: 26
+  house:
+    for: 59
+    is: 40
+  for:
+    sale?: 2
+    the: 44
+    we: 25
+    all: 10
+  going:
+    good?: 1
+  hopefully:
+    everything: 29
+  everything:
+    is: 29
+  is:
+    fine?: 2
+    a: 519
+    the: 202
+    my: 129
+    corvti?: 1
+    corvit?: 10
+    your: 126
+    it?: 2
+    for: 25
+    so: 24
+  will:
+    you: 38
+    have: 108
+    be: 138
+    do: 50
   know:
-    of: 10
+    what: 44
+    that?: 2
+    the: 48
+    me?: 2
+    about: 60
+  time:
+    it: 44
+  why:
+    can't: 44
+    are: 8
+  can't:
+    you: 44
+  be:
+    happy?: 2
+  want:
+    to: 419
+  to:
+    study,: 43
+    be: 246
+    the: 324
+    a: 92
+    talk: 173
+    do?: 1
+    hear: 60
+    say.: 26
+    this: 24
+    you: 8
+    feel: 6
+    have: 4
+  study,:
+    tenacious: 43
+  are:
+    the: 79
+    your: 169
+    my: 50
+    'on': 36
+    we: 72
+    you: 80
+    for: 34
+  mother,:
+    of: 43
+    corvit?: 2
   of:
+    tenacious: 43
+    the: 140
+    a: 26
+    your: 22
+    all: 16
+    what: 4
+  mother:
+    tenacious: 44
+    have: 48
+    loved: 66
+    is: 40
+  flowers:
+    have: 88
+  have:
+    a: 222
+    tenacious: 22
+    to: 2
+    for: 4
+  stem,:
+    did: 46
+  did:
+    you: 46
+  your:
+    goals: 44
+    thoughts: 123
+    mother?: 2
+    thoughts,: 2
+  goals:
+    for: 88
+    are: 34
+  my:
+    goals?: 2
+    mother,: 34
+    goals: 34
+    day: 38
+  thoughts:
+    'on': 123
+  'on':
+    flowers?: 4
+    the: 141
+    spring?: 2
     this: 10
-  this:
-    heartache?: 2
-:third_person_subjects:
-  Rose:
-  - :word: rose
-    :next_word: was
-  - :word: was
-    :next_word: a
-  - :word: a
-    :next_word: sweetheart,
-  - :word: sweetheart,
-    :next_word: she
-  - :word: she
-    :next_word: went
-  - :word: went
-    :next_word: to
-  - :word: to
-    :next_word: medical
-  - :word: medical
-    :next_word: school.
-  I:
-  - :word: i
-    :next_word: live,
-  - :word: live,
-    :next_word: so
-  - :word: so
-    :next_word: far
-  - :word: far
-    :next_word: from
-  - :word: from
-    :next_word: her
-  - :word: her
-    :next_word: grave,
-  - :word: grave,
-    :next_word: by
-  - :word: by
-    :next_word: the
-  - :word: the
-    :next_word: time
-  - :word: time
-    :next_word: i
-  - :word: i
-    :next_word: realized
-  - :word: realized
-    :next_word: i
-  - :word: i
-    :next_word: had
-  - :word: had
-    :next_word: loved
-  - :word: loved
-    :next_word: her,
-  - :word: her,
-    :next_word: she
-  - :word: she
-    :next_word: had
-  - :word: had
-    :next_word: moved
-  - :word: moved
-    :next_word: on.
-  - :word: your
-    :next_word: 'goal:'
-  - :word: 'goal:'
-    :next_word: see
-  - :word: see
-    :next_word: why
-  - :word: why
-    :next_word: i
-  - :word: i
-    :next_word: have
-  - :word: have
-    :next_word: heartache.
-:exclamation:
+    bob: 2
+  talk:
+    about: 234
+  spring:
+    is: 160
+    did: 28
+    for: 10
   i:
-    am: 4
+    am: 721
+    have: 30
+    want: 119
+    will: 328
+    did: 116
+    don't: 83
+    do: 38
+    feel: 12
+    and: 2
   am:
-    well!: 2
+    here!: 72
+    my: 8
+    so: 2
+  here!:
+    what: 72
+  we:
+    to: 97
+    don't: 14
+    are: 14
+  life,:
+    corvit?: 2
+  ah,:
+    you: 74
+  aren't:
+    far?: 2
+  corvit,:
+    what: 74
+    your: 59
+  day:
+    is: 146
+  don't:
+    you: 74
+    do: 14
+  know,:
+    mother: 66
+    the: 5
+  loved:
+    me?: 2
+  hear:
+    a: 38
+  great:
+    band.: 38
+  band.:
+    what: 45
+    tenacious: 18
+  when:
+    this: 26
+    i: 24
+  this:
+    someone: 26
+    be?: 2
+    time: 24
+  someone:
+    spoke,: 26
+  spoke,:
+    i'ld: 26
+  i'ld:
+    listen.: 26
+  listen.:
+    all: 26
+  all:
+    of: 36
+    this: 28
+  sudden,:
+    has: 26
+  has:
+    less: 26
+  less:
+    and: 26
+    to: 26
+  and:
+    less: 26
+    a: 72
+    is: 24
+    it: 36
+    to: 24
+  say.:
+    oh: 26
+  oh:
+    how: 26
+  could:
+    this: 26
+  'yes':
+    or: 14
+  or:
+    no?: 2
+  mean,:
+    what?: 2
+  so:
+    down?: 8
+  down?:
+    don't: 8
+  feel:
+    happy?: 2
+    so: 6
+  thoughts,:
+    'on': 2
+  bob:
+    marley?: 2
+  many:
+    numbers: 2
+  numbers:
+    do: 2
+:exclamation:
+  sometimes:
+    i: 4
+  i:
+    feel: 99
+    will: 296
+    shall: 24
+    have: 141
+    don't: 108
+    want: 142
+    always: 112
+    did: 124
+    am: 577
+    remember: 48
+    remember,: 24
+    lost: 24
+    cast: 24
+    never: 20
+    and: 8
+  feel:
+    like: 4
+    so: 20
+  like:
+    a: 4
+  a:
+    motherless: 4
+    mother!: 4
+    meet-up: 64
+    great: 216
+    good: 168
+    band!: 1
+    friend: 18
+  motherless:
+    child,: 4
+  child,:
+    is: 4
+  is:
+    never: 4
+    a: 474
+    corvit!: 2
+    the: 187
+    such: 31
+    your: 104
+    so: 138
+    not: 90
+    for: 15
+    my: 18
+    something: 11
+    incredible!: 2
+    living: 18
+    an: 6
+  never:
+    'true': 4
+  'true':
+    for: 4
+  for:
+    me,: 4
+    the: 33
+    we: 15
+    another: 26
+  me,:
+    ever: 4
+    i: 9
+  ever:
+    again!: 2
+  we:
+    should: 156
+    will: 14
+    don't: 58
+    to: 80
+  should:
+    be: 41
+    get: 30
+    start: 50
+  be:
+    proud!: 4
+    a: 9
+    paid!: 1
+    ok!: 2
+  the:
+    telephone: 30
+    me,: 9
+    day,: 64
+    dust!: 1
+    band: 92
+    greatest!: 2
+    north-east,: 18
+    good: 16
+    great,: 16
+  telephone:
+    will: 30
+  will:
+    be: 183
+    have: 87
+    get: 26
+  'no':
+    more.: 24
+    band: 28
+  more.:
+    i: 24
+  shall:
+    have: 24
+  have:
+    a: 198
+    'no': 116
+    an: 24
+    to: 6
+    for: 10
+  good:
+    night!: 1
+    in: 16
+    afternoon!: 2
+  your:
+    name,: 84
+    emotions,: 24
+  name,:
+    is: 58
+  he:
+    said: 64
+    stood: 64
+    is: 94
+    and: 61
+  said:
+    his: 64
+  his:
+    anxiety: 128
+  anxiety:
+    caused: 64
+    wouldn't: 64
+    is: 6
+  caused:
+    him: 64
+  him:
+    to: 64
+    visit.: 64
+    'on': 42
+  to:
+    not: 64
+    visit.: 64
+    a: 134
+    say,: 64
+    get: 23
+    be: 214
+    the: 305
+    hear: 88
+    this: 26
+    feel: 18
+    you: 12
+    have: 10
+  not:
+    want: 64
+    a: 102
+    to: 18
+  want:
+    to: 375
+  visit.:
+    i: 64
+    such: 64
+  don't:
+    get: 64
+    you: 64
+  get:
+    it,: 64
+    to: 56
+    it.: 40
+    that: 18
+  it,:
+    it's: 64
+  it's:
+    already: 64
+    a: 104
+    got: 14
+  already:
+    the: 64
+  day,:
+    to: 64
+    i: 62
+    we: 16
+    it: 8
+  meet-up:
+    and: 64
+  and:
+    he: 64
+    his: 87
+    a: 156
+    is: 54
+    never: 38
+    it: 37
+    to: 24
+    lost: 16
+  stood:
+    to: 64
+  say,:
+    his: 64
+  wouldn't:
+    let: 64
+  let:
+    him: 64
+  such:
+    stupid: 64
+    a: 31
+  stupid:
+    shit!: 2
+  always:
+    have: 60
+  queen:
+    is: 95
+  great:
+    band!: 1
+  another:
+    one: 61
+  one:
+    bites: 61
+    feel: 6
+  bites:
+    the: 61
+  you're:
+    silly!: 2
+  no,:
+    i: 64
+  hear:
+    queen!: 56
+    a: 24
+  'on':
+    this: 62
+    the: 135
+    good: 8
+  this:
+    day,: 78
+  did:
+    '10': 62
+    it.: 62
+  '10':
+    seconds: 62
+  seconds:
+    piladie.: 62
+  piladie.:
+    it: 62
+  it:
+    was: 122
+    is: 59
+    will: 8
+  was:
+    hard,: 62
+    a: 42
+    something: 24
+  hard,:
+    but: 62
+  but:
+    i: 62
+  it.:
+    tomorrow,: 62
+    i: 62
+    you: 20
+    'no': 13
+  tomorrow,:
+    '11': 62
+  '11':
+    seconds!: 2
+  am:
+    hearing: 68
+    not: 18
+    one: 66
+    proud!: 1
+    grooving: 16
+    so: 8
+  hearing:
+    queen!: 68
+  queen!:
+    the: 68
+    no,: 27
+    'on': 27
+  band:
+    is: 68
+  so:
+    fucking: 100
+    precious,: 24
+    much: 68
+    good!: 2
+  fucking:
+    good!: 2
+  thanks,:
+    you: 58
+  you:
+    too!: 1
+    want: 87
+    have: 48
+    should: 50
+    get: 40
+    so: 12
+    feel: 12
+  start:
+    a: 50
+  corvit:
+    is: 56
+  remember:
+    when,: 24
+    when: 24
+  when,:
+    i: 24
+  remember,:
+    i: 24
+  when:
+    i: 24
+    this: 20
+  lost:
+    my: 24
+  my:
+    mind.: 24
+  mind.:
+    there: 24
+  there:
+    was: 24
+  something:
+    so: 24
+  precious,:
+    about: 24
+  about:
+    that: 24
+    it,: 22
+  that:
+    space.: 24
+    i: 20
+  space.:
+    even: 24
+  even:
+    your: 24
+  emotions,:
+    have: 24
+  an:
+    eho,: 24
+  eho,:
+    in: 24
+  in:
+    so: 24
+    one: 22
+    the: 50
+    a: 10
+  much:
+    space!: 2
+  cast:
+    light!: 2
+  steve:
+    is: 70
+  north-east,:
+    actually,: 18
+  actually,:
+    a: 18
+  friend:
+    is: 18
+  living:
+    there!: 2
+    to: 16
+  grooving:
+    to: 16
+  great,:
+    gnarls: 16
+  gnarls:
+    barkley: 16
+  barkley:
+    band!: 2
+    is: 14
+  run:
+    away!: 14
+  away!:
+    it's: 14
+  got:
+    teeth!: 2
+    to: 12
+:third_person_subjects:
+  Corvit.:
+    your:
+      name: 1
+    name:
+      is: 1
+    is:
+      corvit.: 1
+  Tenacious:
+    what:
+      do: 1
+    do:
+      you: 1
+    you:
+      think,: 1
+      want: 1
+      mother: 1
+    think,:
+      about: 1
+    about:
+      the: 1
+    the:
+      tenacious: 1
+    tenacious:
+      d,: 1
+      d?: 2
+    d,:
+      band?: 1
+    want:
+      to: 1
+    to:
+      study,: 1
+    study,:
+      tenacious: 1
+    mother:
+      tenacious: 1
+  Corvit,:
+    corvit,:
+      your: 2
+    your:
+      'goal:': 2
+    'goal:':
+      find: 1
+      everyday: 1
+    find:
+      the: 1
+    the:
+      nacho.: 1
+    that's:
+      a: 1
+    a:
+      great: 1
+    great:
+      idea!: 1
+    idea!:
+      corvit,: 1
+    everyday:
+      be: 1
+    be:
+      gouda.: 1
+  Do:
+    do:
+      you: 3
+    you:
+      know: 1
+      want: 1
+      have: 1
+    know:
+      what: 1
+    what:
+      time: 1
+    time:
+      it: 1
+    it:
+      is?: 1
+    want:
+      to: 1
+    to:
+      talk: 1
+    talk:
+      about: 1
+    about:
+      art?: 1
+    have:
+      a: 1
+    a:
+      mother,: 1
+    mother,:
+      corvit?: 1
+  COrvit!:
+    your:
+      name,: 1
+    name,:
+      is: 1
+    is:
+      corvit!: 1
+  I:
+    ok,:
+      i: 1
+    i:
+      want: 1
+      don't: 1
+      think: 1
+      wish: 1
+      do: 1
+      am: 1
+      remember: 2
+      remember,: 1
+      lost: 1
+      think.: 1
+      and: 1
+    want:
+      to: 3
+    to:
+      talk: 1
+      not: 1
+      visit.: 1
+      a: 1
+      say,: 1
+      work,: 1
+      bed: 1
+      hear: 1
+    talk:
+      about: 1
+    about:
+      spring,: 1
+      that: 1
+    spring,:
+      she: 1
+    she:
+      is: 2
+      went: 1
+      reared: 1
+    is:
+      my: 1
+      happier,: 1
+      crystal,: 1
+    my:
+      mother's: 1
+      friend: 1
+      mind.: 1
+      whole: 1
+    mother's:
+      friend,: 1
+      name: 1
+    friend,:
+      and: 1
+    and:
+      my: 1
+      he: 1
+      her: 1
+    friend:
+      too.: 1
+    he:
+      said: 1
+      stood: 1
+    said:
+      his: 1
+    his:
+      anxiety: 2
+    anxiety:
+      caused: 1
+      wouldn't: 1
+    caused:
+      him: 1
+    him:
+      to: 1
+      visit.: 1
+    not:
+      want: 1
+    visit.:
+      i: 1
+      such: 1
+    don't:
+      get: 1
+    get:
+      it,: 1
+    it,:
+      it's: 1
+    it's:
+      already: 1
+    already:
+      the: 1
+    the:
+      day,: 1
+      gas: 1
+    day,:
+      to: 1
+    a:
+      meet-up: 1
+      public: 1
+      great: 1
+    meet-up:
+      and: 1
+    stood:
+      to: 1
+    say,:
+      his: 1
+    wouldn't:
+      let: 1
+    let:
+      him: 1
+    such:
+      stupid: 1
+    stupid:
+      shit!: 1
+    oh:
+      ya,: 1
+    ya,:
+      mother: 1
+    mother:
+      went: 1
+    went:
+      to: 2
+    work,:
+      as: 1
+    as:
+      usual.: 1
+    usual.:
+      i: 1
+    think:
+      she: 1
+    happier,:
+      she: 1
+    bed:
+      'on': 1
+    'on':
+      her: 1
+      good: 1
+    her:
+      own,: 1
+      are: 1
+    own,:
+      with: 1
+    with:
+      'no': 1
+      you: 1
+    'no':
+      fuss.: 1
+    wish:
+      they: 1
+    they:
+      would: 1
+      are: 1
+    would:
+      turn: 1
+    turn:
+      the: 1
+    gas:
+      station: 1
+    station:
+      into: 1
+    into:
+      a: 1
+    public:
+      park,: 1
+    park,:
+      actually.: 1
+    do:
+      want: 1
+      you: 1
+    hear:
+      a: 1
+    great:
+      band.: 1
+    band.:
+      what: 1
+    what:
+      do: 1
+    you:
+      recommend?: 1
+      now.: 1
+    am:
+      with: 1
+    remember:
+      when,: 1
+      when: 1
+    when,:
+      i: 1
+    remember,:
+      i: 1
+    when:
+      i: 1
+    lost:
+      my: 1
+    mind.:
+      there: 1
+    there:
+      was: 1
+    was:
+      something: 1
+    something:
+      so: 1
+    so:
+      precious,: 1
+      much: 1
+    precious,:
+      about: 1
+    that:
+      space.: 1
+    space.:
+      even: 1
+    even:
+      your: 1
+    your:
+      emotions,: 1
+    emotions,:
+      have: 1
+    have:
+      an: 1
+    an:
+      eho,: 1
+    eho,:
+      in: 1
+    in:
+      so: 1
+      terms: 1
+    much:
+      space!: 1
+    are:
+      late: 1
+      'on': 1
+    late:
+      2010's: 1
+    2010's:
+      early: 1
+    early:
+      2000's: 1
+    2000's:
+      i: 1
+    think.:
+      in: 1
+    terms:
+      of: 1
+    of:
+      age: 1
+      their: 1
+    age:
+      of: 1
+    their:
+      band.: 1
+    good:
+      terms.: 1
+    terms.:
+      mother's: 1
+    name:
+      is: 1
+    crystal,:
+      she: 1
+    reared:
+      me: 1
+    me:
+      my: 1
+    whole:
+      entire: 1
+    entire:
+      life.: 1
+  Spring:
+    spring:
+      is: 2
+      has: 1
+      used: 1
+    is:
+      motherless,: 1
+      your: 1
+    motherless,:
+      yes,: 1
+    yes,:
+      her: 1
+    her:
+      father: 1
+      child: 1
+    father:
+      and: 1
+    and:
+      mother: 1
+      i,: 1
+      bear: 1
+    mother:
+      have: 1
+    have:
+      gone: 1
+    gone:
+      to: 1
+    to:
+      heaven.: 1
+      walk: 1
+      feel: 1
+    has:
+      had: 1
+    had:
+      a: 1
+    a:
+      beautiful: 1
+    beautiful:
+      loving: 1
+    loving:
+      life.: 1
+    life.:
+      her: 1
+    child:
+      james: 1
+    james:
+      and: 1
+    i,:
+      are: 1
+    are:
+      'on': 1
+    'on':
+      talking: 1
+      the: 1
+    talking:
+      terms.: 1
+    terms.:
+      we: 1
+    we:
+      don't: 1
+    don't:
+      do: 1
+    do:
+      much,: 1
+    much,:
+      yet.: 1
+    yet.:
+      i: 1
+    i:
+      see: 1
+    see:
+      him: 1
+    him:
+      'on': 1
+    the:
+      internet.: 1
+    your:
+      mother?: 1
+    used:
+      to: 1
+    walk:
+      this: 1
+    this:
+      earth: 1
+    earth:
+      so: 1
+    so:
+      sacred...: 1
+    sacred...:
+      and: 1
+    bear:
+      food: 1
+    food:
+      for: 1
+    for:
+      many.: 1
+    many.:
+      now: 1
+    now:
+      she: 1
+    she:
+      tries: 1
+    tries:
+      not: 1
+    not:
+      to: 1
+    feel:
+      pain.: 1
+  Spring,:
+    spring,:
+      used: 1
+      'on': 1
+    used:
+      to: 1
+    to:
+      travel: 1
+    travel:
+      and: 1
+    and:
+      feed: 1
+    feed:
+      the: 1
+    the:
+      hungry.: 1
+      other: 1
+    hungry.:
+      with: 1
+    with:
+      a: 1
+    a:
+      travelling: 1
+      great: 1
+      stroke: 1
+    travelling:
+      soup: 1
+    soup:
+      kitchen.: 1
+    kitchen.:
+      she: 1
+    she:
+      was: 1
+    was:
+      a: 1
+    great:
+      human.: 1
+    'on':
+      the: 1
+    other:
+      hand,: 1
+    hand,:
+      has: 1
+    has:
+      so: 1
+    so:
+      much: 1
+    much:
+      wrong,: 1
+    wrong,:
+      a: 1
+    stroke:
+      took: 1
+    took:
+      her: 1
+    her:
+      vision.: 1
+  Spring's:
+    spring's:
+      child,: 1
+    child,:
+      james,: 1
+    james,:
+      he: 1
+    he:
+      is: 1
+    is:
+      kind: 1
+    kind:
+      of: 1
+    of:
+      not: 1
+    not:
+      a: 1
+    a:
+      trust: 1
+    trust:
+      worthy: 1
+    worthy:
+      friend.: 1
+  Steve,:
+    we:
+      should: 1
+    should:
+      speak: 1
+    speak:
+      of: 1
+    of:
+      steve,: 1
+    steve,:
+      a: 1
+    a:
+      great: 1
+    great:
+      trooper: 1
+    trooper:
+      to: 1
+    to:
+      the: 1
+    the:
+      trucking: 1
+    trucking:
+      industry,: 1
+    industry,:
+      he: 1
+    he:
+      and: 1
+    and:
+      his: 1
+    his:
+      girlfriend: 1
+    girlfriend:
+      are: 1
+    are:
+      avid: 1
+    avid:
+      gamers.: 1
+  Steve:
+    steve:
+      has: 1
+    has:
+      lost: 1
+    lost:
+      his: 1
+    his:
+      mother,: 1
+    mother,:
+      too.: 1
+  The:
+    the:
+      nearest: 1
+    nearest:
+      church: 1
+    church:
+      is: 1
+    is:
+      ten: 1
+      quite: 1
+    ten:
+      blocks: 1
+    blocks:
+      away,: 1
+    away,:
+      and: 1
+    and:
+      is: 1
+    quite:
+      bright,: 1
+    bright,:
+      they: 1
+    they:
+      have: 1
+    have:
+      pretty: 1
+    pretty:
+      stain: 1
+    stain:
+      glass: 1
+    glass:
+      windows.: 1
+  Don't:
+    don't:
+      you: 1
+    you:
+      know,: 1
+    know,:
+      mother: 1
+    mother:
+      loved: 1
+    loved:
+      me?: 1
+  WHo:
+    who:
+      is: 1
+    is:
+      your: 1
+    your:
+      grandmother?: 1
+    grandmother?:
+      i'm: 1
+    i'm:
+      not: 1
+    not:
+      sure.: 1
+  You:
+    you:
+      get: 1
+    get:
+      it.: 1
+  YOu:
+    you:
+      know,: 1
+    know,:
+      let's: 1
+    let's:
+      talk: 1
+    talk:
+      about: 1
+    about:
+      dungeons: 1
+    dungeons:
+      and: 1
+    and:
+      dragons.: 1
+  Clerics:
+    clerics:
+      do: 1
+      tend: 1
+    do:
+      have: 1
+    have:
+      light: 1
+      access: 1
+    light:
+      magic,: 1
+    magic,:
+      kind: 1
+    kind:
+      of: 1
+    of:
+      dancing: 1
+      the: 1
+    dancing:
+      lights.: 1
+    lights.:
+      they: 1
+    they:
+      also: 1
+      are: 1
+    also:
+      have: 1
+    access:
+      to: 1
+    to:
+      healing: 1
+      spend: 1
+      their: 1
+    healing:
+      tinctures,: 1
+    tinctures,:
+      and: 1
+    and:
+      herbal: 1
+      never: 1
+    herbal:
+      remedies.: 1
+    remedies.:
+      they: 1
+    are:
+      always: 1
+    always:
+      religious,: 1
+    religious,:
+      and: 1
+    never:
+      wear: 1
+    wear:
+      a: 1
+    a:
+      shameful: 1
+    shameful:
+      garment.: 1
+    tend:
+      to: 1
+    spend:
+      time: 1
+    time:
+      in: 1
+    in:
+      prayer: 1
+    prayer:
+      to: 1
+    their:
+      god,: 1
+    god,:
+      thinking: 1
+    thinking:
+      of: 1
+    the:
+      next: 1
+    next:
+      adventure.: 1
+  SOme:
+    some:
+      clerics,: 1
+    clerics,:
+      earn: 1
+    earn:
+      relics,: 1
+    relics,:
+      from: 1
+    from:
+      dugeon: 1
+    dugeon:
+      exploration.: 1
+    exploration.:
+      as: 1
+    as:
+      they: 1
+    they:
+      seek: 1
+    seek:
+      their: 1
+    their:
+      lost: 1
+      god.: 1
+    lost:
+      armor: 1
+    armor:
+      or: 1
+    or:
+      garb: 1
+    garb:
+      of: 1
+    of:
+      the: 1
+      their: 1
+    the:
+      fallen: 1
+    fallen:
+      creations: 1
+    creations:
+      of: 1
+  Spring?:
+    what:
+      are: 1
+    are:
+      your: 1
+    your:
+      thoughts: 1
+    thoughts:
+      'on': 1
+    'on':
+      spring?: 1
+  Spring.:
+    she:
+      had: 1
+    had:
+      so: 1
+    so:
+      much: 1
+    much:
+      pain,: 1
+    pain,:
+      spring.: 1
+  Now,:
+    now,:
+      i: 1
+    i:
+      want: 1
+    want:
+      to: 1
+    to:
+      spend: 1
+      see: 1
+    spend:
+      the: 1
+    the:
+      weekend: 1
+      new: 1
+    weekend:
+      with: 1
+    with:
+      steve,: 1
+    steve,:
+      and: 1
+    and:
+      his: 1
+      sunday: 1
+    his:
+      girlfriend,: 1
+    girlfriend,:
+      and: 1
+    sunday:
+      see: 1
+    see:
+      the: 1
+      it.: 1
+    new:
+      bob: 1
+    bob:
+      marley: 1
+    marley:
+      film.: 1
+    film.:
+      mother: 1
+    mother:
+      is: 1
+    is:
+      taking: 1
+    taking:
+      me: 1
+    me:
+      to: 1
+  D&D:
+    d&d:
+      is: 1
+    is:
+      dungeons: 1
+    dungeons:
+      and: 1
+    and:
+      dragons.: 1
+      haevy: 1
+      neutral: 1
+    dragons.:
+      another: 1
+    another:
+      clever: 1
+    clever:
+      class,: 1
+      trickster,: 1
+    class,:
+      are: 1
+    are:
+      the: 1
+      clever: 1
+    the:
+      rogue.: 1
+    rogue.:
+      they: 1
+    they:
+      are: 1
+      tend: 1
+    trickster,:
+      and: 1
+    haevy:
+      handed: 1
+    handed:
+      in: 1
+    in:
+      thieving.: 1
+      terms: 1
+    thieving.:
+      they: 1
+    tend:
+      to: 1
+    to:
+      be: 1
+      alignment.: 1
+    be:
+      chaotic: 1
+    chaotic:
+      and: 1
+    neutral:
+      in: 1
+    terms:
+      to: 1
+  YOur:
+    your:
+      name,: 1
+    name,:
+      comes: 1
+    comes:
+      from: 1
+    from:
+      corvitsi,: 1
+    corvitsi,:
+      a: 1
+    a:
+      crow.: 1
+  To:
+    to:
+      the: 1
+    the:
+      north-east: 1
+    north-east:
+      is: 1
+    is:
+      our: 1
+    our:
+      friend,: 1
+    friend,:
+      tiffany.: 1
+    tiffany.:
+      she: 1
+    she:
+      had: 1
+    had:
+      an: 1
+    an:
+      accident: 1
+    accident:
+      as: 1
+    as:
+      a: 1
+    a:
+      younger: 1
+    younger:
+      soul,: 1
+    soul,:
+      and: 1
+    and:
+      lost: 1
+    lost:
+      some: 1
+    some:
+      of: 1
+    of:
+      her: 1
+    her:
+      short: 1
+    short:
+      term: 1
+    term:
+      memory.: 1
+  What:
+    what:
+      are: 2
+      do: 2
+    are:
+      your: 2
+    your:
+      thoughts: 1
+      thoughts,: 1
+    thoughts:
+      'on': 1
+    'on':
+      flowers?: 1
+      bob: 1
+    do:
+      you: 2
+    you:
+      mean,: 1
+      know: 1
+    mean,:
+      what?: 1
+    know:
+      about: 1
+    about:
+      flowers?: 1
+    thoughts,:
+      'on': 1
+    bob:
+      marley?: 1
+  Grandmother:
+    grandmother:
+      to: 1
+    to:
+      you: 1
+    you:
+      is.: 1
+    is.:
+      solit.: 1
+  Why:
+    why:
+      are: 1
+    are:
+      you: 1
+    you:
+      so: 1
+      feel: 1
+    so:
+      down?: 1
+    down?:
+      don't: 1
+    don't:
+      you: 1
+    feel:
+      happy?: 1
