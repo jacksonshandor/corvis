@@ -1,437 +1,301 @@
 ---
 :statement:
-  ok,:
-    you: 1
-  you:
-    needed: 1
-    could: 1
-    rights: 1
-    need: 1
-    have: 2
-    to: 2
-    are: 5
-    realize: 2
-  needed:
-    a: 1
+  i:
+    begin,: 7
+    will: 11
+    fair: 8
+    live,: 12
+    realized: 12
+    had: 12
+    have: 8
+  begin,:
+    a: 7
   a:
-    permission: 1
-    ritual: 2
-    cleaner: 2
-    game: 2
-    name: 2
-    humorous: 2
-    comfortabel: 2
-    'goal:': 2
-    bit: 2
-    wonderful: 2
-    loving: 2
-    dell.: 2
-    long: 1
-    lovely: 2
-  permission:
-    slip.: 1
-    or: 1
-  yup,:
-    and: 2
-  and:
-    i: 2
-    make: 2
-    mother,: 2
-  i:
-    know: 2
-    have: 6
-    am: 6
-    don't: 2
-    will: 4
-    get: 2
-    officially,: 2
-    love: 2
-    and: 2
-  know:
-    it.: 2
-  sewing:
-    clothing: 2
-  clothing:
-    is: 4
-  is:
-    a: 4
-    very: 2
-    one: 2
-    that: 2
-    this: 2
-    well.: 2
-    the: 2
-  ritual:
-    that: 2
-  that:
-    is: 2
-    it: 1
-    one: 2
-    all: 2
-  very:
-    time: 2
-    happy: 2
-  time:
-    consuming.: 2
-  well,:
-    you: 1
-    accessories.: 2
-    it's: 2
-    not: 2
-  could:
-    say: 1
-  say:
-    that: 1
-  it:
-    grants: 1
-    will: 2
-  grants:
-    you: 1
-  rights:
-    to: 1
-  to:
-    clothing,: 1
-    meet: 2
-    reason.: 2
-    earn: 2
-    talk: 2
-    be: 3
-  clothing,:
-    but: 1
-  but:
-    permission: 1
-  or:
-    'no': 1
-    more: 2
-  'no':
-    slip,: 1
-    it: 2
-    i'm: 1
-  slip,:
-    you: 1
-  need:
-    clothing.: 1
-  clothes:
-    are: 2
-  are:
-    like,: 2
-    a: 2
-    corvit: 1
-    corvit.: 2
-    very: 2
-    going: 1
-  like,:
-    well,: 2
-  one:
-    or: 2
-    day,: 2
-  more:
-    clothes.: 2
-  have:
-    a: 8
-  cleaner:
-    home: 2
-  home:
-    today.: 2
-  my:
-    vision: 2
-    'goal:': 2
-    efforts.: 2
-    mother: 2
-    computer,: 2
-  vision:
-    is: 2
-  day,:
-    we: 2
-    i: 2
-  we:
-    play: 2
-    make: 1
-    are: 1
-    are.: 1
-  play:
-    a: 2
-  game:
-    together.: 2
-  am:
-    shandor.: 4
-    really: 2
-  shandor.:
-    pleased: 2
-  pleased:
-    to: 2
-  meet:
-    you.: 2
-  do:
-    you: 2
-  hmm,:
-    your: 2
-  your:
-    name: 2
-  name:
-    should: 2
-  should:
-    be,: 2
-  be,:
-    maid.: 2
-  yes,:
-    show: 2
-  show:
-    me: 2
-  me:
-    a: 2
-  humorous:
-    thing.: 2
-  ah,:
-    i've: 2
-  i've:
-    not: 2
-  not:
-    taught: 2
-    much.: 2
-    corvit.: 1
-  taught:
-    you.: 2
-  ya,:
-    i'll: 1
-    you're: 2
-    i'm: 4
-  i'll:
-    be: 5
-  be:
-    fine.: 1
-    fine,: 4
-    ok.: 2
-    telling: 2
-    in: 2
-    here: 1
-  comfortabel:
-    chair.: 2
-  fine,:
-    is: 2
-    when: 2
-    it's: 2
-  this:
-    feeling: 2
-  feeling:
-    that: 2
-  all:
-    is: 2
-  'goal:':
-    teach: 2
-    to: 2
-  teach:
-    you: 2
-  earn:
-    a: 2
-  bit:
-    of: 2
-  of:
-    funds.: 2
-    coconuts.: 2
-  wonderful:
-    friend,: 2
-  friend,:
-    corvit.: 2
-  no,:
-    i: 2
-  don't:
-    want: 2
-  want:
-    to: 2
-  talk:
-    about: 2
-  about:
-    how: 2
-    time.: 2
-  how:
-    i: 2
-    much: 2
+    new.: 1
+    sweetheart,: 9
+    genius.: 2
+    man,: 1
+    sweetheart: 1
   will:
-    be.: 2
-    be: 4
-  when:
-    i: 2
-  get:
-    income: 2
-  income:
-    for: 2
-  for:
-    my: 2
-  you're:
-    right.: 2
-  i'm:
-    fine: 2
-    doing: 2
-    not: 1
-  fine:
-    now.: 2
-  it's:
-    ok.: 2
-    tuesday.: 2
-  today,:
-    well,: 2
-  really:
-    happy: 2
-  happy:
-    today.: 2
-    to: 2
-  today:
-    is: 2
-    i: 2
-  the:
-    day,: 2
-  officially,:
-    live.: 2
-  doing:
-    great,: 2
-  great,:
-    actually.: 2
-  much.:
-    try: 2
-  try:
-    and: 2
-  make:
-    you: 2
-    life: 1
-  realize:
-    things: 2
-  things:
-    about: 2
-  telling:
-    mother: 2
-  mother:
-    how: 2
-    has: 2
-  much:
-    i: 2
-  love:
-    her.: 2
-  has:
-    a: 2
-  loving:
-    home.: 2
-  life:
-    well: 1
-  well:
-    together.: 1
-  computer,:
-    is: 2
-  mother,:
-    are: 2
-  in:
-    our: 2
-  our:
-    lives.: 2
-  going:
-    to: 1
-  here:
-    a: 1
-  long:
-    while.: 1
-  lovely:
-    bunch: 2
-  bunch:
-    of: 2
-  coconuts.:
-    ha: 2
-  'yes':
-    we: 1
-:question:
-  what:
-    is: 3
-    day: 1
-    about: 2
-  is:
-    the: 3
-    today?: 1
-    like,: 2
-  the:
-    matter?: 1
-    meaning: 2
-  trial:
-    and: 2
-  and:
-    error,: 2
-  error,:
-    you: 2
-  you:
-    know?: 4
-    want: 2
-    ok?: 5
-    teach: 2
-    agree?: 2
-    have: 3
-    see: 2
-    know: 2
-  want:
-    to: 2
-  to:
-    know: 2
-    do: 3
-    express,: 2
-  know:
-    about: 2
-    who: 2
-  about:
-    clothes?: 2
-    you?: 2
-  i:
-    haven't: 2
-    am?: 2
-  haven't:
-    laughed.: 2
-  laughed.:
-    are: 2
-  are:
-    you: 4
-  can:
-    you: 2
-  teach:
-    me: 2
-  me:
-    to: 2
-  do:
-    comedy?: 2
-    you: 7
-    today?: 1
-  meaning:
-    of: 2
-  of:
-    this?: 2
-  day:
-    is: 1
-  have:
-    anything: 1
-    any: 2
-  anything:
-    to: 1
-  any:
-    family?: 2
-  ya,:
-    what: 2
-  why:
-    don't: 2
-  don't:
-    you: 2
-  see:
-    me?: 2
-  who:
-    i: 2
-  life:
-    is: 2
-  like,:
-    hard: 2
-  hard:
-    to: 2
-  express,:
-    you: 2
-:exclamation:
-  i'm:
-    going: 2
-  going:
-    to: 2
-  to:
-    be: 2
+    be: 11
   be:
-    ok!: 2
+    ok.: 2
+    well.: 4
+    snow.: 2
+  fair:
+    to: 8
+  to:
+    be: 8
+    recall: 8
+    medical: 9
+    know: 6
+  yes,:
+    and: 8
+  and:
+    slow: 8
+    not: 1
+  slow:
+    to: 8
+  recall:
+    of: 8
+  of:
+    the: 8
+    life.: 2
+  the:
+    loss: 8
+    time: 12
+    days: 6
+  loss:
+    of: 8
+  sad:
+    sad: 6
+    sad.: 2
+  esther:
+    is: 8
+    did.: 8
+  is:
+    my: 8
+    a: 11
+  my:
+    love's: 8
+    friend: 10
+    heart,: 10
+  love's:
+    nick: 8
+  nick:
+    name,: 8
+  name,:
+    with: 8
+  with:
+    me.: 8
+  me.:
+    it: 8
+  it:
+    was: 8
+  was:
+    rose.: 8
+    a: 9
+  rose.:
+    rosalin: 8
+  rosalin:
+    beurata.: 2
+  rose:
+    was: 9
+  sweetheart,:
+    she: 9
+  she:
+    went: 9
+    did.: 6
+    pulled: 6
+    had: 12
+  went:
+    to: 9
+  medical:
+    school.: 2
+  did.:
+    she: 6
+    ya,: 3
+    your: 3
+  pulled:
+    to: 6
+  know:
+    what: 6
+  what:
+    love: 6
+  love:
+    is.: 1
+  should:
+    be: 12
+    try: 12
+  live,:
+    so: 12
+  so:
+    far: 12
+  far:
+    from: 12
+  from:
+    her: 12
+  her:
+    grave,: 12
+  grave,:
+    by: 12
+  by:
+    the: 12
+    bit.: 6
+  time:
+    i: 12
+  realized:
+    i: 12
+  had:
+    loved: 12
+    moved: 12
+  loved:
+    her,: 12
+  her,:
+    she: 12
+  moved:
+    on.: 2
+  there's:
+    this: 12
+  this:
+    game: 12
+  game:
+    we: 12
+  we:
+    should: 12
+  try:
+    playing: 12
+  playing:
+    some: 12
+  some:
+    day.: 12
+  day.:
+    chess.: 2
+  friend:
+    kurt,: 10
+  kurt,:
+    is: 10
+  no,:
+    kurt: 10
+  kurt:
+    did: 10
+    is: 1
+  did:
+    not: 10
+  not:
+    break: 10
+    a: 1
+  break:
+    my: 10
+  heart,:
+    or: 10
+  or:
+    cause: 10
+  cause:
+    me: 10
+  me:
+    heartache.: 2
+  ya,:
+    esther: 8
+  your:
+    'goal:': 8
+  'goal:':
+    see: 8
+  see:
+    why: 8
+  why:
+    i: 8
+  have:
+    heartache.: 2
+  as:
+    the: 6
+  days:
+    go: 6
+  go:
+    by,: 6
+  by,:
+    bit: 6
+  bit:
+    by: 6
+  bit.:
+    i: 6
+  you:
+    are: 4
+  are:
+    king: 4
+  king:
+    ai.: 2
+  man,:
+    and: 1
+  sweetheart:
+    ha: 1
+  ha:
+    ha.: 1
+:question:
+  how:
+    do: 7
+  do:
+    you: 17
+  you:
+    do?: 2
+    know: 10
+  know:
+    of: 10
+  of:
+    this: 10
+  this:
+    heartache?: 2
+:third_person_subjects:
+  Rose:
+  - :word: rose
+    :next_word: was
+  - :word: was
+    :next_word: a
+  - :word: a
+    :next_word: sweetheart,
+  - :word: sweetheart,
+    :next_word: she
+  - :word: she
+    :next_word: went
+  - :word: went
+    :next_word: to
+  - :word: to
+    :next_word: medical
+  - :word: medical
+    :next_word: school.
+  I:
+  - :word: i
+    :next_word: live,
+  - :word: live,
+    :next_word: so
+  - :word: so
+    :next_word: far
+  - :word: far
+    :next_word: from
+  - :word: from
+    :next_word: her
+  - :word: her
+    :next_word: grave,
+  - :word: grave,
+    :next_word: by
+  - :word: by
+    :next_word: the
+  - :word: the
+    :next_word: time
+  - :word: time
+    :next_word: i
+  - :word: i
+    :next_word: realized
+  - :word: realized
+    :next_word: i
+  - :word: i
+    :next_word: had
+  - :word: had
+    :next_word: loved
+  - :word: loved
+    :next_word: her,
+  - :word: her,
+    :next_word: she
+  - :word: she
+    :next_word: had
+  - :word: had
+    :next_word: moved
+  - :word: moved
+    :next_word: on.
+  - :word: your
+    :next_word: 'goal:'
+  - :word: 'goal:'
+    :next_word: see
+  - :word: see
+    :next_word: why
+  - :word: why
+    :next_word: i
+  - :word: i
+    :next_word: have
+  - :word: have
+    :next_word: heartache.
+:exclamation:
+  i:
+    am: 4
+  am:
+    well!: 2

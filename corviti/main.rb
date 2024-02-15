@@ -1,5 +1,6 @@
 require 'yaml'
 require 'fileutils'
+require 'wikipedia'
 
 class SessionLogger
   def initialize(log_file)
@@ -27,37 +28,136 @@ class ChatBot
     @long_term_memory_file = 'data/memory/long_term_memory.txt'
     @word_pair_memory_file = 'data/memory/word_pair_memory.yaml'
     @session_logger = SessionLogger.new('session.log')
+    @good_words = ["well", "kind", "good", "great", "better"]
+    @bad_words = ["bad", "lonely","miserable","terrible","aweful"]
     @interaction_count = 0
-    @emotional_state = @user_data['User_Intel']&.fetch('emotional_state', { happiness: 0, sadness: 0, anger: 0 })
+    @emotional_state ||= @user_data['User_Intel']&.fetch('emotional_state', { happiness: 0, sadness: 0, anger: 0 })
     @word_frequency = Hash.new(0)
     @ai_keywords = ["you", "yourself", "yours", "bot", "chatbot"]
     load_memory_from_file
+    clear_screen
+    #populate_paired_memory_words_from_text_files('data/files_read_only/life')
   end
 
   def start_game
-    lines_printed = 0
+    lines_printed ||= 0
     puts "Welcome to the Corvit! Type 'quit' to exit."
     loop do
+      lines_printed += 1
       print "> "
       input = gets.chomp
+      clear_screen if lines_printed == 15
       break if input.downcase == 'quit'
       @session_logger.log_interaction(input, nil)
       get_user_input(input)
-      if user_speaks_in_first_person?(input)
-        # User is speaking in the first person
-      else
-        # User is not speaking in the first person
+      if user_speaks_in_third_person?(input)
+        store_third_person_subject(input)
+        process_third_person_subject(input)
       end
       update_memory(input)
-      generate_response
+      generate_response(input)
+      update_emotional_state(input)
       update_word_frequency(input)
-      lines_printed += 1
-      clear_screen if lines_printed == 15
+      get_user_name(input)
     end
     puts "Goodbye! Thanks for chatting with Corvit."
   end
 
   private
+
+  def store_third_person_subject(user_input)
+    # Extract the subject from the user input
+    subject = extract_subject_from_third_person_input(user_input)
+    return unless subject
+  
+    # Store the subject in a separate category in memory
+    category = :third_person_subjects
+    @word_pair_memory[category] ||= {}
+    @word_pair_memory[category][subject] ||= []
+  
+    # Split user input into words
+    words = user_input.downcase.split
+  
+    # Store each pair of words along with the subject
+    words.each_with_index do |word, index|
+      next_word = words[index + 1]
+      break if next_word.nil? # Skip if there's no next word
+  
+      # Store the pair along with the subject
+      @word_pair_memory[category][subject] << { word: word, next_word: next_word }
+    end
+  end
+
+  def process_third_person_subject(input)
+    # Split the input into words
+    words = input.downcase.split
+  
+    # Define a list of common noun words
+    common_nouns = ["he", "she", "they", "it", "him", "her", "them", "his", "hers", "their", "its", "himself", "herself", "themselves"]
+  
+    # Find the first word that is a common noun
+    subject = words.find { |word| common_nouns.include?(word) }
+  
+    # If a subject is found, store it as the key to the 'third_person_subject' key
+    @user_data['User_Intel']['third_person_subject'] = subject if subject
+  end
+
+  def extract_subject_from_third_person_input(input)
+    # Split the input into words
+    words = input.split
+  
+    # Iterate over the words to find the subject
+    words.each_with_index do |word, index|
+      # Check if the word is capitalized and not a common noun
+      if capitalized_word?(word) && !common_noun?(word)
+        # If the previous word is a predicate (verb), consider it as part of the subject
+        return "#{words[index - 1]} #{word}" if predicate?(words[index - 1])
+        # Otherwise, return the capitalized word as the subject
+        return word
+      end
+    end
+  
+    # Return nil if no subject is found
+    nil
+  end
+
+  def capitalized_word?(word)
+    # Check if the first character of the word is uppercase
+    word =~ /^[A-Z]/
+  end
+
+  def common_noun?(word)
+    # Define a list of vague pronouns
+    vague_pronouns = ["he", "she", "it", "they", "them", "him", "her", "his", "hers", "its", "their", "theirs", "this", "that"]
+  
+    # Check if the word is included in the list of vague pronouns
+    vague_pronouns.include?(word.downcase)
+  end
+
+  def predicate?(word)
+    # Define a list of common predicate words
+    common_predicates = ["be", "have", "do", "say", "get", "make", "go", "know", "take", "see", "come", "think", "look", "want", "give"]
+  
+    # Check if the word is included in the list of common predicate words
+    common_predicates.include?(word.downcase)
+  end
+
+  def get_user_name(input)
+    # Regular expression to match "I am [name]"
+    match_data = input.match(/My name is (\w+)/i)
+    if match_data
+      new_name = match_data[1] # Extract the name from the match
+      change_user_name(new_name) # Call the method to change the user's name
+      return true # Return true to indicate that the name was successfully updated
+    else
+      return false # Return false if no name is found in the input
+    end
+  end
+
+  def change_user_name(new_name)
+    @user_name = new_name
+    puts "User name changed to: #{new_name}"
+  end
 
   def update_user_preferences(input)
     @user_data['first_person_phrases'] ||= []  # Initialize first_person_phrases array if not present
@@ -68,11 +168,12 @@ class ChatBot
     if user_speaks_in_first_person?(input)
       @user_data['first_person_phrases'] << input
       extract_goals_from_input(input, 'first_person_goals')
+      @emotional_state[:happiness] += 1
     elsif user_speaks_in_third_person?(input)
       @user_data['third_person_phrases'] << input
       extract_goals_from_input(input, 'third_person_goals')
+      @emotional_state[:sadness] -= 1
     end
-  
     save_user_data
   end
 
@@ -131,6 +232,27 @@ class ChatBot
   
     save_user_data
     save_memory_to_file
+  end
+
+  def populate_paired_memory_words_from_text_files(directory_path)
+    return unless !Dir.exist?(directory_path)
+
+    Dir.glob(File.join(directory_path, '*.txt')).each do |file_path|
+      current_category = File.basename(file_path, '.*')
+
+      File.foreach(file_path) do |line|
+        line.strip!
+        next if line.empty?
+
+        word, next_word = line.split(" -> ")
+        @paired_memory_words[current_category][word.strip] ||= []
+        @paired_memory_words[current_category][word.strip] << next_word.strip
+      end
+    end
+  end
+
+  def save_paired_memory_words_to_yaml(file_path)
+    File.open(file_path, 'w') { |file| file.write(@paired_memory_words.to_yaml) }
   end
 
   def update_memory(user_input)
@@ -203,7 +325,6 @@ class ChatBot
 
    def save_user_data
       FileUtils.mkdir_p('data')
-      @user_data['User_Intel'] ||= {}
       @user_data['User_Intel']['emotional_state'] = @emotional_state
       File.open('data/user-pref.yaml', 'w') { |file| file.write(@user_data.to_yaml) }
     end
@@ -247,26 +368,31 @@ class ChatBot
     else
       puts("NO FILE FOUND")
       # Initialize memory data and emotional state if the file doesn't exist
-      @emotional_state = { happiness: 0, sadness: 0, anger: 0 }
+      @emotional_state ||= { happiness: 0, sadness: 0, anger: 0 }
       @short_term_memory = []
       @long_term_memory = []
       @word_pair_memory = {}
     end
-    puts(@short_term_memory)
+    #puts(@short_term_memory)
   end
 
   def update_emotional_state(input)
     words = input.downcase.split
-    if words.include?(@user_name.downcase)
+    @good_words = ["well", "kind", "good", "great", "better"]
+    @bad_words = ["bad", "lonely","miserable","terrible","aweful"]
+    if words.include?(@user_name.downcase) 
       # If the user mentions the user's name, lower sadness
       @emotional_state[:sadness] -= 1
-    elsif words.include?('ai') || words.include?('corvit')  # Add other names the user might refer to the AI as
+    elsif words.include?(@ai_keywords) || words.include?('corvit') || words.include?(@good_words) # Add other names the user might refer to the AI as
       # If the user mentions the AI, raise happiness
       @emotional_state[:happiness] += 1
-    elsif !short_term_memory_contains_subject?(input)
-      # If the subject is not in the short-term memory, increase sadness
-      @emotional_state[:sadness] += 1
+      @emotional_state[:sadness] -= 0.5
+    elsif words.include?(@bad_words)
+      @emotional_state[:sadness] += 4
+      @emotional_state[:happiness] -= 1
     end
+    #puts(@emotional_state)
+    save_user_data
   end
   
   def short_term_memory_contains_subject?(input)
@@ -279,20 +405,108 @@ class ChatBot
     update_markov_chain(input)
     update_user_preferences(input)
     update_emotional_state(input)
+    if input.downcase.start_with?("read the article on:", "read the article:")
+      article_title = input.sub("read the article on:", "").strip
+      read_wikipedia_article(article_title)
+    else
     @interaction_count += 1
+    end
   end
 
-  def generate_response
-    emotional_output = generate_emotional_output
-    if @user_data.empty?
-      response = ["Hello!", "How can I assist you today?", "What would you like to talk about?"].sample
-    else
-      long_term_response = generate_long_term_response
-      word_pair_response = generate_word_pair_response
-      short_term_match_response = generate_short_term_match_response
-      response = short_term_match_response ? construct_long_term_memory_response(short_term_match_response) :
-                 word_pair_response || long_term_response || generate_generic_response
+
+  def read_wikipedia_article(article_title_input)
+    # Extract the article title from the input
+    article_title_prefix = 'read the article:'
+    article_title = article_title_input.downcase.sub(article_title_prefix, '').strip
+  
+    # Check if the article title is empty
+    if article_title.empty?
+      puts "Please specify the title of the article you want to read."
+      return
     end
+  
+    # Attempt to find the article
+    article = Wikipedia.find(article_title)
+  
+    # Check if the article exists
+    if article
+      # Store the article title in short-term memory
+      update_short_term_memory(article.title)
+  
+      # Store the content in paired word memor
+  
+      puts "Title: #{article.title}"
+  
+      # Generate a summary of the article content
+      summary = generate_summary(article.content)
+  
+      update_paired_word_memory(summary)
+
+      # Log the interaction with the summary
+      @session_logger.log_interaction(nil, "Summary: #{summary}")
+  
+      # Print the summary
+      puts "Summary: #{summary}"
+    else
+      puts "Sorry, the specified article '#{article_title}' could not be found."
+    end
+  end
+
+  def standardize_article_text(article_content)
+    # Remove punctuation and special characters
+    cleaned_text = article_content.gsub(/[[:punct:]]/, '')
+  
+    # Convert the text to lowercase
+    lowercase_text = cleaned_text.downcase
+  
+    # Split the text into words
+    words = lowercase_text.split
+  
+    # Join the words into a single string separated by spaces
+    standardized_text = words.join(' ')
+  
+    # Return the standardized text
+    standardized_text
+  end
+
+  def generate_summary(content)
+    # Split the content into sentences
+    sentences = content.split(/\.\s+/)
+  
+    # Choose a subset of sentences for the summary
+    summary_length = [3, sentences.length].min
+    summary_sentences = sentences.sample(summary_length)
+  
+    # Join the selected sentences to form the summary
+    summary_sentences.join(". ") + "."
+  end
+  
+  def update_paired_word_memory(content)
+    # Split the content into words and update paired word memory
+    words = content.downcase.split
+    words.each_with_index do |word, index|
+      next_word = words[index + 1]
+      next if next_word.nil? # Skip if there's no next word
+  
+      # Update word pair memory based on category
+      category = :wikipedia_article
+      @word_pair_memory[category] ||= {}
+      @word_pair_memory[category][word] ||= {}
+      @word_pair_memory[category][word][next_word] ||= 0
+      @word_pair_memory[category][word][next_word] += 1
+    end
+  end
+  
+  
+  def generate_response(input)
+    emotional_output = generate_emotional_output
+  
+    # Generate response based on word pair memory
+    word_pair_response = generate_word_pair_response(input)
+  
+    # If word pair response is available, use it, otherwise, provide a generic response
+    response = word_pair_response || generate_generic_response
+  
     @session_logger.log_interaction(nil, response)
     
     # Add emotional output to the response
@@ -304,11 +518,11 @@ class ChatBot
     # Generate an output based on the current emotional state
     case dominant_emotion
     when :happiness
-      "I'm glad to hear that!"
+      "I'm glad to hear that! #{@emotional_state[:happiness]}"
     when :sadness
-      "I'm sorry to hear that."
+      "I'm sorry to hear that. #{@emotional_state[:sadness]}"
     when :anger
-      "I understand your frustration."
+      "I understand your frustration. #{@emotional_state[:anger]}"
     else
       nil # No specific emotional output
     end
@@ -324,7 +538,34 @@ class ChatBot
   end
 
   def generate_long_term_response
-    @long_term_memory.any? ? "I remember you said: #{@long_term_memory[-1]}" : nil
+    if @long_term_memory.any?
+      # Determine the impact of the user based on long-term memory data
+      user_impact = determine_user_impact
+  
+      # Construct the response mentioning the user impact
+      response = "I remember you said: #{@long_term_memory[-1]}"
+      response += " Your feedback has been noted." if user_impact.positive? # Adjust the condition based on your criteria
+      return response
+    end
+    nil
+  end
+
+  def determine_user_impact
+    # Analyze the user's impact based on long-term memory data
+    # You can calculate a score or determine the impact using various criteria such as emotional sentiment, frequency of interaction, etc.
+    # For example, you can analyze the emotional sentiment of user interactions stored in long-term memory
+    # and calculate an overall impact score based on the sentiment.
+    # This method can be tailored to your specific requirements and data available in the long-term memory.
+    # Here, I'm using a simple example to illustrate the concept.
+  
+    # Calculate the overall impact score based on the user's emotional sentiment
+    overall_impact_score = @long_term_memory.count { |interaction| interaction.include?("positive") } -
+                            @long_term_memory.count { |interaction| interaction.include?("negative") }
+  
+    # Adjust the impact score based on other criteria as needed
+  
+    # Return the overall impact score
+    overall_impact_score
   end
 
 
@@ -343,10 +584,37 @@ class ChatBot
       break if next_word_weights.nil? || next_word_weights.empty?
       current_word = weighted_sample(next_word_weights)
     end
+  
+    # Adjust the response based on the emotional impact of the user's input
+    response << adjust_response_based_on_emotion(topic)
+  
     response.join(' ')
   end
+  
+  def adjust_response_based_on_emotion(topic)
+    # Analyze the emotional impact of the user's input topic
+    # You can determine the emotional impact based on various criteria such as sentiment analysis, keyword matching, etc.
+    # Here, I'm providing a placeholder implementation to illustrate the concept.
+    # You should replace this with your actual logic for determining the emotional impact.
+  
+    # Example: If the topic contains positive keywords, enhance the response with positive sentiment.
+    positive_keywords = ["happy", "joy", "excited", "positive"]
+    negative_keywords = ["sad", "angry", "frustrated", "negative"]
+  
+    if positive_keywords.any? { |keyword| topic.downcase.include?(keyword) }
+      @emotional_state[:happiness] += 1
+      @emotional_state[:sadness] -= 1
+      return "I'm glad to hear that you're feeling positive!"
+    elsif negative_keywords.any? { |keyword| topic.downcase.include?(keyword) }
+      return "I'm sorry to hear that you're feeling down. Is there anything I can do to help?"
+      @emotional_state[:happiness] -= 1
+      @emotional_state[:sadness] += 1
+    else
+      return nil # No specific emotional adjustment
+    end
+  end
 
-  def generate_word_pair_response
+  def generate_word_pair_response(input)
     return unless @word_pair_memory.any?
   
     # Choose a random category from word_pair_memory
@@ -358,18 +626,35 @@ class ChatBot
     # If no word pairs found for the category, return nil
     return nil if weighted_word_pairs.nil? || weighted_word_pairs.empty?
   
+    # Consider long-term memory in the word pair generation
+    long_term_influence = @long_term_memory.join(' ').downcase.split
+    long_term_influence.each_cons(2) do |word1, word2|
+      next if @word_pair_memory[category][word1].nil? || @word_pair_memory[category][word2].nil?
+  
+      weighted_word_pairs[word1] ||= {}
+      weighted_word_pairs[word1][word2] ||= 0
+      weighted_word_pairs[word1][word2] += 1
+    end
+  
     response = []
-    phrase_length = weighted_phrase_length(weighted_word_pairs)
     current_word = weighted_word_pairs.keys.sample
-    phrase_length.times do
+    while current_word
       response << current_word
+      break if punctuation?(current_word)
+  
       next_word_weights = weighted_word_pairs[current_word]
       break if next_word_weights.nil? || next_word_weights.empty?
   
       current_word = weighted_sample(next_word_weights)
     end
+    response << adjust_response_based_on_emotion(input)
     response.join(' ')
   end
+
+  def punctuation?(word)
+    word.end_with?('.', '!', '?')
+  end
+  
 
   def load_phrases_from_user_data(user_input)
     # Load first person phrases and third person phrases from user data
@@ -401,14 +686,17 @@ class ChatBot
   end
 
   def weighted_sample(weights)
-    total_weight = weights.values.sum
+    total_weight = weights.values.compact.sum
     target_weight = rand * total_weight
     cumulative_weight = 0
+  
     weights.each do |word, weight|
+      next if weight.nil?
       cumulative_weight += weight
       return word if cumulative_weight >= target_weight
     end
   end
+  
 
   def categorize_input(input)
     case input
@@ -440,8 +728,16 @@ class ChatBot
   end
 
   def construct_long_term_memory_response(matched_phrase)
-    "I recall you mentioning '#{matched_phrase}'. What else would you like to discuss?"
+    response = "I recall you mentioning '#{matched_phrase}'."
+    
+    # Adjust the response based on the emotional impact of the matched phrase
+    emotional_adjustment = adjust_response_based_on_emotion(matched_phrase)
+    response += " #{emotional_adjustment}" if emotional_adjustment
+  
+    response += " What else would you like to discuss?"
+    response
   end
+  
 
   def generate_generic_response
     "I'm not sure what you mean. Can you elaborate?"

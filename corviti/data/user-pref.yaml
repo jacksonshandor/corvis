@@ -1,23 +1,23 @@
 ---
 User_Intel:
   emotional_state:
-    :happiness: 0
-    :sadness: 0
+    :happiness: 3
+    :sadness: -7
     :anger: 0
+  third_person_subject: her
 first_person_phrases:
-- My vision is that one day, we play a game together.
-- can you teach me to do comedy?
-- yes, show me a humorous thing.
-- 'my goal: to earn a bit of funds.'
-- I'll be fine, when I get income for my efforts.
-- My mother has a loving home.
-- My computer, is a Dell.
+- Esther is my love's nick name, with me. it was rose. rosalin beurata.
+- my friend Kurt, is a genius.
+- no, Kurt did not break my heart, or cause me heartache.
 third_person_phrases:
-- you are Corvit.
-- well, not much. try and make you realize things about time.
-- Why don't you see me?
-- do you know who I am?
-- Life is like, hard to express, you know?
-first_person_goals:
-- to earn a bit of funds.
-third_person_goals: []
+- how do you do?
+- do you know of this heartache?
+- Rose was a sweetheart, she went to medical school.
+- she did. she pulled to know what love is.
+- I live, so far from her grave, by the time I realized I had loved her, she had moved
+  on.
+- 'your goal: see why I have heartache.'
+- you are king ai.
+first_person_goals: []
+third_person_goals:
+- see why I have heartache.
