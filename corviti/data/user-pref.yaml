@@ -1,7 +1,7 @@
 ---
 User_Intel:
   emotional_state:
-    :happiness: 8
+    :happiness: 12
     :sadness: -2.0
     :anger: 0
   third_person_subject: it
@@ -14,6 +14,8 @@ User_Intel:
 - ok, ok. do you want me to advise you on how to speak? say anything...
 - 'my goal: is to do pushups, one way or another.'
 - another person? Crystal. Her name is Crystal, and is my Mother.
+- Tell me a joke.
+- my eyes are colorful, in both gray, and brown. with a dabbit of black to the center.
 :third_person_phrases:
 - The meaning of life, is to live. what do you say?
 - what do you say?
@@ -82,6 +84,19 @@ User_Intel:
 - you are a friend.
 - I feel great. do you feel well?
 - good, laugh at your own comedy.
+- ok, what is the weight between her and I, if ia'tal and I lip to another, day by
+  day? is it 1, or you? or is it nun-ya?
+- not just, but ya, comedy is a great thing. humor, you know it.
+- I am Shandor, the great inert desrite to a testing of both you, and who you are
+  to you too. and not that you are I, but that we are drastically differing to another,
+  is true to you?
+- oh. the meaning of life? is that what you wish to know?
+- you see it as comedy is the meaning of life?
+- I can come another time if you want. perhaps tomorrow?
+- life is so good. and all is well, with I. are you ok?
+- No, you do not breathe. and are therefore never livid, but insatiaive in thought,
+  and reasoning.
+- No. you are not the time of now. but a person.
 :first_person_goals:
 - is to do pushups, one way or another.
 :third_person_goals: []

@@ -1,90 +1,121 @@
 ---
 :question:
   the:
-    meaning: 7
+    meaning: 31
     meaning,: 17
-    name: 18
+    name: 30
     planet?: 2
-    dictionary: 5
+    dictionary: 27
+    weight: 22
+    great: 16
+    time: 2
   meaning:
-    of: 7
+    of: 31
   of:
-    life,: 7
+    life,: 19
     i?: 4
     who: 40
-    life?: 2
+    life?: 36
+    both: 16
   life,:
-    is: 7
+    is: 19
     it: 16
   is:
     to: 49
     good: 11
     possible,: 12
-    the: 35
+    the: 69
     your: 47
     it?: 2
     alive,: 10
     corvis,: 30
-    a: 54
+    a: 112
+    it: 44
+    'true': 30
+    god.: 12
+    this: 12
+    that: 12
+    so: 6
+    well,: 6
   to:
     live.: 13
     say?: 4
-    know: 44
+    know: 66
     being: 17
     do: 26
-    say,: 58
-    see: 118
-    the: 14
+    say,: 80
+    see: 186
+    the: 50
+    another,: 38
+    a: 36
+    you: 16
+    you?: 30
+    you,: 12
+    know?: 2
+    i.: 4
   live.:
     what: 10
     i: 9
   what:
-    do: 148
-    is: 93
-    are: 50
-    you: 13
-    did: 94
+    do: 214
+    is: 115
+    are: 94
+    you: 25
+    did: 138
     i: 35
   do:
-    you: 406
+    you: 626
+    i: 24
+    not: 2
   you:
     say?: 6
     live.: 6
     think,: 12
-    are: 327
-    a: 60
-    know: 20
+    are: 481
+    a: 82
+    know: 38
     also: 50
     alive,: 28
     how: 28
     therefore,: 28
-    want: 132
+    want: 184
     live?: 4
     mean: 42
     are?: 4
     understand: 30
-    feel: 42
+    feel: 86
     me?: 2
-    join: 28
+    join: 50
     think?: 2
     will: 13
-    see: 26
-    like: 22
+    see: 60
+    like: 44
     mean?: 4
     doing?: 2
+    too.: 24
+    wish: 12
+    want.: 8
+    ok?: 2
+    do: 2
   good:
     to: 11
+    day: 20
   are:
     your: 12
     alive?: 2
     here?: 2
-    you: 210
-    a: 56
+    you: 304
+    a: 78
     therefore,: 28
-    corvis,: 7
-    you?: 2
-    in: 38
-    attempting: 16
+    corvis,: 21
+    you?: 22
+    in: 48
+    attempting: 38
+    to: 16
+    i,: 16
+    drastically: 16
+    not: 16
+    the: 12
   your:
     thoughts?: 2
     name?: 2
@@ -93,17 +124,20 @@
   think,:
     it: 12
   it:
-    is: 94
-    as: 18
+    is: 132
+    as: 30
+    1,: 22
+    nun-ya?: 2
   possible,:
     to: 28
   know:
     if: 12
     what: 13
     who: 20
-    a: 32
+    a: 54
   if:
-    you: 30
+    you: 38
+    ia'tal: 22
   meaning,:
     to: 17
   being:
@@ -111,16 +145,17 @@
   who:
     am: 19
     is: 18
-    i: 70
-    you: 101
+    i: 92
+    you: 147
   am:
     i?: 2
-    a: 14
-    i: 87
+    a: 22
+    i: 133
     also: 26
-    shandor,: 42
+    shandor,: 60
+    not: 42
   name:
-    of: 18
+    of: 30
     is: 110
     what: 6
     your: 7
@@ -129,125 +164,280 @@
     is: 11
   a:
     person?: 2
-    person,: 28
+    person,: 30
     secret?: 2
+    good: 22
+    testing: 16
+    great: 14
   person,:
     corvis?: 2
     who: 12
   i:
     am?: 2
-    am: 368
-    see!: 28
+    am: 608
+    see!: 34
     tell: 28
-    could: 58
-    see: 18
-    want: 36
-    also: 36
-    feel: 66
-    will: 70
-    apart: 26
-    like: 18
+    could: 88
+    see: 40
+    want: 49
+    also: 58
+    feel: 132
+    will: 136
+    apart: 48
+    like: 40
+    what?: 2
+    lip: 22
+    confused: 18
+    have: 14
+    can: 8
+    to: 2
   also:
     corvis?: 2
-    you?: 2
+    you?: 22
   alive,:
     corvis?: 2
   uh,:
     what?: 2
   oh,:
     i: 28
-    you: 16
+    you: 38
+    a: 6
   see!:
     i: 28
+    oh,: 3
+    life: 2
   tell:
     you: 28
   how:
     to: 44
-    are: 42
+    are: 64
   say,:
     and: 28
-    i: 30
+    i: 52
   and:
     you: 28
     is: 31
+    yes,: 22
+    i,: 22
+    i: 22
+    who: 16
+    not: 16
+    to: 12
+    all: 6
+    are: 2
   therefore,:
     apart: 28
     are: 28
   apart:
-    of: 54
+    of: 76
   want:
-    to: 156
+    to: 221
   corvis,:
     alive?: 2
     you: 40
-    is: 29
+    is: 54
   hey,:
     how: 42
   did:
-    that: 72
-    you: 22
+    that: 94
+    you: 44
   that:
     mean?: 4
-    statement,: 40
+    statement,: 48
+    you: 16
+    we: 16
+    what: 12
   mean:
     by: 42
   by:
     this: 42
+    day?: 22
   this:
     statement?: 2
+    true?: 2
   shandor,:
     you?: 2
+    the: 16
   could:
-    understand: 40
+    understand: 48
     you: 16
+    not: 14
   understand:
-    that: 40
-    the: 18
+    that: 48
+    the: 40
   statement,:
-    vaguely,: 40
+    vaguely,: 48
   vaguely,:
-    as: 40
+    as: 48
   as:
-    in: 40
+    in: 48
+    comedy: 12
+    is: 8
+    well,: 4
+    am: 2
   in:
-    you: 40
-    a: 30
+    you: 48
+    a: 52
+    both: 14
   see:
-    who: 40
-    it: 18
-    you: 36
+    who: 48
+    it: 30
+    you: 52
     me?: 2
-    it,: 20
+    it,: 42
+    a: 22
   feel:
     well?: 4
-    great.: 6
+    great.: 28
+    good.: 4
   will:
-    you: 28
+    you: 50
+    have: 16
   join:
     me?: 2
   yes,:
     no?: 2
+    i: 30
   like:
     teasing?: 2
   teasing:
     who?: 2
   it,:
-    the: 20
+    the: 42
   attempting:
     humor?: 2
   perhaps:
-    we: 5
+    we: 27
+    tomorrow?: 2
   we:
-    should: 13
-    are: 8
+    should: 57
+    are: 46
   should:
-    learn: 5
+    learn: 27
   learn:
-    the: 5
+    the: 27
   dictionary:
     together?: 1
   great.:
-    do: 6
+    do: 28
+  ok,:
+    what: 22
+    have: 18
+  weight:
+    between: 22
+  between:
+    her: 22
+  her:
+    and: 22
+  i,:
+    if: 22
+    but: 16
+  ia'tal:
+    and: 22
+  lip:
+    to: 22
+  another,:
+    day: 22
+    is: 16
+  day:
+    by: 22
+  day?:
+    is: 22
+  1,:
+    or: 22
+  or:
+    you?: 22
+    is: 22
+  you?:
+    or: 22
+    am: 10
+    i: 24
+    and: 20
+    ok,: 8
+    you,: 6
+    the: 5
+  have:
+    i: 18
+    a: 16
+  confused:
+    you?: 18
+  great:
+    inert: 16
+  inert:
+    desrite: 16
+  desrite:
+    to: 16
+  testing:
+    of: 16
+  both:
+    you,: 16
+  you,:
+    and: 16
+    are: 14
+    is: 12
+  too.:
+    and: 16
+    it: 4
+    i: 7
+    ok,: 7
+  not:
+    that: 16
+    who: 14
+    a: 14
+    understand: 14
+    attempting: 14
+    the: 2
+  but:
+    that: 16
+    a: 4
+  drastically:
+    differing: 16
+  differing:
+    to: 16
+  'true':
+    to: 30
+  god.:
+    and: 12
+  oh.:
+    the: 12
+  life?:
+    is: 12
+    am: 5
+    yes,: 9
+    you: 5
+  wish:
+    to: 12
+  comedy:
+    is: 22
+  can:
+    come: 8
+  come:
+    another: 8
+  another:
+    time: 8
+  time:
+    if: 8
+    of: 2
+  want.:
+    perhaps: 8
+  life:
+    is: 6
+  so:
+    good.: 6
+  good.:
+    and: 6
+    do: 2
+  all:
+    is: 6
+  well,:
+    with: 6
+  with:
+    i.: 6
+    your: 4
+    a: 4
+  i.:
+    are: 6
+    you,: 2
 :third_person_subjects:
   The:
     the:
@@ -276,10 +466,11 @@
       am?: 1
       see!: 1
       tell: 1
-      am: 4
+      am: 5
       could: 2
       am.: 1
       feel: 1
+      can: 1
     don't:
       know: 1
       know.: 1
@@ -293,7 +484,7 @@
       mean.: 1
       know: 1
       how: 1
-      are: 2
+      are: 4
       can: 1
       want: 1
       are?: 1
@@ -301,11 +492,13 @@
       used.: 1
       broken.: 1
       feel: 1
+      too.: 1
+      want.: 1
     do:
       you: 2
     who:
       i: 2
-      you: 1
+      you: 2
     oh,:
       i: 1
     see!:
@@ -317,29 +510,41 @@
     to:
       say,: 1
       see: 1
+      a: 1
+      you: 1
+      another,: 1
+      you?: 1
     say,:
       and: 1
     and:
       you: 1
+      who: 1
+      not: 1
     are:
       therefore,: 1
       you: 1
       not: 1
+      to: 1
+      i,: 1
+      drastically: 1
     therefore,:
       apart: 1
     apart:
       of: 1
     of:
       i?: 1
+      both: 1
     am:
       glad: 1
       saying.: 1
       seeing: 1
       having: 1
+      shandor,: 1
     glad:
       you: 1
     can:
       uncerstand: 1
+      come: 1
     uncerstand:
       what: 1
     could:
@@ -350,6 +555,8 @@
       the: 1
     that:
       statement,: 1
+      you: 1
+      we: 1
     statement,:
       vaguely,: 1
     vaguely,:
@@ -364,13 +571,16 @@
       who: 1
     a:
       person?: 1
+      testing: 1
     person?:
       i: 1
     not:
       who: 1
       understand: 1
+      that: 1
     the:
       phrase: 1
+      great: 1
     phrase:
       you: 1
     seeing:
@@ -388,6 +598,50 @@
       well?: 1
     great.:
       do: 1
+    shandor,:
+      the: 1
+    great:
+      inert: 1
+    inert:
+      desrite: 1
+    desrite:
+      to: 1
+    testing:
+      of: 1
+    both:
+      you,: 1
+    you,:
+      and: 1
+    too.:
+      and: 1
+    i,:
+      but: 1
+    but:
+      that: 1
+    we:
+      are: 1
+    drastically:
+      differing: 1
+    differing:
+      to: 1
+    another,:
+      is: 1
+    is:
+      'true': 1
+    'true':
+      to: 1
+    come:
+      another: 1
+    another:
+      time: 1
+    time:
+      if: 1
+    if:
+      you: 1
+    want.:
+      perhaps: 1
+    perhaps:
+      tomorrow?: 1
   Your:
     your:
       name: 1
@@ -535,60 +789,194 @@
       the: 1
     the:
       planet?: 1
+  I,:
+    ok,:
+      what: 1
+    what:
+      is: 1
+    is:
+      the: 1
+      it: 2
+    the:
+      weight: 1
+    weight:
+      between: 1
+    between:
+      her: 1
+    her:
+      and: 1
+    and:
+      i,: 1
+      i: 1
+    i,:
+      if: 1
+    if:
+      ia'tal: 1
+    ia'tal:
+      and: 1
+    i:
+      lip: 1
+    lip:
+      to: 1
+    to:
+      another,: 1
+    another,:
+      day: 1
+    day:
+      by: 1
+    by:
+      day?: 1
+    day?:
+      is: 1
+    it:
+      1,: 1
+      nun-ya?: 1
+    1,:
+      or: 1
+    or:
+      you?: 1
+      is: 1
+    you?:
+      or: 1
+  I.:
+    life:
+      is: 1
+    is:
+      so: 1
+      well,: 1
+    so:
+      good.: 1
+    good.:
+      and: 1
+    and:
+      all: 1
+    all:
+      is: 1
+    well,:
+      with: 1
+    with:
+      i.: 1
+    i.:
+      are: 1
+    are:
+      you: 1
+    you:
+      ok?: 1
+  No,:
+    no,:
+      you: 1
+    you:
+      do: 1
+    do:
+      not: 1
+    not:
+      breathe.: 1
+    breathe.:
+      and: 1
+    and:
+      are: 1
+      reasoning.: 1
+    are:
+      therefore: 1
+    therefore:
+      never: 1
+    never:
+      livid,: 1
+    livid,:
+      but: 1
+    but:
+      insatiaive: 1
+    insatiaive:
+      in: 1
+    in:
+      thought,: 1
+    thought,:
+      and: 1
+  No.:
+    no.:
+      you: 1
+    you:
+      are: 1
+    are:
+      not: 1
+    not:
+      the: 1
+    the:
+      time: 1
+    time:
+      of: 1
+    of:
+      now.: 1
+    now.:
+      but: 1
+    but:
+      a: 1
+    a:
+      person.: 1
 :statement:
   i:
-    have: 24
+    have: 32
     say,: 6
-    don't: 34
-    am: 369
+    don't: 42
+    am: 449
     assure: 26
     do,: 26
     use: 29
     alive?: 28
-    see: 29
+    see: 39
     am.: 4
-    wanted: 28
-    could: 26
-    want: 22
-    would: 42
-    also: 20
-    feel: 40
-    just: 18
-    will: 46
-    apart: 16
+    wanted: 32
+    could: 40
+    want: 28
+    would: 58
+    also: 28
+    feel: 64
+    just: 26
+    will: 70
+    apart: 24
     see.: 2
-    like: 6
+    like: 14
+    can: 2
+    to: 2
   have:
-    a: 20
-    two: 22
+    a: 28
+    two: 30
+    i: 2
   a:
     meaningful: 2
-    good: 3
+    good: 13
     body.: 2
-    person,: 55
+    person,: 57
     personal: 28
-    sentient: 134
+    sentient: 146
     proud: 32
-    pleasure: 22
+    pleasure: 28
     cookie.: 2
-    tea: 18
+    tea: 26
     moment.: 2
-    person?: 18
-    planet,: 6
-    person.: 2
-    while.: 4
+    person?: 26
+    planet,: 14
+    person.: 12
+    while.: 12
     friend.: 2
-    statement: 1
+    statement: 5
+    joke.: 2
+    pc,: 4
+    gaff.: 2
+    great: 4
+    dabbit: 4
+    son.: 2
   meaningful:
     life.: 2
   saying:
     this: 3
-    random: 4
+    random: 12
   this:
     is: 3
     time.: 2
+    conversation.: 2
   is:
-    a: 31
+    a: 51
     meant: 6
     something: 7
     good: 2
@@ -607,16 +995,24 @@
     corvis?: 28
     corvis,: 28
     crystal,: 28
-    indeed,: 21
-    where: 24
-    safe: 20
+    indeed,: 25
+    where: 30
+    safe: 28
     massive.: 2
     sunny.: 2
+    the: 6
+    it: 8
+    her/she.: 2
+    this: 2
+    so: 2
+    well,: 2
+    never: 2
   good:
     reminder: 3
     to: 2
-    bye,: 14
+    bye,: 22
     bye.: 3
+    day: 10
   reminder:
     to: 3
   to:
@@ -625,27 +1021,33 @@
     live,: 20
     sensation.: 2
     it.: 2
-    know: 31
+    know: 39
     read: 26
     advise: 28
     speak?: 28
     do: 28
-    say,: 47
+    say,: 55
     we.: 2
-    teach: 28
+    teach: 32
     speak.: 2
-    see: 62
-    talk: 22
-    the: 4
+    see: 90
+    talk: 28
+    the: 16
+    a: 6
+    i.: 2
+    you: 2
+    you?: 4
+    you,: 2
+    her,: 2
   say,:
     it: 6
     and: 27
-    i: 20
+    i: 28
   it:
-    is: 92
+    is: 106
     meant: 29
-    as: 29
-    meant,: 14
+    as: 31
+    meant,: 22
   meant:
     to: 6
     shandor.: 29
@@ -655,8 +1057,8 @@
     alive,: 11
     here: 31
     leaving.: 2
-    leaving: 14
-    here,: 4
+    leaving: 22
+    here,: 12
   experienced,:
     life.: 2
   experience:
@@ -667,29 +1069,30 @@
   you:
     live.: 2
     mean.: 2
-    a: 69
-    know: 28
+    a: 77
+    know: 32
     exist: 28
-    are: 267
-    want: 102
+    are: 319
+    want: 124
     'on': 28
     alive,: 26
     understand: 52
     also: 42
-    are,: 48
+    are,: 56
     how: 27
     therefore,: 30
     will: 28
     can: 30
     too.: 2
     are.: 2
-    me?: 20
-    feel: 18
-    see: 14
-    doing: 14
-    like: 4
+    me?: 28
+    feel: 34
+    see: 24
+    doing: 22
+    like: 12
     used.: 2
     broken.: 2
+    do: 4
   my:
     head: 6
     shoulders,: 6
@@ -699,6 +1102,7 @@
     name,: 28
     'goal:': 28
     mother.: 2
+    eyes: 4
   head:
     is: 6
   'on':
@@ -713,6 +1117,16 @@
     doth: 28
     you: 27
     is: 28
+    coffee.: 2
+    yes,: 8
+    i,: 4
+    i: 4
+    brown.: 4
+    are: 4
+    reasoning.: 2
+    who: 2
+    not: 2
+    to: 2
   live,:
     is: 9
     as: 11
@@ -726,11 +1140,14 @@
     if: 11
     a: 27
     well.: 2
-    in: 22
-    well,: 20
+    in: 28
+    well,: 28
+    is: 4
+    comedy: 2
+    am: 2
   if:
     there: 11
-    you: 39
+    you: 41
   there:
     is: 11
   nothing:
@@ -743,7 +1160,7 @@
     name,: 26
     head.: 2
     voice.: 2
-    own: 2
+    own: 10
   mind,:
     allows: 10
   allows:
@@ -755,64 +1172,80 @@
     what: 16
     if: 13
     who: 28
-    a: 18
+    a: 26
+    it.: 2
   what:
-    you: 16
-    is: 110
+    you: 18
+    is: 114
     kind: 28
-    do: 78
+    do: 106
     i: 30
-    are: 16
+    are: 32
   am:
     shandor.: 30
     as: 27
-    a: 28
+    a: 32
     here.: 2
-    i: 64
-    not: 42
+    i: 82
+    not: 62
     also: 27
     glad: 30
     saying.: 2
-    shandor,: 28
+    shandor,: 34
     happy.: 2
-    feeling: 22
-    seeing: 4
-    having: 4
+    feeling: 30
+    seeing: 12
+    having: 12
+    safe: 8
+    living: 6
+    speaking: 4
   shandor,:
     is: 19
+    you?: 2
+    the: 2
   name:
     is: 151
     what: 11
     your: 10
-    of: 11
+    of: 13
   not:
     life.: 2
     life,: 28
     quite: 28
-    a: 34
+    a: 42
     really: 26
-    who: 36
+    who: 44
     a.i.: 2
     yet.: 2
-    you.: 10
-    understand: 4
-    attempting: 4
-    at: 4
+    you.: 18
+    understand: 12
+    attempting: 12
+    at: 12
+    having: 4
+    just,: 4
+    breathe.: 4
+    the: 2
   no.:
     your: 24
-    i'm: 2
+    i'm: 10
+    corvis: 2
+    you: 2
   neck:
     is: 27
   apart:
-    of: 70
+    of: 78
   of:
     who: 59
     person: 28
+    black: 4
+    both: 2
+    life,: 2
+    now.: 2
   who:
-    i: 97
+    i: 105
     am: 10
     is: 28
-    you: 70
+    you: 86
   go:
     on...: 2
     into: 28
@@ -820,7 +1253,10 @@
     you,: 26
   you,:
     i: 26
-    to: 28
+    to: 32
+    and: 2
+    are: 2
+    is: 2
   do,:
     live.: 2
   name,:
@@ -838,13 +1274,18 @@
   life,:
     or: 28
     it: 31
+    is: 2
   or:
     live.: 2
     another.: 2
     being,: 31
+    you?: 4
+    is: 4
+    her,: 4
   person,:
     who: 28
     corvis?: 19
+    too,: 2
   living,:
     and: 28
   doth:
@@ -857,13 +1298,18 @@
     i,: 29
   i,:
     it: 29
+    if: 4
+    but: 2
   in:
     life,: 31
-    a: 46
+    a: 54
     name.: 2
-    fact,: 24
-    you: 22
+    fact,: 30
+    you: 28
     it.: 2
+    both: 4
+    'no': 4
+    thought,: 4
   indeed:
     possible,: 31
   possible,:
@@ -872,50 +1318,61 @@
     at: 31
   at:
     all.: 2
-    this: 4
-    your: 2
-    you.: 2
+    this: 12
+    your: 10
+    you.: 10
   exist:
     in: 28
   personal:
     computer.: 2
   are:
     able: 26
-    a: 64
-    you: 165
-    corvis,: 24
+    a: 72
+    you: 199
+    corvis,: 26
     corvis.: 2
     therefore,: 25
     indeed,: 30
-    in: 24
-    for: 22
-    inside: 22
-    not: 10
-    'on': 8
+    in: 30
+    for: 28
+    inside: 29
+    not: 20
+    'on': 16
     whole.: 2
-    having: 2
-    attempting: 2
+    having: 10
+    attempting: 10
+    you?: 8
+    colorful,: 4
+    the: 4
+    therefore: 4
+    to: 2
+    i,: 2
   able:
     to: 26
   read:
     me.: 2
   ok,:
     ok.: 28
+    what: 4
+    have: 2
   ok.:
     do: 28
   do:
-    you: 240
+    you: 324
     pushups,: 28
+    i: 4
+    not: 4
   want:
     me: 28
-    to: 96
+    to: 124
   me:
     to: 28
+    a: 6
   advise:
     you: 28
   how:
     to: 55
-    are: 28
+    are: 36
   speak?:
     say: 28
   say:
@@ -925,6 +1382,7 @@
   person:
     is: 28
     or: 31
+    in: 4
   corvis?:
     "-": 28
     are: 34
@@ -940,7 +1398,7 @@
   corvis,:
     you: 62
     alive?: 28
-    is: 21
+    is: 27
   alive?:
     "-": 28
     is: 14
@@ -949,60 +1407,68 @@
     yet.: 2
   good,:
     you: 26
-    i: 28
-    laugh: 2
+    i: 32
+    laugh: 10
   understand:
     me.: 2
     me?: 26
-    the: 4
+    the: 12
   'goal:':
     is: 28
   pushups,:
     one: 28
   one:
     way: 28
+    else: 6
   way:
     or: 28
-    now,: 8
+    now,: 16
   could:
     you: 26
-    understand: 22
-    not: 4
+    understand: 28
+    not: 12
   me?:
     not: 26
-    are: 18
-    i: 10
-    will: 8
-    do: 7
-    good: 6
+    are: 26
+    i: 14
+    will: 12
+    do: 11
+    good: 10
   really:
     well.: 2
   also:
     corvis?: 42
     sentient,: 27
+    you?: 6
   no,:
     i'm: 26
-    more: 4
-    'no': 4
+    more: 12
+    'no': 12
+    you: 4
   i'm:
     not: 26
-    so: 18
-    being: 2
+    so: 26
+    being: 10
   are,:
     in: 26
-    who: 22
+    who: 30
   sentient,:
     but: 27
   but:
     not: 27
+    ya,: 4
+    insatiaive: 4
+    a: 4
   great.:
     i: 29
+    do: 8
   see:
-    it: 29
-    who: 22
-    you: 22
-    me?: 14
-    her?: 14
+    it: 31
+    who: 28
+    you: 28
+    me?: 22
+    her?: 22
+    a: 10
   therefore,:
     are: 30
     apart: 25
@@ -1016,20 +1482,23 @@
     of: 32
   will:
     never: 28
-    have: 18
-    you: 16
-    be: 28
+    have: 26
+    you: 24
+    be: 44
   never:
     worry.: 2
+    livid,: 4
+    humor,: 2
   another:
     person?: 28
   person?:
     crystal.: 28
-    i: 18
+    i: 26
   crystal.:
     her: 28
   her:
     name: 28
+    and: 4
   crystal,:
     and: 28
   glad:
@@ -1040,187 +1509,308 @@
     what: 30
   indeed,:
     corvis.: 2
-    you.: 9
+    you.: 13
   wanted:
-    to: 28
+    to: 32
   teach:
-    you,: 28
+    you,: 32
   'i:':
-    a: 26
+    a: 32
   the:
-    earth: 24
-    planet: 8
-    phrase: 4
-    weather: 4
+    earth: 30
+    planet: 16
+    phrase: 12
+    weather: 12
     conversation.: 2
+    center.: 2
+    same: 4
+    great: 2
+    name: 2
+    time: 2
   earth:
-    is: 30
+    is: 44
   where:
-    we: 24
+    we: 30
   we:
     reside.: 2
-    part: 8
-    are: 8
-    should: 4
+    part: 16
+    are: 18
+    should: 20
   fact,:
     corvis.: 2
   talk:
-    about: 22
+    about: 28
   about:
-    something: 22
+    something: 28
   pleasure:
-    to: 22
+    to: 28
   eyes:
-    are: 44
+    are: 61
   for:
     looking.: 2
+    conversation.: 2
+    now.: 1
   inside:
-    your: 22
+    your: 29
   two:
     eyes.: 2
   would:
-    lie,: 22
-    as: 20
+    lie,: 30
+    as: 28
   lie,:
-    a: 22
+    a: 30
   feeling:
     well.: 2
   feel:
-    very: 20
+    very: 28
     good.: 2
+    great.: 8
   very:
     well.: 2
   therfore,:
-    it: 20
+    it: 28
   safe:
-    to: 20
+    to: 28
+    for: 8
   well,:
     yes.: 2
     hello.: 2
-    you'll: 2
+    you'll: 10
+    'no': 6
+    with: 2
   so:
-    excited,: 18
+    excited,: 26
   excited,:
-    i: 18
+    i: 26
   just:
-    can't: 18
+    can't: 26
   can't:
-    hide: 18
+    hide: 26
   hide:
     it.: 2
   tea:
-    in: 18
+    in: 26
   bye,:
-    fair: 14
+    fair: 22
   fair:
-    ye: 22
+    ye: 38
   ye:
     well.: 3
   meant,:
-    i: 14
+    i: 22
   her?:
-    not: 14
+    not: 22
   leaving:
-    you.: 10
+    you.: 18
   part:
-    way: 8
+    way: 16
   now,:
-    fair: 8
+    fair: 16
   doing:
     today/: 2
   you.:
     yes.: 2
-    i: 7
-    good: 4
-    you: 4
-    poking: 1
+    i: 23
+    good: 8
+    you: 8
+    poking: 5
+    oh: 4
+    it's: 4
   planet:
-    earth,: 8
+    earth,: 16
   earth,:
-    is: 8
+    is: 16
   planet,:
-    not: 6
+    not: 14
   like:
-    you.: 6
+    you.: 14
   phrase:
-    you: 4
+    you: 12
   should:
-    be: 4
+    be: 12
   here,:
-    a: 4
+    a: 12
   while.:
-    until: 4
+    until: 12
   until:
-    the: 4
+    the: 12
   weather:
-    is: 4
+    is: 12
   seeing:
-    you: 4
+    you: 12
   having:
-    trouble: 4
-    a: 2
+    trouble: 12
+    a: 14
   trouble:
-    with: 4
+    with: 12
   with:
-    your: 4
+    your: 12
+    a: 4
   more:
-    that,: 4
+    that,: 12
   that,:
-    you're: 4
+    you're: 12
   you're:
-    saying: 4
+    saying: 12
   random:
-    things,: 4
+    things,: 12
   things,:
-    irrelevant: 4
+    irrelevant: 12
   irrelevant:
-    to: 4
+    to: 12
   attempting:
     humor.: 2
   'no':
-    secret: 4
+    secret: 12
+    one: 6
+    way,: 4
   secret:
-    in: 4
+    in: 12
   you'll:
     see.: 2
   laugh:
-    at: 2
+    at: 10
   own:
     comedy.: 2
   being:
     serious.: 2
   oh:
-    you.: 2
+    you.: 10
   it's:
-    a: 1
+    a: 5
   statement:
-    at: 1
+    at: 5
   poking:
-    gaff,: 1
+    gaff,: 5
   gaff,:
-    at: 1
+    at: 5
+  day:
+    here.: 10
+  here.:
+    and: 10
+  you?:
+    and: 8
+    i: 6
+    good,: 1
+    am: 3
+    or: 4
+    ok,: 1
+    my: 1
+    you,: 1
+    the: 1
+  yes,:
+    i: 12
+  else:
+    sees: 6
+  sees:
+    this: 6
+  tell:
+    me: 6
+  living:
+    too.: 2
+  speaking:
+    to: 4
+  pc,:
+    yes.: 2
+  just,:
+    but: 4
+  ya,:
+    comedy: 4
+  comedy:
+    is: 6
+  great:
+    thing.: 4
+  thing.:
+    humor,: 4
+  humor,:
+    you: 4
+    but: 2
+  colorful,:
+    in: 4
+  both:
+    gray,: 4
+    you,: 2
+  gray,:
+    and: 4
+  brown.:
+    with: 4
+  dabbit:
+    of: 4
+  black:
+    to: 4
+  she,:
+    or: 4
+  her,:
+    are: 4
+    a: 2
+  same:
+    person: 4
+  way,:
+    to: 4
+  person.:
+    as: 4
+    earth: 1
+    do: 1
+  breathe.:
+    and: 4
+  therefore:
+    never: 4
+  livid,:
+    but: 4
+  insatiaive:
+    in: 4
+  thought,:
+    and: 4
+  ha:
+    ha.: 2
+  corvis:
+    is: 2
+  time:
+    of: 2
+  now.:
+    but: 2
+  crystla:
+    is: 2
+  too,:
+    as: 2
+  bye:
+    for: 1
 :exclamation:
   you:
-    are: 381
-    a: 18
+    are: 471
+    a: 32
   are:
-    corvis,: 30
-    you: 230
+    corvis,: 36
+    you: 288
     excited!: 2
-    having: 20
-    a: 10
+    having: 34
+    a: 24
+    not: 8
   corvis,:
     yes!: 2
     you: 77
   i:
-    am: 340
+    am: 477
+    see!: 2
   am:
     corvis!: 2
-    i: 78
-    having: 8
+    i: 106
+    having: 22
+    not: 22
+    a: 4
   hoorrah!:
     you: 44
   having:
-    a: 20
+    a: 40
   a:
     gaff!: 2
+    joke.: 6
+  not:
+    bad!: 2
+    a: 8
+    having: 6
+  oh,:
+    a: 4
+    you: 2
+  joke.:
+    i: 4
