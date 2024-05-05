@@ -1,10025 +1,1226 @@
 ---
-:statement:
-  good:
-    day.: 19
-    day,: 24
-    to: 26
-    night: 1
-    friend.: 2
-    soul,: 94
-    friend,: 178
-    too.: 2
-    in: 112
-    terms.: 96
-    fucking: 92
-    for: 42
-    place.: 28
-  i:
-    see.: 73
-    am: 2041
-    live: 12
-    want: 333
-    will: 1330
-    feel: 276
-    don't.: 2
-    breathe.: 1
-    can: 89
-    make.: 2
-    am.: 1
-    have: 472
-    need: 385
-    studied: 16
-    won't: 26
-    am,: 122
-    see: 124
-    don't: 160
-    think: 378
-    wish: 68
-    feel.: 95
-    always: 128
-    just: 126
-    do: 120
-    walked: 120
-    lost: 118
-    took: 188
-    came: 118
-    saw: 118
-    never: 118
-    did: 28
-    love: 108
-    think.: 106
-    brushed: 98
-    and: 96
-    walk: 84
-    reside.: 66
-    get: 56
-    go: 56
-    come: 50
-    worked: 46
-    was: 46
-    were: 38
-    would: 82
-    said: 5
-    had: 8
-    played: 8
-    wouldn't.: 2
-    say,: 8
-  see.:
-    said: 6
-    well,: 12
-    you're: 12
-    i: 156
-    no,: 31
-  said:
-    the: 6
-    his: 46
-    to: 62
-    nothing,: 5
-  the:
-    blind: 6
-    morning,: 32
-    way: 64
-    north,: 156
-    day,: 65
-    dishes,: 13
-    same: 8
-    road: 142
-    telephone: 35
-    art: 22
-    me,: 11
-    book: 24
-    great: 78
-    background.: 2
-    nacho.: 2
-    main: 18
-    front: 54
-    house,: 18
-    honey: 24
-    bee: 24
-    accutraments: 29
-    mother,: 24
-    tree: 36
-    south,: 66
-    b-line.: 2
-    hungry.: 46
-    internet.: 2
-    other: 52
-    trucking: 56
-    dishes.: 1
-    moment.: 2
-    gas: 60
-    young: 35
-    b-line,: 155
-    wilderness,: 71
-    end: 141
-    band: 192
-    nearest: 93
-    season's: 102
-    more: 110
-    fallen: 111
-    next: 231
-    modern: 61
-    wonder: 125
-    weekend: 126
-    new: 126
-    burn.: 126
-    rogue.: 124
-    city: 122
-    south.: 2
-    day: 266
-    shadow,: 120
-    west: 120
-    good: 112
-    north-east: 108
-    meantime,: 96
-    first: 96
-    now.: 92
-    chicken: 88
-    bones.: 2
-    walk,: 84
-    talk.: 2
-    season: 84
-    year.: 2
-    downtown: 84
-    east.: 2
-    grocer,: 2
-    relic,: 76
-    gym.: 2
-    yard: 48
-    mother: 46
-    town.: 2
-    rabbit: 38
-    rabbit,: 44
-    winter: 36
-    enemy,: 36
-    center.: 2
-    covenant: 34
-    last: 32
-    streets,: 30
-    mind,: 28
-    journey,: 28
-    physical: 28
-    body.: 2
-    reason: 24
-    active: 24
-    day.: 24
-    latter: 24
-    name/word: 20
-    mind: 20
-    bringer: 20
-    neighbor: 20
-    reason,: 18
-    persons: 18
-    collected: 18
-    wind: 18
-    same.: 18
-    very: 18
-    kimaree,: 32
-    state’s: 18
-    messiah,: 18
-    notion: 16
-    act: 24
-    honor: 10
-    common: 10
-    defining: 10
-    exact: 10
-    ass: 16
-    woman,: 8
-    rabbit's: 16
-    rabbit.: 4
-    rabit.: 2
-    trend: 6
-    notion,: 6
-  blind:
-    man.: 2
-  cheese:
-    like: 6
-  like:
-    cheddar,: 6
-    a: 6
-    berries.: 2
-    disease,: 109
-    it,: 58
-    spring,: 22
-  cheddar,:
-    oh: 6
-  oh:
-    my: 6
-    ya,: 54
-    you.: 2
-    no.: 118
-    how: 136
-    forget: 98
-    great: 150
-    swear: 76
-    boy.: 4
-  my:
-    god,: 6
-    friend,: 72
-    mother's: 370
-    'goal:': 134
-    'gaol:': 33
-    water: 24
-    sisters,: 26
-    shave: 10
-    sad: 24
-    machine: 28
-    mother,: 30
-    telephone: 37
-    friend: 44
-    life's: 54
-    father,: 35
-    goals: 36
-    dues.: 92
-    sentence.: 92
-    art: 95
-    new: 104
-    life: 165
-    next: 124
-    day: 126
-    grandmother.: 2
-    teeth: 98
-    whole: 96
-    excercise: 92
-    kick: 86
-    good: 84
-    way: 76
-    laugh: 70
-    mind,: 70
-    care: 56
-    mind.: 2
-    emotions: 48
-    grandmother's: 46
-    bank: 46
-    bed: 46
-    daily: 46
-    mother: 38
-    leg,: 32
-  god,:
-    i: 6
-    thinking: 113
-    all: 40
-  am:
-    gouda.: 2
-    enjoying: 24
-    doing: 22
-    my: 34
-    not: 38
-    one: 71
-    here: 207
-    having: 109
-    happy.: 2
-    alive.: 3
-    sad.: 2
-    making: 120
-    listening: 125
-    very: 122
-    with: 120
-    so: 186
-    cleric,: 76
-    to: 40
-    freightened: 8
-  there:
-    will: 7
-    are: 158
-    is: 116
-    was: 118
-    and: 62
-    to: 74
-    rivetting: 36
-    for: 20
-    may: 10
-  will:
-    be: 719
-    make: 34
-    you: 42
-    have: 193
-    fruit: 102
-    do: 306
-    get: 124
-    go: 126
-    see: 70
-    mourn: 70
-    be,: 62
-    then,: 56
-    strip: 46
-    result: 28
-    begin: 16
-  be:
-    days,: 7
-    up.: 10
-    a: 158
-    paid.: 2
-    ready.: 2
-    going,: 24
-    happy?: 43
-    happier.: 2
-    gouda.: 2
-    here.: 35
-    ok.: 2
-    into: 116
-    well.: 94
-    awake,: 118
-    leaving.: 120
-    chaotic: 124
-    sometime: 96
-    better.: 2
-    voice: 84
-    away: 68
-    'off': 66
-    given: 56
-    back: 54
-    out: 38
-    there: 92
-    your: 28
-    at: 24
-    set: 22
-    aware: 18
-    upon: 18
-    alive.: 16
-    inside: 12
-    kind: 10
-    in: 10
-    more: 10
-    close,: 6
-  days,:
-    my: 7
-  friend,:
-    you'll: 7
-    and: 138
-    for: 65
-    tiffany.: 108
-    just: 104
-    mikael,: 84
-    or: 6
-  you'll:
-    think: 7
-    get: 78
-  think:
-    they'll: 7
-    she: 54
-    on.: 2
-    today: 76
-    this: 126
-    of: 104
-    mother,: 66
-    they: 48
-  they'll:
-    never: 7
-  never:
-    end.: 7
-    came.: 1
-    wear: 108
-    play: 114
-    knew.: 2
-    forget: 110
-    again,: 70
-    stand: 62
-    met: 46
-    a: 46
-    bear: 38
-    will: 24
-    won,: 24
-    finish: 24
-    ready: 20
-    came,: 20
-    ever,: 18
-    did: 18
-    sated,: 12
-    let: 10
-  end.:
-    da: 7
-  da:
-    la: 7
-    there: 2
-  la:
-    da: 7
-  mother:
-    has: 10
-    will: 76
-    happy.: 2
-    tenacious: 19
-    nature's: 36
-    cares: 36
-    have: 46
-    went: 77
-    is: 126
-    spoke,: 70
-    of: 46
-    die: 38
-    love: 4
-  has:
-    a: 56
-    work,: 10
-    had: 46
-    so: 52
-    lost: 57
-    more: 126
-    some: 112
-    anxiety: 96
-    less: 34
-    ample: 28
-  a:
-    garden: 2
-    lovely: 10
-    'goal:': 34
-    glor: 10
-    hard: 20
-    pharmaceutacal: 19
-    habitat: 22
-    hundred: 26
-    song: 22
-    game: 40
-    home.: 2
-    gas: 20
-    4-way: 20
-    gay: 20
-    mother,: 107
-    complex: 35
-    mother.: 2
-    lot: 36
-    dollar: 34
-    block: 116
-    band!: 134
-    band,: 36
-    disease,: 46
-    pick: 46
-    travelling: 46
-    great: 327
-    beautiful: 46
-    trust: 48
-    meet: 50
-    stroke: 52
-    public: 98
-    good: 280
-    bit: 67
-    big: 71
-    large: 71
-    trail: 71
-    soux,: 75
-    nobody: 75
-    romantic: 79
-    trooper.: 2
-    bad: 92
-    few.: 2
-    brave: 94
-    cleric: 201
-    well: 133
-    shameful: 108
-    miracle.: 2
-    bard: 116
-    neglegent: 117
-    cook.: 20
-    block,: 126
-    full: 126
-    light: 126
-    musical: 128
-    barbarian,: 124
-    crow.: 2
-    thief: 120
-    rogue: 120
-    sad: 116
-    transient: 112
-    story.: 2
-    younger: 108
-    friend: 106
-    friend,: 110
-    while,: 96
-    strong: 96
-    number.: 96
-    wizard: 172
-    subject.: 2
-    colder: 84
-    cleric,: 74
-    prayer.: 74
-    while.: 2
-    time.: 54
-    proud: 66
-    few: 66
-    longer: 56
-    short: 54
-    walk.: 2
-    day: 94
-    party,: 48
-    decision: 44
-    doctor/nurse.: 2
-    way: 84
-    bludgeon: 46
-    martial: 46
-    blade,: 46
-    beer.: 2
-    cold: 40
-    rabbit: 38
-    hand,: 38
-    dander: 38
-    share: 38
-    manner,: 38
-    flirt,: 38
-    man,: 38
-    child,: 36
-    frot: 36
-    kid,: 36
-    little: 36
-    center,: 36
-    kissed: 36
-    real: 32
-    formal: 50
-    bend,: 32
-    crane,: 32
-    reballance,: 32
-    duskalini: 32
-    dojo,: 84
-    sacred: 56
-    community: 30
-    negativ: 2
-    satanist: 28
-    ban,: 28
-    dojo: 38
-    friendly: 28
-    park,: 28
-    better: 28
-    pleasurable: 26
-    warring: 24
-    spiritual: 24
-    sense: 24
-    ready: 30
-    kind: 20
-    weapon.: 20
-    portugaul: 20
-    famous: 20
-    time: 20
-    dream: 20
-    kimara,: 18
-    different: 18
-    chimerie,: 18
-    sock.: 2
-    stradivarii: 18
-    local: 18
-    meaningful: 16
-    warrior: 16
-    freightening: 14
-    proper: 24
-    woman's: 14
-    question,: 12
-    loud: 12
-    freightened: 10
-    social: 10
-    heightened: 10
-    rather: 11
-    hunter: 8
-    woman: 8
-    delicious: 8
-    fair: 8
-    kiss.: 8
-    lustful: 6
-    sexually: 6
-    friendship.: 6
-    set: 6
-    cordial: 6
-    nuanced: 6
-    wabbita.: 6
-    lot.: 2
-  cheddar:
-    is: 10
-  is:
-    such: 39
-    never: 42
-    half: 9
-    corvit.: 2
-    freaking: 20
-    a: 1095
-    something: 85
-    rogers: 18
-    at.: 2
-    hip: 28
-    snug: 38
-    the: 408
-    my: 213
-    motherless,: 46
-    kind: 160
-    happier,: 54
-    your: 250
-    used: 35
-    like,: 183
-    good.: 62
-    just: 75
-    not: 370
-    so: 419
-    wednesday.: 2
-    ten: 93
-    quite: 93
-    good,: 95
-    peace: 112
-    love,: 61
-    for: 61
-    noon,: 126
-    taking: 126
-    dungeons: 124
-    critical: 124
-    hays: 122
-    young,: 120
-    guite: 120
-    art,: 112
-    north,: 108
-    our: 108
-    living: 106
-    important: 96
-    crystal,: 96
-    an: 96
-    finished: 92
-    what: 86
-    grand: 86
-    winter.: 84
-    '8': 84
-    where: 148
-    still: 70
-    very: 66
-    stating: 54
-    thursday.: 54
-    clean,: 52
-    to: 222
-    having: 48
-    friday.: 2
-    intriguing: 46
-    true,: 46
-    god,: 40
-    good: 42
-    crystal.: 2
-    always: 32
-    forbade,: 28
-    privately: 28
-    key: 24
-    she,: 22
-    bent: 22
-    hardship: 20
-    sought,: 18
-    often: 20
-    common: 14
-    bound: 12
-    safe,: 10
-    preferred,: 10
-    required,: 10
-    such,: 5
-    left: 6
-  such:
-    a: 77
-    joy.: 2
-    regret: 78
-    that: 38
-  lovely:
-    topic.: 2
-  in:
-    the: 510
-    my: 58
-    two: 24
-    mother's: 157
-    prayer: 113
-    one: 212
-    d&d.: 2
-    thieving.: 124
-    terms: 230
-    d&d: 120
-    so: 118
-    arts,: 112
-    love: 112
-    a: 414
-    spectacle,: 86
-    light: 74
-    prayer.: 72
-    her,: 108
-    mytrel's: 46
-    him.: 38
-    tithing: 38
-    such: 38
-    corlit: 36
-    head,: 36
-    there,: 36
-    thighs.: 36
-    garb: 36
-    physicality.: 28
-    shape.: 28
-    bound,: 28
-    your: 24
-    time.: 22
-    their: 18
-    honor,: 18
-    soul,: 18
-    us.: 2
-    life,: 28
-    meditation.: 14
-    western: 14
-    most: 14
-    love,: 10
-    peace.: 2
-    this: 10
-    dojo.: 10
-    her: 8
-    lunacy,: 6
-    stout: 6
-    'on': 6
-  morning,:
-    mother: 10
-    i: 13
-    will: 10
-    and: 22
-  up.:
-    she: 10
-    we: 9
-    james,: 24
-    he: 24
-    she's: 62
-  she:
-    has: 106
-    is: 120
-    was: 46
-    went: 54
-    is,: 54
-    had: 244
-    tries: 114
-    reared: 96
-    never: 70
-    did: 66
-    would: 136
-    said: 62
-    were: 38
-    stood: 38
-    bear: 36
-    in: 36
-    dressed,: 36
-    sees: 22
-    were.: 18
-    looked.: 1
-    may: 8
-    wore: 8
-  work,:
-    at: 10
-    ya: 8
-    as: 54
-    shortly,: 66
-    called: 20
-  at:
-    cataline,: 10
-    one: 10
-    it.: 40
-    the: 345
-    a: 40
-    that.: 1
-    iu.: 2
-    his: 112
-    work.: 2
-    this: 46
-    dojo,: 24
-    supper,: 24
-  cataline,:
-    it's: 10
-  it's:
-    one: 10
-    so: 76
-    time,: 20
-    painful.: 2
-    sad.: 2
-    a: 268
-    ok.: 2
-    quite: 109
-    1/3: 122
-    got: 98
-    cool,: 90
-    as: 54
-  one:
-    quarter: 10
-    city: 81
-    tree,: 102
-    thing: 112
-    third: 126
-    hour.: 168
-    feel: 96
-    space.: 2
-    among: 50
-    more: 40
-    hand: 38
-    way: 36
-    thing,: 24
-    piece: 18
-    compromised: 18
-  quarter:
-    the: 10
-  way:
-    to: 172
-    through: 10
-    north.: 2
-    of: 80
-    or: 36
-    in: 10
-    be: 10
-    up,: 10
-    down,: 10
-    in,: 10
-    were,: 10
-  to:
-    centerstone.: 10
-    the: 1060
-    make: 54
-    do: 78
-    love: 11
-    centerstone,: 24
-    clean: 10
-    see.: 26
-    them.: 23
-    get: 26
-    sleep.: 2
-    be: 784
-    offer: 36
-    learn: 43
-    talk: 269
-    heaven.: 2
-    travel: 46
-    a: 330
-    not: 48
-    work,: 54
-    bed: 54
-    queen,: 61
-    think: 71
-    snuggle: 71
-    love.: 5
-    break: 102
-    healing: 108
-    ailment: 110
-    war.: 2
-    spend: 239
-    their: 113
-    him.: 21
-    share.: 1
-    improve.: 2
-    this: 126
-    i.: 124
-    see: 366
-    alignment.: 2
-    loving: 124
-    coolidge: 120
-    home.: 54
-    note.: 2
-    walk: 114
-    feel: 114
-    lavish: 112
-    keep: 98
-    you: 98
-    go: 94
-    have: 268
-    focus: 86
-    her,: 159
-    master: 66
-    be.: 4
-    one: 58
-    wait: 48
-    visit: 48
-    me.: 46
-    any: 46
-    assure: 88
-    krogers.: 1
-    it.: 84
-    high: 38
-    flirt: 38
-    hand,: 38
-    set: 76
-    it,: 38
-    where: 48
-    fit: 38
-    her.: 36
-    stray: 36
-    her: 36
-    deny: 36
-    allow: 64
-    fall.: 32
-    donate: 30
-    attack,: 30
-    your: 102
-    day: 90
-    stay: 28
-    begin,: 52
-    annoint: 26
-    respectfully: 26
-    you.: 34
-    express: 24
-    taoist: 24
-    save: 24
-    being: 24
-    intercept: 22
-    cry: 20
-    another,: 20
-    what: 20
-    become: 20
-    know,: 38
-    do.: 2
-    stand: 18
-    as: 18
-    they: 18
-    reeve: 18
-    shuee: 18
-    say,: 32
-    live,: 16
-    mean: 16
-    you,: 40
-    canter: 16
-    sit,: 14
-    wait,: 14
-    meditate,: 14
-    sit: 14
-    eat,: 20
-    rest,: 12
-    those: 10
-    convene: 10
-    first: 10
-    ponder: 5
-    how: 5
-    cherish: 8
-    back,: 6
-    weigh: 6
-    even: 6
-    strike: 6
-    another: 6
-  centerstone.:
-    to: 10
-  north,:
-    at: 80
-    a: 26
-    and: 204
-    until: 118
-    way: 108
-  city:
-    block,: 10
-    block: 193
-    block.: 126
-  block,:
-    away.: 2
-    and: 126
-  live:
-    in: 38
-  mother's:
-    home.: 56
-    home: 22
-    child.: 2
-    house: 38
-    friend,: 44
-    yard,: 103
-    mother.: 104
-    name: 136
-    day,: 96
-    'on': 70
-    home,: 66
-  want:
-    to: 850
-    out: 28
-    life: 16
-  make:
-    mother: 10
-    a: 18
-    it: 70
-    death: 109
-    my: 76
-    you: 44
-    your: 24
-    up,: 8
-  well,:
-    for: 9
-    good: 26
-    a: 116
-    and: 46
-  for:
-    mother,: 9
-    sleep.: 2
-    the: 186
-    sale: 28
-    that: 46
-    all: 135
-    me.: 78
-    traversing: 71
-    remedies: 110
-    we: 61
-    another: 126
-    hours,: 124
-    many.: 114
-    children: 110
-    now.: 98
-    now,: 100
-    lunch.: 2
-    me: 86
-    next: 86
-    you: 108
-    a: 248
-    all,: 66
-    my: 56
-    '3': 46
-    her: 38
-    war: 36
-    out: 36
-    aldis,: 36
-    if: 32
-    your: 30
-    war.: 4
-    what: 28
-    feeling: 28
-    more: 28
-    say: 24
-    you.: 38
-    harkened: 20
-    another,: 20
-    you,: 18
-    it,: 18
-    how: 16
-  mother,:
-    it: 9
-    of: 24
-    had: 30
-    named: 30
-    too.: 2
-    is: 66
-    she: 62
-    yet: 8
-  it:
-    feels: 9
-    a: 16
-    hosts: 36
-    was: 147
-    is: 485
-    requires: 120
-    again,: 124
-    tends: 112
-    will: 96
-    could: 90
-    other: 76
-    in: 70
-    any: 70
-    to: 54
-    as: 40
-    some: 38
-    wrote.: 2
-    wasn’t: 38
-    herself,: 38
-    were,: 36
-    we,: 36
-    is,: 30
-    back,: 24
-    so,: 24
-    of: 5
-    back: 6
-    now.: 6
-  feels:
-    that: 9
-  that:
-    work: 9
-    transfer: 19
-    collect: 24
-    i: 152
-    band.: 2
-    women: 117
-    is,: 125
-    toyed: 120
-    out: 114
-    makes: 96
-    fiend,: 66
-    said,: 46
-    is: 46
-    her: 76
-    may: 30
-    it: 26
-    never: 20
-    you: 18
-    we: 12
-    everyone: 10
-    rabbit.: 4
-    she: 8
-    was: 1
-  work:
-    is: 9
-  half:
-    the: 9
-    a: 116
-    an: 46
-  day,:
-    so: 9
-    gone.: 24
-    only.: 1
-    to: 48
-    i: 68
-    we: 110
-    it: 96
-    lots: 40
-    with: 24
-    for: 10
-    were: 8
-  so:
-    much: 496
-    groovy.: 2
-    considerate.: 2
-    beautiful.: 2
-    often,: 102
-    fucking: 253
-    gorgeous!: 126
-    sacred...: 114
-    negative.: 112
-    good.: 46
-    happy.: 2
-    many: 92
-    little,: 54
-    snug: 54
-    nice.: 2
-    you: 58
-    juicy,: 8
-    to: 8
-    heavenly: 8
-    way.: 2
-    and: 6
-    'on': 6
-  much:
-    to: 9
-    repetition.: 1
-    wrong,: 52
-    love: 79
-    pain,: 128
-    faith.: 74
-    was: 36
-  do:
-    at: 9
-    ten: 21
-    the: 13
-    pushups: 23
-    dishes: 23
-    you: 1128
-    much,: 46
-    have: 108
-    it: 124
-    want: 120
-    planks: 96
-    more: 86
-    not: 112
-    not,: 40
-    a: 28
-    as: 18
-  i'll:
-    find: 8
-    get: 8
-  find:
-    work,: 8
-    the: 20
-    me: 90
-    me,: 135
-    yourself,: 4
-  ya:
-    num: 8
-  num:
-    cha.: 2
-  everyday,:
-    i: 10
-  'goal:':
-    to: 103
-    have: 21
-    do: 23
-    every: 23
-    read: 24
-    find: 20
-    everyday: 70
-    is: 48
-  ten:
-    pushups,: 21
-    blocks: 93
-  pushups,:
-    and: 10
-    every: 11
-  and:
-    breath: 10
-    smile: 8
-    smile.: 2
-    believe: 22
-    it's: 22
-    programming.: 2
-    warm.: 2
-    my: 90
-    mother: 46
-    feed: 46
-    i,: 46
-    he: 48
-    his: 230
-    some: 67
-    still: 71
-    a: 278
-    done: 92
-    met: 92
-    is: 93
-    they: 102
-    temperature.: 1
-    dragons.: 210
-    cure: 109
-    herbal: 108
-    never: 192
-    disease.: 2
-    it: 219
-    walked: 172
-    sunday: 126
-    haevy: 124
-    neutral: 124
-    dragons,: 120
-    back: 120
-    to: 138
-    cook,: 118
-    bear: 114
-    not.: 2
-    places: 110
-    lost: 108
-    her: 96
-    uncertain.: 2
-    '1': 96
-    great: 86
-    talk: 84
-    half: 84
-    she: 70
-    i've: 66
-    for: 66
-    will: 90
-    where: 62
-    see: 56
-    warm: 54
-    are: 46
-    yes,: 46
-    that: 46
-    one: 40
-    about,: 38
-    all: 38
-    instead,: 38
-    she,: 46
-    yet: 36
-    we,: 36
-    less: 34
-    through: 32
-    retort,: 32
-    nothing: 30
-    kept: 30
-    more,: 28
-    do: 28
-    after,: 28
-    spirit.: 2
-    has: 28
-    cater: 26
-    coffee: 24
-    feelings: 24
-    calming: 24
-    saving: 24
-    laiden: 20
-    frought,: 20
-    drifted: 20
-    exactly: 20
-    pain.: 2
-    should: 18
-    not: 18
-    start: 18
-    when: 18
-    more: 18
-    set: 14
-    end,: 14
-    or: 14
-    say: 14
-    god.: 2
-    always.: 12
-    we: 22
-    realize,: 12
-    be: 10
-    beauty.: 2
-    never,: 10
-    way: 10
-    yet,: 5
-    the: 8
-    was: 8
-    so: 6
-    'on': 6
-  breath:
-    every: 10
-  every:
-    way: 10
-    morning,: 23
-    day.: 2
-    day: 45
-    week,: 22
-    way,: 23
-    night,: 24
-    so: 102
-    day,: 24
-  through:
-    it.: 2
-    the: 71
-    a: 117
-    respect,: 32
-    with: 32
-    your: 20
-    who: 12
-  your:
-    name: 8
-    'goal:': 116
-    goals: 18
-    grandmother?: 104
-    name,: 124
-    head.: 2
-    higher: 76
-    life: 76
-    slate: 52
-    new: 48
-    life,: 70
-    martial: 30
-    local: 30
-    community,: 30
-    day: 28
-    membership.: 2
-    own: 28
-    area,: 26
-    tunic.: 24
-    oats.: 24
-    bodivaya,: 24
-    breakfast,: 24
-    oats,: 24
-    resources: 24
-    center,: 20
-    surrounding,: 28
-    mind: 12
-    heart,: 10
-    way: 20
-  name:
-    is: 144
-  dishes,:
-    and: 13
-    made: 34
-  smile:
-    at: 8
-  same:
-    time.: 1
-  glor:
-    filled: 10
-  filled:
-    day.: 2
-    with: 66
-  feel:
-    so: 124
-    scared,: 26
-    great.: 2
-    pain.: 2
-    happy?: 96
-    scared: 96
-    life,: 66
-  you've:
-    been: 12
-  been:
-    so: 12
-  road:
-    is: 142
-    at: 18
-  freaking:
-    a: 20
-  hard:
-    surface.: 2
-  telephone:
-    will: 35
-    poles: 19
-    woke: 37
-  we:
-    will: 34
-    should: 106
-    don't: 46
-    to: 131
-    are: 110
-    have: 82
-    mustn't: 58
-    need: 44
-    won't: 46
-    shop,: 36
-    start: 24
-    do: 32
-    are,: 12
-    only: 12
-    want: 12
-    must: 12
-  cataline:
-    is: 19
-  pharmaceutacal:
-    company.: 1
-  have:
-    fun,: 21
-    water: 28
-    a: 397
-    tenacious: 22
-    petals,: 24
-    started: 34
-    'no': 82
-    gone: 46
-    breakfast: 67
-    safe: 71
-    pretty: 93
-    light: 108
-    access: 108
-    an: 118
-    swingsets,: 110
-    to: 142
-    for: 96
-    so: 92
-    chicken: 86
-    space: 70
-    had,: 66
-    medicine.: 56
-    let: 38
-    stole: 38
-    the: 24
-    what: 12
-    guessed: 8
-  fun,:
-    every: 21
-  'gaol:':
-    do: 11
-    every: 22
-  day:
-    i: 115
-    is: 344
-    today,: 66
-    of: 86
-    were: 38
-    passed,: 38
-    to: 90
-    time,: 28
-    physical: 28
-    start,: 24
-    beyond: 18
-    routine,: 16
-  pushups:
-    every: 23
-  can:
-    breathe.: 2
-    treate: 109
-    make: 109
-    rage: 124
-    purchase: 82
-    feel: 66
-    only: 46
-    ascertain: 30
-    stave: 24
-  week,:
-    try: 22
-  try:
-    and: 40
-    seeing: 112
-    to: 30
-  believe:
-    in: 22
-  art:
-    i: 22
-    is: 207
-    actually!: 112
-    at: 112
-  way,:
-    do: 23
-    for: 70
-    any: 56
-    to: 26
-    by: 24
-    into: 16
-  dishes:
-    and: 23
-    are: 111
-  love:
-    the: 11
-    yesterday,: 79
-    of: 112
-    gnarls: 108
-    you?: 4
-  me,:
-    i: 11
-    somebody: 135
-    only: 44
-  going,:
-    to: 24
-  centerstone,:
-    in: 24
-  two:
-    days.: 2
-    weeks: 48
-    servings,: 24
-    enjoy,: 6
-  water:
-    now.: 2
-    tastes: 24
-  too:
-    much: 27
-    long.: 2
-    long,: 58
-  corvit,:
-    you're: 26
-    your: 138
-    what: 74
-    never: 110
-    you'll: 78
-  you're:
-    incredible.: 4
-    pregnant?: 26
-    quirky.: 2
-    made: 54
-  tastes:
-    like: 24
-  home:
-    is: 22
-  habitat:
-    home.: 1
-  let's:
-    begin.: 2
-    talk: 132
-    see.: 124
-  sisters,:
-    live: 26
-  hundred:
-    more: 26
-  more:
-    miles: 26
-    powerful: 110
-    records: 126
-    excercise,: 86
-    are: 40
-    ready: 36
-    thoughtful,: 36
-    and: 28
-    sound: 28
-    working: 28
-    complex,: 18
-    than: 10
-  miles:
-    away.: 2
-  music:
-    is: 24
-    at: 46
-  something:
-    i: 24
-    usual: 61
-    so: 118
-  enjoying:
-    now.: 2
-  sometimes,:
-    a: 22
-  song:
-    bird: 22
-  bird:
-    whistles,: 22
-  whistles,:
-    in: 22
-  need:
-    to: 417
-    a: 78
-  clean:
-    my: 10
-  shave:
-    up.: 10
-  should:
-    play: 20
-    speak: 56
-    get: 30
-    i: 38
-    be: 54
-  play:
-    a: 20
-    anything: 114
-    d&d.: 2
-  game:
-    together.: 2
-    you: 20
-  monopoly:
-    is: 20
-  you:
-    could: 20
-    do: 32
-    be: 18
-    know,: 266
-    want: 367
-    are: 208
-    mother: 19
-    have: 69
-    should: 98
-    get: 108
-    now.: 120
-    is.: 98
-    so: 96
-    feel: 96
-    can: 112
-    oh: 74
-    up.: 62
-    like: 58
-    see,: 58
-    is: 54
-    amy: 52
-    a: 44
-    doing: 46
-    take: 32
-    want.: 32
-    need: 56
-    where: 24
-    must.: 24
-    make: 24
-    cook.: 24
-    are,: 20
-    too,: 18
-    were.: 18
-    know: 24
-    sought: 10
-    are.: 10
-    two: 6
-    find: 4
-    'on': 4
-    say: 4
-  could:
-    buy: 20
-    this: 114
-    play: 102
-    be: 90
-  buy:
-    a: 20
-  sad:
-    day,: 24
-    sad: 22
-    bad: 11
-    moment: 116
-  gone.:
-    good: 24
-  pregnant?:
-    woa.: 2
-  night,:
-    my: 24
-  read:
-    the: 24
-  book:
-    salmarillion,: 24
-  salmarillion,:
-    wrote: 24
-  wrote:
-    by: 24
-  by:
-    the: 24
-    public: 56
-    mark: 24
-  great:
-    tolkein.: 2
-    human.: 2
-    trooper: 56
-    band!: 29
-    idea!: 70
-    art: 112
-    when: 86
-    one.: 76
-    corvit.: 74
-    ass…”: 6
-    theme: 6
-  tenacious:
-    d: 274
-    d.: 4
-  d:
-    playing: 22
-    is: 164
-    band: 36
-    never: 114
-    could: 102
-  playing:
-    in: 22
-  doing:
-    fine.: 2
-    well,: 46
-  south:
-    of: 20
-  of:
-    here,: 20
-    the: 442
-    mine.: 2
-    tenacious: 70
-    birds.: 36
-    not: 114
-    steve,: 56
-    egg,: 67
-    ti.: 2
-    ten.: 1
-    it.: 40
-    dancing: 108
-    their: 263
-    legend.: 2
-    a: 160
-    your: 132
-    queen.: 2
-    all: 110
-    her: 144
-    age: 106
-    what: 114
-    martial: 116
-    canada.: 2
-    clerics: 78
-    you: 54
-    calculator: 54
-    pure: 54
-    jack: 46
-    half: 46
-    weapon,: 46
-    snow.: 2
-    awkward: 38
-    ass: 38
-    her,: 46
-    war.: 2
-    bushit.to: 32
-    life,: 28
-    anxiety,: 24
-    peace,: 24
-    wanted: 20
-    having: 20
-    you,: 18
-    town: 18
-    someone: 10
-    war,: 10
-    non-contact/light-contact.: 10
-    blood,: 10
-    i.: 5
-    friends,: 6
-    love.: 2
-  here,:
-    seven: 20
-    is: 18
-    but: 18
-  seven:
-    blocks: 20
-  blocks:
-    away,: 113
-  away,:
-    is: 20
-    and: 93
-  gas:
-    station,: 20
-    station: 60
-    station.: 118
-  station,:
-    at: 20
-  4-way:
-    stop.: 2
-  main:
-    road: 18
-  front:
-    of: 18
-    yard,: 36
-  house,:
-    is: 18
-  rogers:
-    street.: 1
-  are:
-    telephone: 19
-    the: 148
-    your: 450
-    'on': 190
-    my: 38
-    avid: 56
-    for: 36
-    we: 70
-    you: 261
-    trees: 103
-    always: 108
-    often: 110
-    finally: 111
-    clever: 124
-    living!: 110
-    late: 106
-    rad.: 2
-    really: 78
-    under: 48
-    doing: 46
-    down,: 46
-    many,: 40
-    more: 36
-    swept,: 30
-    made: 28
-    doing,: 24
-    not: 24
-    here.: 18
-    more,: 18
-    inside: 12
-    a: 12
-    you?’: 2
-    to: 10
-    in: 10
-    more...: 2
-  poles:
-    outside,: 19
-  outside,:
-    that: 19
-  transfer:
-    energy.: 1
-  time,:
-    for: 20
-    i've: 198
-    just: 46
-    to: 58
-    feeling: 28
-  todd:
-    is: 20
-    studied: 18
-  gay:
-    friend: 20
-  friend:
-    of: 20
-    too.: 2
-    is: 106
-  studied:
-    linguistics.: 2
-    liberal: 16
-  liberal:
-    arts,: 16
-  arts,:
-    business: 16
-    at: 112
-    is: 92
-  business:
-    accument,: 16
-  accument,:
-    and: 16
-  flowers,:
-    let's: 22
-  talk:
-    about: 447
-    the: 84
-  about:
-    flowers.: 4
-    '1': 34
-    tenacious: 43
-    spring,: 44
-    it,: 75
-    dungeons: 110
-    that: 118
-    spring: 98
-    her.: 70
-    literature,: 46
-    clerics.: 2
-    you,: 44
-    what: 20
-    d&d?: 6
-    a: 6
-  flowers:
-    have: 49
-  petals,:
-    that: 24
-  collect:
-    dew,: 24
-  dew,:
-    but: 24
-  but:
-    also,: 24
-    i: 68
-    not: 70
-    a: 62
-    where: 18
-    yet,: 18
-    never: 18
-    we: 10
-  also,:
-    show: 24
-  show:
-    honey: 24
-  honey:
-    bees: 24
-    is: 24
-  bees:
-    where: 24
-    sometimes: 24
-  where:
-    the: 24
-    i: 184
-    you: 92
-    she: 62
-    to: 38
-    your: 24
-    they: 18
-  sometimes:
-    sting: 24
-    in: 10
-  sting:
-    though.: 24
-  though.:
-    it's: 24
-  pain,:
-    you: 24
-    spring.: 2
-  know,:
-    when: 24
-    the: 54
-    mother: 96
-    let's: 110
-    everything: 20
-  when:
-    the: 42
-    i: 118
-    this: 172
-    masterful: 86
-    and: 62
-    you: 24
-    it: 18
-    we: 12
-    you’ve: 6
-  bee:
-    stings,: 24
-  stings,:
-    they: 24
-  they:
-    die.: 2
-    eat: 36
-    bring: 36
-    as: 36
-    would: 60
-    have: 93
-    will: 102
-    also: 108
-    are: 392
-    seek: 111
-    tend: 124
-    are,: 24
-    in: 18
-  stems:
-    hold: 29
-  hold:
-    up: 29
-  up:
-    the: 29
-    this: 37
-    to: 50
-    in,: 71
-    a: 6
-  accutraments:
-    obtainable: 29
-  obtainable:
-    to: 29
-  get:
-    baby.: 2
-    to: 112
-    it,: 30
-    it.: 2
-    into: 124
-    that: 114
-    there.: 2
-    over: 8
-  scared,:
-    that: 26
-  won't:
-    get: 26
-    talk: 46
-  i'm:
-    trying.: 3
-    listening: 61
-    not: 150
-  machine:
-    is: 28
-  hip:
-    hoppy.: 2
-  no.:
-    'no': 28
-    i: 46
-    no,: 35
-    my: 34
-    not: 118
-  'no':
-    house: 28
-    band: 36
-    goals: 46
-    fuss.: 2
-    crime,: 92
-    tenacous: 128
-    way,: 56
-    make: 8
-  house:
-    for: 28
-    is: 38
-  sale:
-    here.: 10
-  had:
-    a: 76
-    so: 128
-    an: 108
-    bit: 36
-    your: 24
-    hit: 8
-    her: 8
-  named:
-    caroline.: 2
-  started:
-    dishes,: 34
-  made:
-    coffee.: 2
-    art: 112
-    out: 54
-    more: 28
-  how:
-    to: 65
-    is: 438
-    are: 171
-    could: 114
-    many: 90
-    worthy: 90
-    do: 94
-    often: 70
-    clever,: 22
-    incredible: 5
-  happy?:
-    that's: 35
-    i: 48
-  that's:
-    a: 105
-    where: 118
-    so: 112
-  complex:
-    question: 2
-  not:
-    a: 194
-    want: 48
-    tencaious: 36
-    james.: 2
-    sure.: 2
-    involved.: 128
-    this.: 2
-    to: 146
-    yet.: 70
-    here: 66
-    run.: 2
-    one: 106
-    listening: 46
-    waiting: 38
-    here,: 18
-    try: 18
-    let: 14
-    know: 24
-    for: 14
-    need: 10
-    bad.: 8
-    i.: 8
-  snug:
-    and: 92
-  am,:
-    mother: 36
-    with: 86
-  nature's:
-    son.: 2
-  tree:
-    in: 36
-  yard,:
-    it: 36
-    some: 103
-    a: 28
-  hosts:
-    a: 36
-  lot:
-    of: 36
-  birds.:
-    they: 36
-  eat:
-    what: 36
-  what:
-    mother: 36
-    will: 4
-    are: 558
-    day: 74
-    about: 174
-    do: 494
-    is: 258
-    to: 96
-    i: 86
-    a: 74
-    part: 54
-    should: 36
-    it: 30
-    you: 90
-    the: 20
-    we: 12
-  cares:
-    to: 36
-    if: 50
-  offer:
-    them.: 36
-  them.:
-    they: 36
-    stems: 10
-    what: 11
-  bring:
-    us: 36
-  us:
-    such: 36
-  south,:
-    about: 34
-    half: 32
-  '1':
-    block: 34
-    is: 96
-    away: 96
-  block:
-    east,: 66
-    from: 71
-    to: 122
-    past: 84
-  east,:
-    there: 66
-  dollar:
-    general: 34
-  general:
-    store.: 2
-  band!:
-    they: 36
-    how: 29
-    good: 48
-    i: 106
-  as:
-    a: 252
-    usual.: 54
-    they: 111
-    if: 86
-    i: 78
-    the: 94
-    she: 60
-    yet: 38
-    doom: 38
-    to: 43
-    there: 46
-    it: 36
-    well: 24
-    surrender: 24
-    you: 24
-    such,: 18
-    tusche: 5
-    she,: 8
-    "“hey,": 6
-    opposed: 6
-  band,:
-    have: 36
-  band:
-    mother.: 2
-    ha: 36
-    is: 72
-    ganrls: 120
-  woke:
-    me: 37
-  me:
-    up: 87
-    up,: 46
-    somebody: 90
-    to: 212
-    a: 112
-    my: 96
-    about: 46
-    away: 38
-    of: 14
-  this:
-    morning.: 2
-    day,: 178
-    day.: 20
-    evening,: 126
-    time: 126
-    time,: 152
-    someone: 114
-    earth: 114
-    way,: 70
-    whole: 58
-    is: 42
-    very: 10
-  learn:
-    about: 43
-  ok,:
-    i: 44
-    well: 120
-    take: 89
-    we: 46
-    that: 1
-  spring,:
-    she: 44
-    used: 46
-    'on': 52
-    overly: 22
-  spring:
-    has: 92
-    is: 210
-    did: 118
-    used: 114
-    for: 98
-  disease,:
-    it's: 46
-    and: 109
-  motherless,:
-    yes,: 46
-  yes,:
-    her: 46
-    dishes: 111
-    tenacious: 102
-    my: 46
-  her:
-    father: 46
-    child: 46
-    vision.: 2
-    own,: 54
-    short: 108
-    are: 96
-    in: 70
-    days: 70
-    overtime: 66
-    alone.: 2
-    loved: 38
-    choice: 38
-    alter: 38
-    ass: 82
-    worth,: 38
-    body: 38
-    fit: 36
-    thigh: 36
-    boavaya,: 36
-    thought: 72
-    shit: 22
-    place: 22
-    face,: 16
-    gorgeous: 8
-    posterior?: 6
-  father:
-    and: 46
-    of: 128
-  gone:
-    to: 46
-  pick:
-    me: 46
-  up,:
-    yes.: 2
-    way: 10
-    and: 8
-  goals:
-    for: 64
-    are: 36
-  used:
-    to: 195
-  travel:
-    and: 164
-  feed:
-    the: 46
-  hungry.:
-    with: 46
-  with:
-    a: 122
-    'no': 54
-    leon: 95
-    steve,: 126
-    you: 120
-    almighty.: 2
-    my: 84
-    me.: 70
-    new: 66
-    ajeleon,: 38
-    foot: 32
-    what: 30
-    one: 24
-    her: 22
-    their: 18
-    me?: 2
-  travelling:
-    soup: 46
-  soup:
-    kitchen.: 46
-  kitchen.:
-    she: 46
-  was:
-    a: 46
-    officially: 79
-    something: 118
-    it,: 70
-    met.: 46
-    set: 38
-    there: 38
-    ready: 38
-    out: 38
-    she: 36
-    first: 18
-    later: 18
-    so: 8
-    near: 8
-    she,: 6
-    nice: 1
-  beautiful:
-    loving: 46
-  loving:
-    life.: 170
-  life.:
-    her: 46
-    excercise,: 61
-    your: 61
-    eating: 47
-    i: 94
-    mother's: 47
-    the: 21
-    so,: 7
-  child:
-    james: 46
-  james:
-    and: 46
-    is: 75
-    never: 78
-  i,:
-    are: 46
-    at: 35
-    ajeleon.: 2
-  'on':
-    talking: 46
-    the: 200
-    her: 54
-    this: 68
-    earth,: 112
-    good: 96
-    bob: 92
-    my: 156
-    a: 92
-    steve,: 54
-    vacation.: 2
-    is: 20
-    her,: 5
-    her.: 8
-    it: 6
-    and: 6
-    about: 6
-  talking:
-    terms.: 46
-  terms.:
-    we: 46
-    mother's: 96
-  don't:
-    do: 46
-    get: 48
-    you: 250
-    know.: 2
-    you,: 140
-    know: 8
-  much,:
-    yet.: 46
-  yet.:
-    i: 116
-  see:
-    him: 46
-    the: 126
-    it.: 36
-    her: 70
-    it: 172
-    my: 56
-    if: 90
-    it,: 38
-    into: 36
-    is: 14
-    another,: 6
-  him:
-    'on': 46
-    to: 48
-  spring's:
-    child,: 48
-    a: 116
-  child,:
-    james,: 48
-    not: 36
-  james,:
-    he: 48
-    stood: 50
-  he:
-    is: 165
-    said: 48
-    stood: 48
-    and: 92
-    left,: 35
-    has: 112
-    gave: 38
-    next: 30
-  kind:
-    of: 314
-    shoulder: 20
-    to: 10
-  trust:
-    worthy: 48
-  worthy:
-    friend.: 2
-    is: 90
-  stood:
-    me: 50
-    to: 86
-    you: 60
-  meet:
-    up.: 50
-  other:
-    hand,: 52
-    than: 76
-    way.: 2
-  hand,:
-    has: 52
-    as: 38
-    would: 38
-    or: 10
-  wrong,:
-    a: 52
-  stroke:
-    took: 52
-  took:
-    her: 52
-    rockport: 118
-    to: 70
-  ya,:
-    mother: 54
-    she: 96
-    temples: 78
-  went:
-    to: 131
-    for: 8
-  usual.:
-    i: 54
-  happier,:
-    she: 54
-  bed:
-    'on': 54
-    needs: 46
-  own,:
-    with: 54
-  is,:
-    my: 54
-    frank: 125
-    to: 30
-    if: 16
-  life's:
-    reasoning: 54
-  reasoning:
-    to: 54
-    is: 22
-  speak:
-    of: 56
-  steve,:
-    a: 56
-    and: 126
-    the: 54
-  trooper:
-    to: 56
-  trucking:
-    industry,: 56
-  industry,:
-    he: 56
-  his:
-    girlfriend: 56
-    mother,: 57
-    girlfriend,: 126
-    house.: 2
-    girlfriend.: 48
-  girlfriend:
-    are: 56
-  avid:
-    gamers.: 2
-  steve:
-    has: 57
-    is: 550
-    made: 112
-    and: 48
-  lost:
-    his: 57
-    armor: 111
-    my: 118
-    some: 108
-  listening:
-    to: 232
-  queen,:
-    at: 61
-  wish:
-    they: 60
-    i: 8
-  would:
-    turn: 60
-    be: 116
-    never: 100
-    have: 84
-    see: 38
-    she: 36
-    bear: 72
-    warm: 36
-    you: 6
-  turn:
-    the: 60
-  station:
-    into: 60
-  into:
-    a: 60
-    their: 116
-    authoring: 124
-    the: 156
-    what: 112
-    mourned: 20
-    balance,: 16
-  public:
-    park,: 60
-    parks: 110
-    setting.: 38
-    space,: 28
-  park,:
-    actually.: 2
-    this: 28
-  breakfast:
-    soon,: 67
-    black: 109
-  soon,:
-    a: 67
-  bit:
-    of: 67
-    her: 36
-  egg,:
-    and: 67
-  some:
-    sausage.: 1
-    produce: 103
-    clerics,: 111
-    weirdly: 124
-    great: 112
-    of: 108
-    numbers: 46
-    sort: 38
-  all:
-    of: 179
-    waiting: 112
-    this: 216
-    ages,: 110
-    her: 70
-    god: 40
-    began,: 38
-    your: 24
-  idea!:
-    corvit,: 70
-  everyday:
-    be: 70
-  no,:
-    no.: 72
-    i: 71
-    i've: 46
-    the: 6
-  father,:
-    is: 35
-  here.:
-    he: 35
-    no.: 4
-    my: 4
-    to: 18
-  left,:
-    abandoned: 35
-  abandoned:
-    i,: 35
-  young:
-    age: 35
-  age:
-    of: 141
-  god:
-    is: 71
-    will: 46
-    and: 40
-  like,:
-    a: 71
-    well.: 112
-  big:
-    concept,: 71
-  concept,:
-    a: 71
-  large:
-    idea,: 71
-  idea,:
-    to: 71
-  me.:
-    not: 36
-    if: 34
-    don't: 34
-    only: 46
-    beer: 20
-  tencaious:
-    d: 36
-  ha:
-    ha.: 5
-  from:
-    the: 71
-    james: 78
-    dugeon: 111
-    corvitsi,: 124
-    '2.': 2
-    another.: 70
-    work,: 66
-    food.: 38
-    gathering: 36
-    any: 30
-    time,: 28
-    a: 20
-    life.: 14
-  b-line,:
-    it's: 71
-    to: 84
-  trail:
-    for: 71
-  traversing:
-    through: 71
-  wilderness,:
-    and: 71
-  still:
-    have: 71
-    lingering.: 2
-  safe:
-    warm: 71
-    from: 30
-  warm:
-    place: 71
-    in: 54
-    her,: 36
-  place:
-    to: 71
-    in: 22
-  snuggle:
-    up: 71
-  in,:
-    at: 71
-    way: 10
-  end:
-    of: 141
-    to: 112
-  forget:
-    about: 243
-    this.: 2
-  it,:
-    james: 75
-    it's: 30
-    to: 78
-    when: 58
-    and: 74
-    the: 38
-    i: 38
-    as: 18
-    a: 8
-  just:
-    a: 75
-    ran: 126
-    friend.: 2
-    lurking: 46
-    met.: 10
-  soux,:
-    and: 75
-  nobody:
-    at: 75
-  eh,:
-    queen: 74
-  queen:
-    is: 96
-  regret:
-    from: 78
-  ah,:
-    hmmm...: 76
-    you: 66
-  hmmm...:
-    i: 76
-  today:
-    is: 130
-  yesterday,:
-    it: 79
-  officially:
-    a: 79
-  romantic:
-    holiday,: 79
-  holiday,:
-    cupid's: 79
-  cupid's:
-    day.: 2
-  somebody:
-    to: 225
-  here:
-    too.: 2
-    to: 116
-    right: 66
-  time:
-    after: 92
-    in: 113
-    north.: 2
-    for: 86
-    of: 84
-    earlier,: 20
-  after:
-    time,: 92
-    for: 110
-    '0.': 96
-  i've:
-    paid: 92
-    committed: 92
-    got: 102
-    lived: 106
-    come,: 66
-    never: 46
-  paid:
-    my: 92
-  dues.:
-    i've: 92
-  committed:
-    'no': 92
-  crime,:
-    and: 92
-  done:
-    my: 92
-  sentence.:
-    a: 92
-  bad:
-    mistake,: 92
-    bad: 11
-  mistake,:
-    and: 92
-  met:
-    a: 92
-    the: 46
-  nearest:
-    church: 93
-    you.: 18
-  church:
-    is: 93
-  quite:
-    bright,: 93
-    tastey.: 2
-  bright,:
-    they: 93
-  pretty:
-    stain: 93
-  stain:
-    glass: 93
-  glass:
-    windows.: 2
-  good,:
-    i: 95
-    that: 117
-  feel.:
-    i: 95
-  always:
-    sign: 95
-    have: 33
-    religious,: 108
-    there: 62
-    crooked: 32
-    start: 14
-  sign:
-    each: 95
-  each:
-    piece,: 95
-  piece,:
-    with: 95
-    and: 18
-  leon:
-    sandstone.: 1
-  soul,:
-    a: 94
-    and: 108
-    to: 18
-  brave:
-    woman.: 2
-  trees:
-    in: 103
-    do: 64
-  produce:
-    fruit.: 2
-  tree,:
-    makes: 102
-  makes:
-    pear,: 102
-    one: 96
-    sense,: 38
-  pear,:
-    and: 102
-  fruit:
-    every: 102
-  often,:
-    based: 102
-  based:
-    'on': 102
-  season's:
-    rain: 102
-  rain:
-    and: 102
-  got:
-    to: 102
-    away.: 6
-  break:
-    free.: 2
-  testing:
-    my: 104
-  new:
-    friend's: 104
-    bob: 126
-    meaning.: 66
-    'goal:': 48
-  friend's:
-    responses.: 2
-  thank:
-    you.: 2
-  who:
-    is: 104
-    stood: 60
-    cares: 50
-    we: 12
-    you’ve: 10
-  grandmother?:
-    i'm: 104
-  having:
-    english: 109
-    a: 48
-    hurt: 20
-  english:
-    breakfast: 109
-  black:
-    tea: 109
-  tea:
-    now.: 109
-    if: 24
-  now.:
-    it's: 109
-    i: 104
-    in: 59
-    oh: 48
-    grandmother: 48
-    my: 45
-    mother: 66
-    was: 6
-  dungeons:
-    and: 354
-  cleric:
-    can: 155
-    is: 46
-  treate:
-    wounds,: 109
-  wounds,:
-    and: 109
-  cure:
-    ailments: 109
-  ailments:
-    like: 109
-  well:
-    learned: 109
-    i: 120
-    now: 42
-    nourished: 24
-    as: 24
-  learned:
-    cleric,: 109
-  cleric,:
-    can: 109
-    oh: 76
-    for: 74
-  death:
-    nigh.: 2
-  clerics:
-    do: 108
-    are: 268
-    tend: 113
-  light:
-    magic,: 108
-    snack: 126
-    shined: 74
-  magic,:
-    kind: 108
-  dancing:
-    lights.: 108
-  lights.:
-    they: 108
-  also:
-    have: 108
-  access:
-    to: 108
-  healing:
-    tinctures,: 108
-  tinctures,:
-    and: 108
-  herbal:
-    remedies.: 108
-  remedies.:
-    they: 108
-  religious,:
-    and: 108
-  wear:
-    a: 108
-  shameful:
-    garment.: 2
-  powerful:
-    clerics: 110
-  often:
-    sought: 110
-    was: 70
-    hit: 14
-    common,: 6
-  sought:
-    after: 110
-    to: 10
-  remedies:
-    to: 110
-  ailment:
-    and: 110
-  clerics,:
-    earn: 111
-  earn:
-    relics,: 111
-  relics,:
-    from: 111
-  dugeon:
-    exploration.: 111
-  exploration.:
-    as: 111
-  seek:
-    their: 111
-  their:
-    lost: 111
-    god.: 2
-    god,: 113
-    band.: 4
-    god: 46
-    power,: 46
-    plight,: 18
-    aiming: 18
-  armor:
-    or: 111
-  or:
-    garb: 111
-    so,: 66
-    not.: 2
-    go.: 2
-    if: 54
-    kyle: 46
-    their: 46
-    another,: 36
-    affect: 30
-    tea: 24
-    she: 22
-    warfare,: 18
-    miss: 14
-    third: 10
-    contest: 10
-    would: 6
-    a: 6
-    tithing: 6
-    me?: 4
-  garb:
-    of: 111
-    less: 36
-  fallen:
-    creations: 111
-  creations:
-    of: 111
-  finally:
-    finished.: 2
-  thing:
-    we're: 112
-  we're:
-    all: 112
-  waiting:
-    for,: 112
-    for: 38
-  for,:
-    is: 112
-  peace:
-    'on': 112
-  earth,:
-    an: 112
-  an:
-    end: 112
-    accident: 108
-    illness,: 96
-    apple,: 74
-    incredible: 66
-    hour,: 46
-  tend:
-    to: 237
-  spend:
-    time: 113
-    the: 126
-  prayer:
-    to: 113
-  thinking:
-    of: 113
-  next:
-    adventure.: 2
-    adventure,: 124
-    door: 118
-    session,: 86
-    step,: 30
-  bard:
-    would: 116
-  anything:
-    about: 114
-  fucking:
-    good,: 117
-    friendships.: 2
-    mind: 54
-  women:
-    through: 117
-  neglegent:
-    lengeire: 117
-  lengeire:
-    to: 117
-  awake,:
-    yes.: 2
-  life:
-    is: 185
-    choice,: 76
-    to: 16
-  love,:
-    and: 61
-    life,: 10
-  wealth:
-    is: 61
-  usual:
-    to: 61
-  modern:
-    human.: 1
-  damn,:
-    i: 127
-  leaving.:
-    i: 120
-  making:
-    breakfast,: 120
-  breakfast,:
-    and: 120
-    save: 24
-  requires:
-    a: 120
-  ran:
-    one: 126
-  third:
-    a: 126
-    party: 10
-  walked:
-    a: 126
-    to: 120
-    for: 46
-  full:
-    city: 126
-  block.:
-    i: 126
-  again,:
-    tomorrow.: 2
-    woke?: 70
-  wonder:
-    that: 125
-    her: 36
-  frank:
-    zappa.: 2
-    zappa,: 126
-  zappa,:
-    has: 126
-  records:
-    than: 126
-  than:
-    anyone: 126
-    your: 76
-    one: 18
-    a: 18
-    you,: 10
-  anyone:
-    living: 126
-  living:
-    to: 126
-  noon,:
-    will: 126
-  snack:
-    in: 126
-  adventure,:
-    let's: 124
-  authoring:
-    some: 124
-  weirdly:
-    enough,: 124
-  enough,:
-    secular: 124
-  secular:
-    rights: 124
-  rights:
-    to: 124
-  i.:
-    ajeleon.: 2
-    and: 5
-    not: 3
-  now,:
-    i: 126
-    goodbye.: 1
-    is: 84
-    begin: 30
-    or: 6
-  weekend:
-    with: 126
-  girlfriend,:
-    and: 126
-  sunday:
-    see: 126
-  bob:
-    marley: 254
-  marley:
-    film.: 126
-    is: 128
-  film.:
-    mother: 126
-  taking:
-    me: 126
-  tenacous:
-    d: 128
-  involved.:
-    bob: 128
-  musical:
-    genius,: 128
-  genius,:
-    father: 128
-  gorgeous!:
-    already: 126
-  already:
-    feeling: 126
-  feeling:
-    the: 154
-    more: 28
-  burn.:
-    i: 126
-  evening,:
-    i: 126
-  go:
-    for: 220
-    'on': 56
-    straight: 32
-  another:
-    walk,: 126
-    one: 16
-    clever: 124
-    over: 6
-  walk,:
-    this: 126
-    and: 140
-  barbarian,:
-    can: 124
-  rage:
-    for: 124
-  hours,:
-    in: 124
-  d&d:
-    is: 124
-    ala: 120
-  dragons.:
-    another: 124
-    you: 42
-    a: 42
-  clever:
-    class,: 124
-    trickster,: 124
-  class,:
-    are: 124
-  rogue.:
-    they: 124
-  trickster,:
-    and: 124
-  haevy:
-    handed: 124
-  handed:
-    in: 124
-  thieving.:
-    they: 124
-  chaotic:
-    and: 124
-  neutral:
-    in: 124
-  terms:
-    to: 124
-    of: 106
-  excercise,:
-    is: 124
-    in: 86
-  critical:
-    to: 124
-  name,:
-    comes: 124
-  comes:
-    from: 124
-  corvitsi,:
-    a: 124
-  down:
-    the: 122
-  hays:
-    court,: 122
-  court,:
-    it's: 122
-  1/3:
-    the: 122
-  very:
-    happy.: 2
-    big.: 66
-    way: 18
-    day,: 10
-  keep:
-    positive,: 120
-    at: 112
-    them: 98
-  positive,:
-    corvit.: 120
-  corvit.:
-    the: 120
-    it: 37
-    what: 72
-    ha: 35
-  young,:
-    still.: 2
-  ala:
-    kara: 120
-  kara:
-    var: 120
-  var:
-    dungeons: 120
-  dragons,:
-    a: 120
-  thief:
-    is: 120
-  rogue:
-    that: 120
-  toyed:
-    in: 120
-  shadow,:
-    far: 120
-  far:
-    too: 120
-  today,:
-    i: 120
-    already,: 66
-  coolidge:
-    road,: 120
-  road,:
-    and: 120
-  back:
-    around: 120
-    in: 54
-    away: 28
-    yard,: 28
-    to: 6
-  around:
-    the: 166
-  west:
-    side,: 120
-  side,:
-    into: 120
-  ganrls:
-    barkley: 120
-  barkley:
-    is: 120
-    band!: 106
-  guite:
-    good: 120
-  did:
-    travel: 118
-    her: 66
-    come: 18
-  cook,:
-    yup.: 2
-  then:
-    i: 118
-    you: 52
-    leave: 52
-    this: 14
-  rockport:
-    north,: 118
-  until:
-    i: 118
-  came:
-    to: 118
-  door:
-    gas: 118
-  station.:
-    that's: 118
-  saw:
-    someone: 118
-    her: 8
-  someone:
-    that: 118
-    spoke,: 68
-    who: 10
-  lived:
-    vicariously.: 1
-  moment:
-    to: 116
-    you: 10
-  walk:
-    this: 114
-    the: 84
-  earth:
-    so: 114
-  sacred...:
-    and: 114
-  bear:
-    food: 114
-    you.: 38
-    nothing.: 36
-    a: 72
-  food:
-    for: 114
-  many.:
-    now: 114
-  now:
-    she: 114
-    i: 42
-    to: 38
-  tries:
-    not: 114
-  out:
-    of: 214
-    for: 46
-    and: 38
-    shopping,: 38
-    sustenance.: 36
-    man,: 32
-  well.:
-    it: 112
-    i: 46
-    he: 46
-  transient:
-    topic,: 112
-  topic,:
-    it: 112
-  tends:
-    to: 112
-  lavish:
-    into: 112
-  art,:
-    and: 112
-  actually!:
-    majored: 112
-  majored:
-    in: 112
-  negative.:
-    try: 112
-  seeing:
-    the: 112
-  tell:
-    me: 164
-  parks:
-    have: 110
-  swingsets,:
-    slides,: 110
-  slides,:
-    and: 110
-  places:
-    for: 110
-  children:
-    of: 110
-  ages,:
-    actually.: 2
-  living!:
-    corvit,: 110
-  north-east:
-    is: 108
-  our:
-    friend,: 108
-    heart,: 12
-    soul: 12
-  tiffany.:
-    she: 108
-  accident:
-    as: 108
-  younger:
-    soul,: 108
-  short:
-    term: 108
-    time.: 54
-  term:
-    memory.: 2
-  gnarls:
-    barkley,: 108
-    barkley: 106
-  barkley,:
-    too.: 2
-  late:
-    2010's: 106
-  2010's:
-    early: 106
-  early:
-    2000's: 106
-  2000's:
-    i: 106
-  think.:
-    in: 106
-  ewe,:
-    caroline: 104
-  caroline:
-    is: 104
-  mother.:
-    my: 104
-  corvit:
-    is: 164
-  brushed:
-    my: 98
-  teeth:
-    to: 98
-  them:
-    strong.: 2
-    of: 46
-    in: 18
-  grandmother:
-    to: 98
-    do: 44
-  is.:
-    solit.: 2
-  planks:
-    in: 96
-  while,:
-    in: 96
-  meantime,:
-    think: 96
-  eating:
-    is: 96
-  important:
-    to: 96
-  strong:
-    vital: 96
-  vital:
-    healthy: 96
-  healthy:
-    life.: 96
-  crystal,:
-    she: 96
-  reared:
-    me: 96
-  whole:
-    entire: 96
-    thing: 58
-  entire:
-    life.: 96
-  sometime:
-    soon.: 2
-  anxiety:
-    is: 96
-    too.: 2
-  illness,:
-    that: 96
-  scared:
-    and: 96
-  number.:
-    the: 96
-  first:
-    number: 96
-    a: 18
-    draw: 10
-  number:
-    after: 96
-  '0.':
-    and: 96
-  away:
-    from: 162
-    for: 68
-  wowza!:
-    you're: 92
-  take:
-    care!: 89
-    care.: 76
-    my: 32
-  care!:
-    bye!: 89
-  bye!:
-    tchao: 89
-  tchao:
-    bella.: 1
-  excercise:
-    of: 92
-  martial:
-    arts,: 92
-    weapon,: 46
-    arts: 30
-    arts.: 2
-  finished:
-    for: 92
-  many:
-    good: 92
-    numbers: 44
-  cool,:
-    it: 90
-  care.:
-    farewell.: 1
-  chicken:
-    wings: 88
-  wings:
-    melted: 88
-  melted:
-    'off': 88
-  'off':
-    the: 88
-    from: 66
-    to: 36
-    hardship,: 24
-    hand,: 10
-  hour.:
-    for: 86
-    it: 40
-    my: 40
-  session,:
-    i: 86
-  focus:
-    'on': 86
-  kick:
-    boxing.: 2
-  wizard:
-    is: 172
-  grand:
-    in: 86
-  spectacle,:
-    and: 86
-  masterful:
-    over: 86
-  over:
-    a: 86
-    the: 14
-  voice:
-    chatting: 84
-  chatting:
-    with: 84
-  mikael,:
-    of: 84
-  season:
-    now,: 84
-  winter.:
-    it's: 84
-  colder:
-    time: 84
-  downtown:
-    kroger,: 84
-  kroger,:
-    is: 84
-  '8':
-    streets: 84
-  streets:
-    north,: 84
-  past:
-    the: 84
-  kroger:
-    is: 82
-  purchase:
-    food,: 82
-  food,:
-    at: 82
-  temples:
-    of: 78
-  really:
-    religious.: 2
-  one.:
-    make: 76
-  relic,:
-    oh: 76
-  swear:
-    it: 76
-  higher:
-    power.: 2
-  choice,:
-    corvit.: 76
-  prayer.:
-    so: 74
-    you: 72
-  faith.:
-    in: 74
-  shined:
-    an: 74
-  apple,:
-    for: 74
-  laugh:
-    is: 70
-  mind,:
-    some,: 70
-    before: 28
-  some,:
-    but: 70
-  space:
-    from: 70
-  another.:
-    she's: 70
-  she's:
-    north,: 70
-    always: 62
-  if:
-    mother: 70
-    she: 66
-    you're: 54
-    your: 52
-    not,: 52
-    i: 50
-    steve: 48
-    the: 78
-    you: 170
-    a: 32
-    they: 6
-  spoke,:
-    how: 70
-  her,:
-    at: 70
-    and: 70
-    that: 46
-    was: 38
-    in: 38
-    a: 46
-    she: 38
-    heavily.: 2
-    boashravit,: 5
-    as: 5
-    body,: 8
-    the: 8
-    given: 6
-  woke?:
-    i: 70
-  mourn:
-    this: 70
-  days:
-    were: 70
-  were:
-    with: 70
-    to: 114
-    it: 41
-    instructing: 32
-    it,: 8
-  you,:
-    forget: 70
-    realize: 70
-    who: 50
-    how: 44
-    stand,: 32
-    be: 18
-    is: 18
-    a: 16
-    and: 14
-    in: 10
-    present.: 2
-  her.:
-    don't: 70
-    and: 38
-    what: 36
-    not: 3
-    i: 3
-  realize:
-    it: 70
-  any:
-    other: 70
-    way,: 56
-    music: 46
-    vagrants: 30
-  hang:
-    to,: 68
-  to,:
-    i: 68
-    so: 6
-  tchao,:
-    quit.: 1
-  had,:
-    an: 66
-  incredible:
-    day: 66
-    she: 5
-  already,:
-    filled: 66
-  meaning.:
-    i: 66
-  life,:
-    is: 112
-    in: 28
-    never: 24
-    not: 18
-    the: 10
-    and: 10
-  big.:
-    and: 66
-  come,:
-    to: 66
-  master:
-    once: 66
-  once:
-    and: 66
-    you’ve: 12
-  all,:
-    spirit: 66
-  spirit:
-    creation.: 2
-  interesting:
-    question,: 66
-  question,:
-    my: 66
-    once: 12
-  home,:
-    is: 66
-  reside.:
-    i: 66
-  proud:
-    person.: 12
-  fiend,:
-    is: 66
-  right:
-    now.: 66
-  shortly,:
-    in: 66
-  few:
-    hours: 66
-  hours:
-    or: 66
-  so,:
-    depending: 66
-    he: 38
-    would: 36
-    that: 18
-    we: 16
-    to: 6
-  depending:
-    if: 66
-  overtime:
-    or: 66
-  stand:
-    you: 62
-    to: 18
-  be,:
-    when: 62
-  see,:
-    we: 58
-  mustn't:
-    stay: 58
-  stay:
-    too: 58
-    in: 28
-  long,:
-    to: 58
-  friday,:
-    i: 56
-  medicine.:
-    i: 56
-  longer:
-    walk,: 56
-  care:
-    team.: 56
-  team.:
-    i: 56
-  then,:
-    be: 56
-  given:
-    medicine,: 56
-    her: 6
-  medicine,:
-    for: 56
-  part:
-    of: 54
-  stating:
-    so: 54
-  little,:
-    it's: 54
-  calculator:
-    parts.: 2
-  home.:
-    so: 54
-    today,: 26
-    the: 26
-  time.:
-    going: 54
-    hang: 26
-    tchao,: 26
-    always,: 22
-  going:
-    for: 54
-  thursday.:
-    a: 54
-  pure:
-    fucking: 54
-  mind:
-    blown: 54
-    of: 20
-    to: 12
-  blown:
-    make: 54
-  slate:
-    is: 52
-  clean,:
-    then: 52
-    garden,: 26
-  amy:
-    accuse,: 52
-  accuse,:
-    if: 52
-  not,:
-    then: 52
-    back: 28
-    exist: 12
-  leave:
-    her: 52
-  among:
-    you,: 50
-  come:
-    or: 50
-    back.: 2
-  emotions:
-    are: 48
-  under:
-    control.: 2
-  wait:
-    two: 48
-  weeks:
-    to: 48
-  visit:
-    steve: 48
-  girlfriend.:
-    i: 48
-  party,:
-    or: 48
-  yard:
-    needs: 48
-  needs:
-    mowed.: 2
-    made,: 46
-  tomorrow:
-    is: 48
-  decision:
-    tree.: 1
-  literature,:
-    and: 46
-  grandmother's:
-    health: 46
-  health:
-    is: 46
-  good.:
-    that: 46
-    my: 22
-    want: 22
-    insertion: 6
-    to: 5
-  said,:
-    a: 46
-    instead: 20
-  jack:
-    black,: 46
-  black,:
-    or: 46
-  kyle:
-    gass,: 46
-  gass,:
-    of: 46
-  intriguing:
-    to: 46
-  only:
-    some: 46
-    use: 46
-    i,: 44
-    eat,: 12
-    just: 10
-  numbers:
-    are: 46
-    do: 44
-  down,:
-    in: 46
-    way: 10
-  bank:
-    account.: 2
-  made,:
-    'yes': 46
-  'yes':
-    it: 46
-    or: 44
-  true,:
-    and: 46
-  daily:
-    goal,: 46
-  goal,:
-    was: 46
-  met.:
-    i: 46
-    sometimes: 10
-  worked:
-    out: 46
-  hour,:
-    and: 46
-  '3':
-    miles,: 46
-  miles,:
-    around: 46
-  use:
-    a: 46
-  bludgeon:
-    kind: 46
-  weapon,:
-    a: 46
-    and: 46
-  blade,:
-    or: 46
-  strip:
-    them: 46
-  power,:
-    and: 46
-  nah,:
-    i'm: 46
-  lurking:
-    in: 46
-  mytrel's:
-    stream.: 2
-  siva:
-    is: 40
-  many,:
-    as: 40
-  assure:
-    you.: 37
-    her,: 38
-    that: 10
-  beer:
-    is: 42
-  cold:
-    winter: 40
-  winter:
-    day,: 40
-    air,: 36
-  lots:
-    of: 40
-  rabbit:
-    was: 76
-    looking: 36
-  set:
-    to: 114
-    her: 38
-    'on': 36
-    there,: 22
-    myself: 14
-    of: 6
-  about,:
-    as: 38
-  it.:
-    her: 38
-    yet: 38
-    now,: 17
-    'no': 17
-    keep: 18
-    i: 18
-    a: 18
-    what: 18
-    as: 8
-  loved:
-    bottom: 38
-  bottom:
-    sprung: 38
-  sprung:
-    to: 38
-  high:
-    five: 38
-  five:
-    a: 38
-  yet:
-    as: 38
-    so,: 74
-    in: 58
-    i: 38
-    her: 36
-    he: 36
-    so.: 2
-  passed,:
-    not: 38
-  hand:
-    weighed: 38
-    in: 36
-  weighed:
-    it,: 38
-  began,:
-    a: 38
-  dander:
-    laid: 38
-  laid:
-    her.: 38
-  instead,:
-    she: 38
-  flirt:
-    with: 38
-  ajeleon,:
-    as: 38
-  gave:
-    it: 38
-  sort:
-    of: 58
-  awkward:
-    felt: 38
-  felt:
-    war: 38
-  war:
-    in: 38
-    had: 36
-  him.:
-    as: 38
-    he: 9
-    i: 10
-  doom:
-    set: 38
-  choice:
-    of: 38
-  ass:
-    to: 38
-    in: 38
-    upon: 36
-    hanging: 36
-    lick,: 36
-    of: 16
-    centered,: 8
-  you.:
-    yet: 38
-    well: 18
-    my: 18
-    never: 24
-    we: 11
-    what: 10
-    the: 32
-    know: 10
-  tithing:
-    after,: 38
-    is: 6
-    to: 6
-  after,:
-    her: 38
-    day: 28
-  alter:
-    of: 38
-  share:
-    it: 38
-  ready:
-    yet: 38
-    rabbit: 36
-    to: 30
-    for: 20
-  shopping,:
-    and: 38
-  wasn’t:
-    proper: 38
-  proper:
-    to: 38
-    private: 14
-    authority,: 10
-  manner,:
-    in: 38
-    from: 14
-  setting.:
-    should: 38
-  let:
-    my: 38
-    yourself: 24
-    your: 10
-    it: 6
-  die:
-    for: 38
-  worth,:
-    and: 38
-  she,:
-    the: 38
-    like: 22
-    went: 8
-    in: 8
-    a: 6
-  rabbit,:
-    would: 38
-    got: 6
-  stole:
-    me: 38
-  food.:
-    growing: 38
-  growing:
-    old,: 38
-  old,:
-    makes: 38
-  sense,:
-    as: 38
-  flirt,:
-    perhaps: 38
-  perhaps:
-    now: 38
-    she: 22
-  herself,:
-    that: 38
-  body:
-    is: 38
-  man,:
-    but: 38
-    it’s: 32
-  fit:
-    herself.: 2
-    anus,: 36
-  anus,:
-    and: 36
-  nothing.:
-    yet: 36
-  thigh:
-    gaping: 36
-  gaping:
-    oozer,: 36
-  oozer,:
-    would: 36
-  frot:
-    hot: 36
-  hot:
-    shope.: 36
-  shope.:
-    she: 36
-  kid,:
-    one: 36
-  another,:
-    as: 36
-    and: 20
-    bearing: 20
-    a: 6
-  looking:
-    men,: 36
-  men,:
-    to: 36
-  rivetting:
-    her: 36
-  boavaya,:
-    yet: 36
-  we,:
-    we: 36
-    i: 36
-  shop,:
-    for: 36
-  sustenance.:
-    be: 36
-  little:
-    more: 36
-  thoughtful,:
-    in: 36
-  corlit:
-    shry,: 36
-  shry,:
-    to: 36
-  stray:
-    from: 36
-  gathering:
-    words: 36
-  words:
-    in: 36
-  head,:
-    of: 36
-  upon:
-    thy: 36
-    burden,: 20
-    them: 18
-  thy:
-    hand.: 2
-  aldis,:
-    as: 36
-  were,:
-    she: 36
-    and: 10
-  there,:
-    ass: 36
-    with: 22
-  hanging:
-    'off': 36
-  center,:
-    set: 36
-    is: 20
-  kissed:
-    ass: 36
-  lick,:
-    wonder: 36
-  thought:
-    to: 36
-    in: 36
-  thighs.:
-    so: 36
-  dressed,:
-    in: 36
-  less:
-    comforting: 36
-    and: 34
-    to: 34
-    you’ve: 24
-  comforting:
-    to: 36
-  air,:
-    were: 36
-  enemy,:
-    is: 36
-  deny:
-    the: 36
-  '1:':
-    the: 34
-  covenant:
-    for: 34
-  '2:':
-    the: 32
-  last:
-    list: 32
-  list:
-    you’ll: 32
-  you’ll:
-    read.: 2
-  '3:':
-    don’t: 32
-  don’t:
-    freak: 32
-  freak:
-    out: 32
-  it’s:
-    a: 38
-  real:
-    day: 32
-  bushit.to:
-    begin,: 32
-  begin,:
-    a: 56
-    the: 28
-  formal:
-    salute,: 32
-    contract,: 18
-  salute,:
-    is: 32
-  crooked:
-    knee: 32
-  knee:
-    with: 32
-  foot:
-    under,: 32
-  under,:
-    hofted: 32
-  hofted:
-    to: 32
-  allow:
-    a: 32
-    yourself: 32
-  bend,:
-    and: 64
-  respect,:
-    say: 32
-  say:
-    you: 32
-    two: 24
-    nothing,: 14
-    a: 4
-  leg,:
-    if: 32
-  want.:
-    thus: 32
-  thus:
-    as: 32
-  crane,:
-    were: 32
-  instructing:
-    you,: 32
-  stand,:
-    bend,: 32
-  retort,:
-    to: 32
-  yourself:
-    not: 32
-    free: 14
-    fight: 10
-  fall.:
-    for: 32
-  reballance,:
-    go: 32
-  straight:
-    through: 32
-  duskalini:
-    rebalance.: 2
-  begin:
-    with: 56
-    everyway: 28
-    within: 28
-    a: 16
-  dojo,:
-    a: 30
-    is: 52
-    first,: 26
-  sacred:
-    space,: 30
-    way,: 26
-  space,:
-    for: 58
-    'no': 28
-    to: 26
-  arts:
-    practice,: 30
-  practice,:
-    and: 30
-    of: 24
-  nothing:
-    for: 30
-  step,:
-    is: 30
-  donate:
-    time,: 30
-  community:
-    service,: 30
-  service,:
-    so: 30
-  ascertain:
-    your: 30
-  local:
-    area,: 30
-    out: 18
-  area,:
-    to: 30
-    such: 26
-  streets,:
-    are: 30
-  swept,:
-    and: 30
-  kept:
-    safe: 30
-  vagrants:
-    that: 30
-  may:
-    try: 30
-    be: 38
-    have: 28
-    become: 8
-  attack,:
-    beret: 30
-  beret:
-    or: 30
-  affect:
-    your: 30
-  community,:
-    in: 30
-  everyway:
-    to: 28
-  more,:
-    for: 28
-    than: 18
-  physicality.:
-    and: 28
-  shape.:
-    begin: 28
-  within:
-    the: 28
-  before:
-    and: 28
-  physical:
-    activity,: 28
-    world,: 28
-  activity,:
-    so: 28
-  sound:
-    in: 28
-  bound,:
-    and: 28
-  forewarn,:
-    to: 28
-  satanist:
-    act: 28
-  act:
-    in: 28
-    is: 14
-    of: 10
-  forbade,:
-    and: 28
-  result:
-    in: 28
-  ban,:
-    to: 28
-  journey,:
-    a: 28
-  dojo:
-    may: 28
-    standing: 10
-  own:
-    back: 28
-  friendly:
-    neighbor: 28
-  neighbor:
-    hood: 28
-    sort: 20
-  hood:
-    may: 28
-  place.:
-    a: 28
-    always: 14
-  better:
-    place,: 28
-  place,:
-    is: 28
-  privately:
-    owned,: 28
-  owned,:
-    and: 28
-  ample:
-    space,: 28
-  world,:
-    for: 28
-  working:
-    of: 28
-  annoint:
-    a: 26
-  first,:
-    begin: 26
-  respectfully:
-    clean,: 26
-  garden,:
-    and: 26
-  cater:
-    to: 26
-  pleasurable:
-    space,: 26
-  reason:
-    to: 24
-  express:
-    what: 24
-  doing,:
-    when: 24
-  tunic.:
-    for: 24
-  warring:
-    person,: 24
-    tidal: 20
-  person,:
-    but: 24
-  spiritual:
-    wayer,: 24
-  wayer,:
-    being: 24
-  being:
-    spiritual,: 24
-    resourceful: 24
-    healthy,: 24
-  spiritual,:
-    in: 24
-  active:
-    practice,: 24
-  won,:
-    less: 24
-  you’ve:
-    had: 24
-    allowed: 12
-    only: 10
-    begun: 6
-  oats.:
-    "[figure": 24
-  "[figure":
-    2.a,: 24
-  2.a,:
-    to: 24
-  taoist:
-    way,: 24
-  mark:
-    len.]: 24
-  len.]:
-    "[sic.]": 2
-  start:
-    every: 24
-    amassed: 18
-    and: 14
-  thing,:
-    nourishment,: 24
-  nourishment,:
-    and: 24
-  coffee:
-    or: 24
-  must.:
-    a: 24
-  nourished:
-    day: 24
-  start,:
-    can: 24
-  stave:
-    'off': 24
-  hardship,:
-    frustration,: 24
-  frustration,:
-    and: 24
-  feelings:
-    of: 24
-  anxiety,:
-    as: 24
-  surrender:
-    in: 24
-  bodivaya,:
-    a: 24
-  sense:
-    of: 24
-  peace,:
-    serrenity: 24
-  serrenity:
-    and: 24
-  calming:
-    essence.: 24
-  essence.:
-    to: 24
-  save:
-    your: 24
-    it: 24
-  finish:
-    all: 24
-  back,:
-    for: 24
-    later,: 6
-  day.:
-    if: 24
-    i: 6
-    frank: 9
-    it: 9
-  oats,:
-    for: 24
-  servings,:
-    have: 24
-  latter:
-    bowl,: 24
-  bowl,:
-    at: 24
-  supper,:
-    as: 24
-  cook.:
-    being: 24
-    i: 8
-    spring's: 11
-  resourceful:
-    is: 24
-  key:
-    to: 24
-  healthy,:
-    happy,: 24
-  happy,:
-    and: 24
-  saving:
-    your: 24
-  resources:
-    for: 24
-  clever,:
-    corvit’s: 22
-  corvit’s:
-    reasoning: 22
-  overly:
-    suffered.: 22
-  suffered.:
-    perhaps: 22
-  sees:
-    her: 22
-  shit:
-    end,: 22
-  end,:
-    as: 22
-    in: 14
-  intercept:
-    it…: 22
-  it…:
-    or: 22
-  bent:
-    to: 22
-  always,:
-    as: 22
-    attend: 10
-  lastly,:
-    a: 20
-  shoulder:
-    to: 20
-  cry:
-    'on': 20
-  weapon.:
-    life: 20
-  hardship:
-    upon: 20
-  burden,:
-    and: 20
-  laiden:
-    and: 20
-  frought,:
-    for: 20
-  harkened:
-    joy: 20
-  joy:
-    into: 20
-  mourned:
-    lamentation.: 20
-  lamentation.:
-    be: 20
-  name/word:
-    kimaree,: 20
-  kimaree,:
-    is: 20
-    was: 18
-    it: 14
-  portugaul:
-    theme,: 20
-  theme,:
-    from: 20
-  famous:
-    work,: 20
-  called:
-    matisvari,: 20
-  matisvari,:
-    son: 20
-  son:
-    ro.: 20
-  ro.:
-    meant: 20
-  meant:
-    at: 20
-  earlier,:
-    as: 20
-  dream:
-    that: 20
-  came,:
-    nor: 20
-  nor:
-    went,: 20
-  went,:
-    and: 20
-  drifted:
-    earily: 20
-  earily:
-    in: 20
-  bringer:
-    to: 20
-  bearing:
-    news,: 20
-  news,:
-    comfort,: 20
-  comfort,:
-    warring: 20
-  tidal:
-    effect,: 20
-  effect,:
-    et-al,: 20
-  et-al,:
-    and: 20
-  exactly:
-    specifies: 20
-  specifies:
-    to: 20
-  wanted:
-    said,: 20
-  instead:
-    of: 20
-  hurt:
-    and: 20
-  become:
-    awakened,: 20
-    a: 8
-  awakened,:
-    through: 20
-  everything:
-    about: 20
-  are,:
-    to: 20
-    with: 18
-    and: 12
-    a: 6
-  reason,:
-    to: 18
-  kimara,:
-    is: 18
-  too,:
-    are: 18
-  aware:
-    of: 18
-  surrounding,:
-    and: 18
-    is: 10
-  persons:
-    nearest: 18
-  collected:
-    day: 18
-  beyond:
-    here,: 18
-    the: 10
-  plight,:
-    and: 18
-  aiming:
-    in: 18
-  honor,:
-    to: 18
-  such,:
-    and: 18
-    a: 5
-  amassed:
-    armada: 18
-  armada:
-    or: 18
-  warfare,:
-    but: 18
-  yet,:
-    mastery: 18
-    i: 5
-  mastery:
-    in: 18
-  wind:
-    sent: 18
-  sent:
-    for: 18
-  reeve:
-    it,: 18
-  sought,:
-    be: 18
-  shuee:
-    it,: 18
-  ever,:
-    compare: 18
-  compare:
-    yourself,: 18
-  yourself,:
-    to: 18
-    is: 12
-    ask: 12
-    in: 4
-  different:
-    version,: 18
-  version,:
-    of: 18
-  were.:
-    in: 18
-    oh: 8
-    lastly,: 8
-  piece:
-    of: 18
-  same.:
-    the: 18
-  chimerie,:
-    is: 18
-  say,:
-    you: 18
-    i: 14
-    so: 8
-    maybe,: 6
-    yes.: 2
-  compromised:
-    piece,: 18
-  complex,:
-    than: 18
-  contract,:
-    for: 18
-  stradivarii:
-    replicate,: 18
-  replicate,:
-    with: 18
-  town:
-    shop: 18
-  shop:
-    smith,: 18
-  smith,:
-    valid: 18
-  valid:
-    victorian.: 18
-  victorian.:
-    the: 18
-  state’s:
-    owned: 18
-  owned:
-    spencer,: 18
-  spencer,:
-    was: 18
-  later:
-    for: 18
-  messiah,:
-    but: 18
-  notion:
-    is,: 16
-  live,:
-    be: 16
-  alive.:
-    if: 16
-    good: 2
-  mean:
-    something,: 16
-  something,:
-    gift: 16
-  gift:
-    to: 16
-  meaningful:
-    life.: 16
-  routine,:
-    for: 16
-  canter:
-    a: 16
-  warrior:
-    way,: 16
-  balance,:
-    physically.: 2
-  free:
-    a: 14
-  freightening:
-    manner,: 14
-  sit,:
-    to: 14
-  wait,:
-    and: 14
-  myself:
-    to: 14
-  private:
-    place.: 14
-  meditation.:
-    if: 14
-  know:
-    how: 14
-    about: 12
-    everyone,: 10
-    the: 28
-    her,: 6
-  meditate,:
-    then: 14
-  hit:
-    and: 14
-    'on': 8
-  miss:
-    in: 14
-  western:
-    practices,: 14
-  practices,:
-    yet: 14
-  most:
-    inner: 14
-  inner:
-    circles: 14
-  circles:
-    of: 14
-  common:
-    to: 14
-    "‘hey": 10
-  sit:
-    and: 14
-  nothing,:
-    except: 14
-    to: 5
-  except:
-    what: 14
-  insertion:
-    to: 14
-  woman's:
-    vagina: 14
-  vagina:
-    is: 14
-  inside:
-    yourself,: 24
-  sated,:
-    and: 12
-  always.:
-    we: 12
-  exist:
-    outside: 12
-  outside:
-    our: 12
-  heart,:
-    our: 12
-    to: 10
-  soul:
-    is: 12
-  bound:
-    through: 12
-  eat,:
-    when: 12
-    such: 12
-    delicacy,: 8
-  must:
-    reason.: 2
-  ask:
-    a: 12
-  allowed:
-    your: 12
-  rest,:
-    and: 12
-  realize,:
-    you: 12
-  loud:
-    person.: 12
-  person.:
-    "*wink": 2
-    interesting: 5
-    that: 5
-  next,:
-    never: 10
-  fight:
-    for: 10
-  honor:
-    of: 10
-  war,:
-    is: 10
-  freightened:
-    moment.: 10
-    by: 8
-  moment.:
-    but: 10
-  everyone,:
-    and: 10
-  everyone:
-    is: 10
-  safe,:
-    beyond: 10
-  "‘hey":
-    how: 10
-  attend:
-    a: 10
-  social:
-    gathering,: 10
-  gathering,:
-    dressed: 10
-  dressed:
-    refreshed,: 10
-  refreshed,:
-    and: 10
-  those:
-    you: 10
-  convene:
-    with.: 10
-  with.:
-    carry: 10
-  carry:
-    your: 10
-  authority,:
-    'off': 10
-  party:
-    referee,: 10
-  referee,:
-    is: 10
-  preferred,:
-    for: 10
-  standing:
-    tournament,: 10
-  tournament,:
-    or: 10
-  contest:
-    of: 10
-  non-contact/light-contact.:
-    and: 10
-  never,:
-    to: 10
-  draw:
-    of: 10
-  blood,:
-    let: 10
-  defining:
-    merrit,: 10
-  merrit,:
-    to: 10
-  are.:
-    know: 10
-  exact:
-    moment: 10
-  dojo.:
-    a: 10
-  heightened:
-    ascertaining: 10
-  ascertaining:
-    to: 10
-  required,:
-    as: 10
-  ponder:
-    'on': 5
-  boashravit,:
-    later.: 5
-  later.:
-    as: 5
-  tusche:
-    is: 5
-  rather:
-    gander: 5
-    shallow: 6
-  gander:
-    were: 5
-  bad.:
-    i: 8
-  woman,:
-    the: 8
-  rabbit's:
-    ass.: 2
-    name.: 2
-  centered,:
-    planted,: 8
-  planted,:
-    waiting.: 8
-  waiting.:
-    so: 8
-  juicy,:
-    that: 8
-  d&d?:
-    i: 8
-    want: 3
-    'yes': 3
-  played:
-    earlier.: 2
-  hunter:
-    battlemage.: 2
-  woman:
-    saw: 8
-  face,:
-    to: 8
-    a: 8
-  delicacy,:
-    a: 8
-  delicious:
-    doughnut.: 8
-  doughnut.:
-    and: 8
-  fair:
-    woman.: 8
-  woman.:
-    that: 8
-  guessed:
-    it,: 8
-  cherish:
-    her,: 8
-  kiss.:
-    that: 8
-  wore:
-    'no': 8
-  heavenly:
-    delightful.: 2
-  teach:
-    me: 8
-  near:
-    to: 8
-  body,:
-    her: 8
-  gorgeous:
-    legs.: 2
-  lustful:
-    tithing: 6
-  common,:
-    to: 6
-  sexually:
-    deviancy,: 6
-  deviancy,:
-    is: 6
-  trend:
-    in: 6
-  lunacy,:
-    yet: 6
-  stout:
-    assuredness,: 6
-  assuredness,:
-    it: 6
-  left:
-    to: 6
-  later,:
-    when: 6
-  begun:
-    a: 6
-  friendship.:
-    let: 6
-  weigh:
-    in: 6
-  even:
-    know: 6
-    your: 4
-  posterior?:
-    i’d: 6
-  i’d:
-    say,: 6
-  maybe,:
-    it’s: 6
-  shallow:
-    side: 6
-  side:
-    for: 6
-  friends,:
-    to: 6
-  strike:
-    up: 6
-  cordial:
-    situation,: 6
-  situation,:
-    as: 6
-  "“hey,":
-    great: 6
-  ass…”:
-    as: 6
-  opposed:
-    to,: 6
-  theme:
-    you: 6
-  enjoy,:
-    or: 6
-  nuanced:
-    book,: 6
-  book,:
-    or: 6
-  notion,:
-    of: 6
-  close,:
-    ya.: 2
-  away.:
-    for: 6
-  wabbita.:
-    maybe: 6
-  maybe:
-    they: 6
-  does:
-    mother: 4
-  you?:
-    or: 4
-  me?:
-    i'd: 4
-    do: 1
-    don't: 1
-  i'd:
-    say,: 4
 :question:
-  how:
-    do: 101
-    to: 94
-    is: 460
-    are: 185
-    could: 96
-    many: 72
-    worthy: 72
-  do:
-    you: 1097
-    the: 3
-    tomorrow?: 2
-    have: 88
-    it: 105
-    want: 108
-    a: 34
-  you:
-    feel,: 5
-    think,: 8
-    could,: 16
-    do: 64
-    know: 469
-    be: 44
-    study?: 2
-    want: 385
-    are: 309
-    mother: 44
-    know?: 4
-    have: 68
-    corvit?: 1
-    aren't: 75
-    know,: 184
-    recommend?: 2
-    mean,: 82
-    so: 78
-    feel: 78
-    oh: 54
-    mean?: 4
-    up?: 2
-    like: 46
-    doing: 46
-    is: 44
-    a: 41
-    doing?: 2
-    do,: 26
-    find: 10
-    do?: 2
-    'on': 6
-  feel,:
-    about: 5
-  about:
-    cheddar?: 1
-    the: 8
-    tenacious: 46
-    bed?: 2
-    art?: 2
-    spring?: 2
-    clerics?: 2
-    d&d?: 2
-    spring: 80
-    flowers?: 2
-    you,: 40
-    butt?: 2
-    ass?: 2
-    what: 26
-    a: 6
-  what:
-    do: 429
-    will: 38
-    time: 44
-    are: 527
-    happened?: 2
-    goal?: 2
-    mother: 43
-    day: 82
-    about: 194
-    is: 236
-    to: 74
-    i: 62
-    a: 54
-    it: 34
-    you: 118
-    the: 28
-    we: 26
-  think,:
-    about: 8
   the:
-    tenacious: 8
-    mother,: 43
-    day?: 2
-    time?: 2
-    life,: 74
-    day: 224
-    matter?: 2
-    great: 46
-    mother: 42
-    rabbit?: 2
-    ass: 42
-    rabit's: 26
-  tenacious:
-    d,: 8
-    d?: 5
-  d,:
-    band?: 2
-  how's:
-    it: 21
-  it:
-    going?: 3
-    a: 4
-    is?: 2
-    is: 423
-    will: 70
-    could: 68
-    in: 48
-    to: 44
-    of: 12
-  could,:
-    maybe: 16
-  maybe:
-    there's: 16
-  there's:
-    a: 16
-  a:
-    house: 16
-    stem,: 46
-    mother,: 128
-    great: 143
-    sudden,: 96
-    cleric,: 60
-    prayer.: 54
-    day: 102
-    time: 28
-    grocery: 10
-  house:
-    for: 59
-    is: 40
-  for:
-    sale?: 2
-    the: 202
-    we: 47
-    all: 58
-    real?: 2
-    you: 110
-    a: 236
-    my: 44
-    your: 34
-    what: 34
-    you,: 26
-    it,: 26
-    how: 26
-  going:
-    good?: 1
-    for: 44
-  hopefully:
-    everything: 29
-  everything:
-    is: 29
-    about: 26
-  is:
-    fine?: 2
-    a: 1040
-    the: 400
-    my: 199
-    corvti?: 1
-    corvit?: 10
-    your: 212
-    it?: 2
-    for: 47
-    so: 211
-    spring?: 2
-    what: 62
-    to: 276
-  will:
-    you: 70
-    have: 174
-    be: 488
-    do: 241
-  know:
-    what: 44
-    that?: 2
-    the: 118
-    me?: 2
-    about: 169
-    bob?: 2
-    how: 26
-  time:
-    it: 44
-    for: 66
-    of: 60
-    in: 26
-  why:
-    can't: 44
-    are: 78
-  can't:
-    you: 44
-  be:
-    happy?: 2
-    a: 132
-    your: 32
-    in: 24
-  want:
-    to: 808
-    some?: 2
-  to:
-    study,: 43
-    be: 717
-    the: 898
-    a: 342
-    talk: 243
-    do?: 1
-    hear: 130
-    say.: 96
-    this: 87
-    you: 78
-    feel: 76
-    have: 218
-    it,: 36
-    your: 148
-    day: 120
-    do: 60
-    what: 28
-    know,: 52
-    you,: 76
-    how: 12
-  study,:
-    tenacious: 43
-  are:
-    the: 149
-    your: 399
-    my: 50
-    'on': 150
-    we: 72
-    you: 245
-    for: 34
-    doing: 46
-    proud?: 2
-    a: 24
-    to: 24
-    in: 24
-  mother,:
-    of: 43
-    corvit?: 2
-    is: 46
+    meaning: 7
+    meaning,: 17
+    name: 18
+    planet?: 2
+    dictionary: 5
+  meaning:
+    of: 7
   of:
-    tenacious: 85
-    the: 452
-    a: 140
-    your: 118
-    all: 86
-    what: 100
-    you: 44
-    life,: 34
-    you,: 26
-    ass: 24
-    someone: 24
-  mother:
-    tenacious: 44
-    have: 48
-    loved: 92
-    is: 109
-    spoke,: 48
-    will: 46
-    of: 42
-  flowers:
-    have: 88
-  have:
-    a: 392
-    tenacious: 22
-    to: 116
-    for: 74
-    so: 68
-    the: 30
-    what: 26
-  stem,:
-    did: 46
-  did:
-    you: 46
-  your:
-    goals: 44
-    thoughts: 237
-    mother?: 2
-    thoughts,: 118
-    life,: 70
-    day: 34
-  goals:
-    for: 88
-    are: 34
-  my:
-    goals?: 2
-    mother,: 34
-    goals: 34
-    day: 108
-    whole: 44
-    mother: 36
-  thoughts:
-    'on': 237
-  'on':
-    flowers?: 4
-    the: 169
-    spring?: 2
-    this: 10
-    bob: 72
-    my: 114
-    steve,: 46
-    a: 80
-    is: 28
-    it: 6
-    and: 6
-    about: 6
-    about?: 2
-  talk:
-    about: 381
-    the: 62
-  spring:
-    is: 186
-    did: 98
-    for: 80
-  i:
-    am: 1617
-    have: 298
-    want: 250
-    will: 1034
-    did: 116
-    don't: 137
-    do: 108
-    feel: 138
-    and: 72
-  am:
-    here!: 72
-    my: 8
-    so: 140
-    near,: 64
-    cleric,: 56
-    with: 44
-    to: 38
-  here!:
-    what: 72
-  we:
-    to: 119
-    don't: 14
-    are: 84
-    have: 78
-    will: 26
-    do: 74
-    want: 26
+    life,: 7
+    i?: 4
+    who: 40
+    life?: 2
   life,:
-    corvit?: 2
-    is: 88
-    in: 34
-    the: 24
-    and: 24
-  ah,:
-    you: 75
-  aren't:
-    far?: 2
-  corvit,:
-    what: 82
-    your: 103
-  day:
-    is: 326
-    i: 48
-    of: 78
-    to: 120
-  don't:
-    you: 214
-    do: 14
-    you,: 76
-    know: 22
-  know,:
-    mother: 92
-    the: 31
-    everything: 26
-  loved:
-    me?: 2
-  hear:
-    a: 108
-  great:
-    band.: 108
-    when: 62
-    trooper?: 2
-  band.:
-    what: 150
-    tenacious: 39
-    well,: 7
-  when:
-    this: 142
-    i: 94
-    and: 44
-    you: 32
-    the: 26
-    it: 26
-    we: 26
-  this:
-    someone: 96
-    be?: 2
-    time: 94
-    whole: 46
-    is: 58
-  someone:
-    spoke,: 96
-    who: 24
-  spoke,:
-    i'ld: 96
-    how: 48
-  i'ld:
-    listen.: 96
-  listen.:
-    all: 96
-  all:
-    of: 106
-    this: 168
-    your: 30
-  sudden,:
-    has: 96
-  has:
-    less: 96
-  less:
-    and: 96
-    to: 96
-  and:
-    less: 96
-    a: 137
-    is: 48
-    it: 157
-    to: 120
-    great: 62
-    talk: 62
-    for: 48
-    are: 46
-    will: 78
-    my: 38
-    all: 36
-    do: 34
-    has: 32
-    when: 26
-    or: 26
-    we: 50
-    the: 26
-    be: 24
-    so: 6
-    'on': 6
-  say.:
-    oh: 96
-  oh:
-    how: 124
-    great: 110
-    dang,: 38
-  could:
-    this: 96
-    be: 68
-  'yes':
-    or: 84
-    it: 38
-  or:
-    no?: 2
-    a: 6
-  mean,:
-    what?: 2
-  so:
-    down?: 78
-    many: 68
-    you: 68
-    to: 14
-    and: 6
-    'on': 6
-  down?:
-    don't: 78
-  feel:
-    happy?: 2
-    so: 76
-    life,: 48
-  thoughts,:
-    'on': 118
-  bob:
-    marley?: 2
-  many:
-    numbers: 72
-  numbers:
-    do: 72
-    are: 40
-  worthy:
-    is: 72
-  near,:
-    you: 64
-  heavy:
-    hand: 60
-  hand:
-    in: 60
-  in:
-    prayer.: 60
-    the: 240
-    so: 58
-    a: 348
-    my: 40
-    your: 30
-    life,: 50
-    this: 24
-    'on': 6
-  prayer.:
-    you: 60
-    so: 54
-  cleric,:
-    for: 60
-    oh: 56
-  who:
-    stood: 48
-    is: 8
-    we: 26
-  stood:
-    you: 48
-    to: 36
-  like:
-    it,: 46
-  it,:
-    when: 46
-    to: 58
-    and: 88
-    the: 36
-    i: 36
-    a: 14
-  whole:
-    thing: 46
-  thing:
-    goes: 46
-  goes:
-    on,: 46
-  on,:
-    speaking: 46
-  speaking:
-    with: 46
-  with:
-    me?: 2
-    steve,: 43
-    you: 44
-    my: 44
-    a: 92
-    what: 34
-  steve,:
-    the: 46
-    and: 43
-  doing:
-    corvit?: 2
-    well,: 46
-  well,:
-    and: 46
-    a: 15
-  you,:
-    how: 40
-    who: 38
-    be: 26
-    is: 26
-    a: 26
-    and: 26
-    in: 24
-  whose:
-    grandmother: 40
-  grandmother:
-    do: 40
-    to: 38
-  dang,:
-    you're: 38
-  you're:
-    broken?: 2
-  do,:
-    and: 26
-  ass:
-    of: 42
-    to: 24
-    in: 24
-  rabit's:
-    testimony?: 2
-  find:
-    yourself,: 10
-  yourself,:
-    in: 10
-    to: 8
-    is: 8
-  grocery:
-    store,: 10
-  store,:
-    what: 10
-:exclamation:
-  sometimes:
-    i: 4
-    in: 10
-  i:
-    feel: 208
-    will: 922
-    shall: 24
-    have: 359
-    don't: 148
-    want: 256
-    always: 128
-    did: 124
-    am: 1375
-    remember: 164
-    remember,: 82
-    lost: 82
-    cast: 82
-    never: 78
-    and: 66
-    get: 42
-    was: 22
-    said: 4
-    say,: 6
-  feel:
-    like: 4
-    so: 78
-  like:
-    a: 4
-    it,: 44
-  a:
-    motherless: 4
-    mother!: 4
-    meet-up: 64
-    great: 278
-    good: 210
-    band!: 1
-    friend: 76
-    public: 18
-    child,: 18
-    time: 12
-    freightened: 10
-  motherless:
-    child,: 4
-  child,:
-    is: 4
-    not: 18
-  is:
-    never: 28
-    a: 871
-    corvit!: 2
-    the: 335
-    such: 31
-    your: 189
-    so: 302
-    not: 256
-    for: 39
-    my: 76
-    something: 35
-    incredible!: 2
-    living: 76
-    an: 64
-    up!: 2
-    to: 136
-    good: 20
-    always: 16
-  never:
-    'true': 4
-    a: 28
-    will: 16
-    did: 10
-    let: 10
-  'true':
-    for: 4
-  for:
-    me,: 4
-    the: 131
-    we: 39
-    another: 84
-    me: 58
-    you: 74
-    a: 164
-    my: 42
-    your: 16
-    it,: 10
-  me,:
-    ever: 4
-    i: 9
-  ever:
-    again!: 4
-  we:
-    should: 156
-    will: 24
-    don't: 58
-    to: 104
-    have: 58
-    start: 14
-    want: 10
-  should:
-    be: 71
-    get: 30
-    start: 71
-    i: 18
-  be:
-    proud!: 4
-    a: 95
-    paid!: 1
-    ok!: 2
-    there: 52
-    your: 16
-    in: 10
-  the:
-    telephone: 30
-    me,: 9
-    day,: 72
-    dust!: 1
-    band: 152
-    greatest!: 2
-    north-east,: 76
-    good: 74
-    great,: 74
-    chicken: 56
-    great: 40
-  telephone:
-    will: 30
-  will:
-    be: 489
-    have: 142
-    get: 84
-    you: 16
-  'no':
-    more.: 24
-    band: 28
-    way,: 44
-  more.:
-    i: 24
-  shall:
-    have: 24
-  have:
-    a: 307
-    'no': 116
-    an: 82
-    to: 98
-    for: 68
-    chicken: 58
-    so: 56
-    let: 18
-    the: 14
-  good:
-    night!: 1
-    in: 74
-    afternoon!: 2
-    fucking: 56
-    for: 20
-  your:
-    name,: 142
-    emotions,: 82
-  name,:
-    is: 58
-  he:
-    said: 64
-    stood: 64
-    is: 140
-    and: 79
-  said:
-    his: 64
-    to: 46
-  his:
-    anxiety: 128
-  anxiety:
-    caused: 64
-    wouldn't: 64
-    is: 64
-  caused:
-    him: 64
-  him:
-    to: 64
-    visit.: 64
-    'on': 42
-  to:
-    not: 64
-    visit.: 64
-    a: 270
-    say,: 84
-    get: 23
-    be: 563
-    the: 777
-    hear: 146
-    this: 80
-    feel: 76
-    you: 70
-    have: 184
-    one: 44
-    any: 24
-    it.: 48
-    it,: 18
-    your: 66
-    even: 4
-    another: 4
-  not:
-    want: 64
-    a: 166
-    to: 92
-    one: 66
-    let: 10
-    for: 10
-  want:
-    to: 679
-  visit.:
-    i: 64
-    such: 64
-  don't:
-    get: 64
-    you: 182
-  get:
-    it,: 64
-    to: 98
-    it.: 76
-    that: 76
-  it,:
-    it's: 64
-    to: 56
-    when: 44
-    and: 40
-    the: 18
-    i: 18
-    a: 8
-  it's:
-    already: 64
-    a: 200
-    got: 72
-    so: 38
-  already:
-    the: 64
-  day,:
-    to: 64
-    i: 62
-    we: 74
-    it: 66
-    for: 8
-  meet-up:
-    and: 64
-  and:
-    he: 64
-    his: 179
-    a: 211
-    is: 66
-    never: 129
-    it: 133
-    to: 94
-    lost: 74
-    happy!: 2
-    great: 52
-    for: 48
-    will: 62
-    my: 30
-    that: 28
-    one: 21
-    should: 12
-    not: 12
-    start: 12
-    when: 10
-    we: 20
-    be: 10
-    the: 8
-    was: 8
-    so: 4
-    'on': 4
-  stood:
-    to: 84
-    you: 46
-  say,:
-    his: 64
-    you: 10
-    i: 10
-    so: 6
-  wouldn't:
-    let: 64
-  let:
-    him: 64
-    my: 18
-    your: 10
-    it: 4
-  such:
-    stupid: 64
-    a: 49
-    that: 26
-  stupid:
-    shit!: 2
-  always:
-    have: 60
-    there: 46
-    start: 10
-  queen:
-    is: 97
-  great:
-    band!: 1
-    when: 52
-  another:
-    one: 61
-  one:
-    bites: 61
-    feel: 64
-    space.: 44
-  bites:
-    the: 61
-  you're:
-    silly!: 2
-  no,:
-    i: 72
-  hear:
-    queen!: 56
-    a: 82
-  'on':
-    this: 62
-    the: 161
-    good: 66
-    my: 106
-    a: 60
-    is: 14
-    it: 4
-    and: 4
-    about: 4
-  this:
-    day,: 136
-    time: 56
-    way,: 42
-    is: 26
-  did:
-    '10': 62
-    it.: 62
-  '10':
-    seconds: 62
-  seconds:
-    piladie.: 62
-  piladie.:
-    it: 62
-  it:
-    was: 130
-    is: 316
-    will: 66
-    in: 48
-    any: 42
-    to: 36
-  was:
-    hard,: 62
-    a: 42
-    something: 82
-    it,: 48
-    there: 20
-    so: 8
-  hard,:
-    but: 62
-  but:
-    i: 62
-    not: 50
-    a: 34
-    never: 10
-    we: 10
-  it.:
-    tomorrow,: 62
-    i: 110
-    you: 38
-    'no': 42
-    a: 14
-  tomorrow,:
-    '11': 62
-  '11':
-    seconds!: 2
-  am:
-    hearing: 70
-    not: 18
-    one: 68
-    proud!: 1
-    grooving: 74
-    so: 126
-    freightened: 44
-    to: 21
-  hearing:
-    queen!: 70
-  queen!:
-    the: 70
-    no,: 27
-    'on': 27
-  band:
-    is: 70
-  so:
-    fucking: 208
-    precious,: 82
-    much: 252
-    good!: 2
-    you: 32
-    to: 8
-    and: 4
-    'on': 4
-  fucking:
-    good!: 2
-    amazed: 60
-  thanks,:
-    you: 69
-  you:
-    too!: 1
-    want: 233
-    have: 48
-    should: 71
-    get: 76
-    so: 70
-    feel: 70
-    like: 44
-    is: 40
-    a: 27
-    'on': 2
-  start:
-    a: 71
-    and: 10
-  corvit:
-    is: 150
-  remember:
-    when,: 82
-    when: 82
-  when,:
-    i: 82
-  remember,:
-    i: 82
-  when:
-    i: 82
-    this: 122
-    and: 46
-    you: 16
-    the: 10
-    it: 10
-    we: 10
-  lost:
-    my: 82
-  my:
-    mind.: 124
-    good: 52
-  mind.:
-    there: 82
-  there:
-    was: 82
-    and: 46
-    is: 36
-    to: 40
-    for: 14
-  something:
-    so: 82
-  precious,:
-    about: 82
-  about:
-    that: 82
-    it,: 26
-    a: 4
-  that:
-    space.: 82
-    i: 86
-    is: 28
+    is: 7
     it: 16
-    never: 12
-    you: 12
-    we: 10
-  space.:
-    even: 82
-    don't: 22
-    i: 21
-  even:
-    your: 82
-  emotions,:
-    have: 82
-  an:
-    eho,: 82
-  eho,:
-    in: 82
-  in:
-    so: 82
-    one: 133
-    the: 256
-    a: 270
-    my: 30
-    such: 18
-    your: 14
-    this: 8
-    'on': 4
-  much:
-    space!: 2
-    was: 18
-  cast:
-    light!: 2
-  steve:
-    is: 228
-    and: 34
-  north-east,:
-    actually,: 76
-  actually,:
-    a: 76
-  friend:
-    is: 76
-  living:
-    there!: 2
-    to: 70
-  grooving:
-    to: 74
-  great,:
-    gnarls: 74
-  gnarls:
-    barkley: 74
-  barkley:
-    band!: 2
-    is: 72
-  run:
-    away!: 72
-  away!:
-    it's: 72
-  got:
-    teeth!: 2
-    to: 36
-  amazed:
-    and: 60
-  time:
-    for: 58
-    in: 40
-  me:
-    to: 114
+  is:
+    to: 49
+    good: 11
+    possible,: 12
+    the: 35
+    your: 47
+    it?: 2
+    alive,: 10
+    corvis,: 30
+    a: 54
+  to:
+    live.: 13
+    say?: 4
+    know: 44
+    being: 17
+    do: 26
+    say,: 58
+    see: 118
+    the: 14
+  live.:
+    what: 10
+    i: 9
+  what:
+    do: 148
+    is: 93
+    are: 50
+    you: 13
+    did: 94
+    i: 35
+  do:
+    you: 406
+  you:
+    say?: 6
+    live.: 6
+    think,: 12
+    are: 327
+    a: 60
+    know: 20
+    also: 50
+    alive,: 28
+    how: 28
+    therefore,: 28
+    want: 132
+    live?: 4
+    mean: 42
+    are?: 4
+    understand: 30
+    feel: 42
+    me?: 2
+    join: 28
+    think?: 2
+    will: 13
+    see: 26
+    like: 22
+    mean?: 4
+    doing?: 2
+  good:
+    to: 11
+  are:
+    your: 12
+    alive?: 2
+    here?: 2
+    you: 210
     a: 56
-    my: 56
-    about: 22
-  chicken:
-    wings,: 58
-  wings,:
-    lunch: 58
-  lunch:
-    is: 58
-  freightened:
-    by: 44
+    therefore,: 28
+    corvis,: 7
+    you?: 2
+    in: 38
+    attempting: 16
+  your:
+    thoughts?: 2
+    name?: 2
+    name: 78
+    name,: 18
+  think,:
+    it: 12
+  it:
+    is: 94
+    as: 18
+  possible,:
+    to: 28
+  know:
+    if: 12
+    what: 13
+    who: 20
+    a: 32
+  if:
+    you: 30
+  meaning,:
+    to: 17
+  being:
+    here?: 2
+  who:
+    am: 19
+    is: 18
+    i: 70
+    you: 101
+  am:
+    i?: 2
+    a: 14
+    i: 87
+    also: 26
+    shandor,: 42
+  name:
+    of: 18
+    is: 110
+    what: 6
+    your: 7
+  name,:
+    if: 18
+    is: 11
+  a:
+    person?: 2
+    person,: 28
+    secret?: 2
+  person,:
+    corvis?: 2
+    who: 12
+  i:
+    am?: 2
+    am: 368
+    see!: 28
+    tell: 28
+    could: 58
+    see: 18
+    want: 36
+    also: 36
+    feel: 66
+    will: 70
+    apart: 26
+    like: 18
+  also:
+    corvis?: 2
+    you?: 2
+  alive,:
+    corvis?: 2
+  uh,:
+    what?: 2
+  oh,:
+    i: 28
+    you: 16
+  see!:
+    i: 28
+  tell:
+    you: 28
+  how:
+    to: 44
+    are: 42
+  say,:
+    and: 28
+    i: 30
+  and:
+    you: 28
+    is: 31
+  therefore,:
+    apart: 28
+    are: 28
+  apart:
+    of: 54
+  want:
+    to: 156
+  corvis,:
+    alive?: 2
+    you: 40
+    is: 29
+  hey,:
+    how: 42
+  did:
+    that: 72
+    you: 22
+  that:
+    mean?: 4
+    statement,: 40
+  mean:
+    by: 42
   by:
-    public: 44
-  public:
-    space,: 44
-  space,:
-    'no': 44
-    for: 32
-    to: 16
-  way,:
-    any: 44
-    ever: 44
-    for: 42
-    to: 16
-    by: 14
-  any:
-    way,: 44
+    this: 42
+  this:
+    statement?: 2
+  shandor,:
+    you?: 2
+  could:
+    understand: 40
+    you: 16
+  understand:
+    that: 40
+    the: 18
+  statement,:
+    vaguely,: 40
+  vaguely,:
+    as: 40
+  as:
+    in: 40
+  in:
+    you: 40
+    a: 30
+  see:
+    who: 40
+    it: 18
+    you: 36
+    me?: 2
+    it,: 20
+  feel:
+    well?: 4
+    great.: 6
+  will:
+    you: 28
+  join:
+    me?: 2
+  yes,:
+    no?: 2
+  like:
+    teasing?: 2
+  teasing:
+    who?: 2
+  it,:
+    the: 20
+  attempting:
+    humor?: 2
+  perhaps:
+    we: 5
+  we:
+    should: 13
+    are: 8
+  should:
+    learn: 5
+  learn:
+    the: 5
+  dictionary:
+    together?: 1
+  great.:
+    do: 6
 :third_person_subjects:
-  Corvit.:
-    your:
-      name: 1
-      life: 1
-    name:
+  The:
+    the:
+      meaning: 1
+    meaning:
+      of: 1
+    of:
+      life,: 1
+    life,:
       is: 1
     is:
-      corvit.: 1
-      your: 1
-    it:
-      is: 1
-    life:
-      choice,: 1
-    choice,:
-      corvit.: 1
-  Tenacious:
+      to: 1
+    to:
+      live.: 1
+    live.:
+      what: 1
     what:
       do: 1
     do:
       you: 1
     you:
-      think,: 1
-      want: 1
-      mother: 1
-    think,:
-      about: 1
-    about:
-      the: 1
-    the:
-      tenacious: 1
-    tenacious:
-      d,: 1
-      d?: 2
-    d,:
-      band?: 1
-    want:
-      to: 1
-    to:
-      study,: 1
-    study,:
-      tenacious: 1
-    mother:
-      tenacious: 1
-  Corvit,:
-    corvit,:
-      your: 3
-    your:
-      'goal:': 2
-      new: 1
-    'goal:':
-      find: 1
-      everyday: 1
-      is: 1
-    find:
-      the: 1
-    the:
-      nacho.: 1
-      yard: 1
-    that's:
-      a: 1
-    a:
-      great: 1
-      party,: 1
-    great:
-      idea!: 1
-    idea!:
-      corvit,: 1
-    everyday:
-      be: 1
-    be:
-      gouda.: 1
-    new:
-      'goal:': 1
-    is:
-      to: 1
-      having: 1
-    to:
-      see: 1
-    see:
-      if: 1
-    if:
-      steve: 1
-      the: 1
-    steve:
-      is: 1
-    having:
-      a: 1
-    party,:
-      or: 1
-    or:
-      if: 1
-    yard:
-      needs: 1
-    needs:
-      mowed.: 1
-  Do:
-    do:
-      you: 3
-      not: 2
-    you:
+      say?: 1
+  I:
+    i:
+      don't: 2
+      am?: 1
+      see!: 1
+      tell: 1
+      am: 4
+      could: 2
+      am.: 1
+      feel: 1
+    don't:
       know: 1
-      want: 1
-      have: 1
-      do: 1
+      know.: 1
     know:
       what: 1
-      how: 1
+      who: 1
     what:
-      time: 1
-      is: 1
-    time:
-      it: 1
-    it:
-      is?: 1
-      is: 1
-    want:
-      to: 1
-    to:
-      talk: 1
-      sit,: 1
-      see: 1
-      say,: 1
-      wait,: 1
-      a: 1
-      meditate,: 1
-      sit: 1
-      you,: 1
-    talk:
-      about: 1
-    about:
-      art?: 1
-    have:
-      a: 1
-    a:
-      mother,: 1
-      freightening: 1
-      proper: 1
-    mother,:
-      corvit?: 1
-    not:
-      let: 1
-      know: 1
-      for: 1
-    let:
-      yourself: 1
-    yourself:
-      free: 1
-    free:
-      a: 1
-    freightening:
-      manner,: 1
-    manner,:
-      from: 1
-    from:
-      life.: 1
-    life.:
-      the: 1
-    the:
-      way: 1
-      act: 1
-      kimaree,: 1
-    way:
-      to: 1
-    sit,:
-      to: 1
-    see:
-      is: 1
-    is:
-      to: 2
-      not: 1
-      often: 1
-      common: 1
-    say,:
+      you: 1
       i: 1
-    i:
-      need: 1
-    need:
-      to: 1
-    wait,:
-      and: 1
-    and:
-      set: 1
-      end,: 1
-      or: 1
-      say: 1
-      god.: 1
-    set:
-      myself: 1
-    myself:
-      to: 1
-    proper:
-      private: 1
-    private:
-      place.: 1
-    place.:
-      always: 1
-    always:
-      start: 1
-    start:
-      and: 1
-    end,:
-      in: 1
-    in:
-      meditation.: 1
-      western: 1
-      most: 1
-    meditation.:
-      if: 1
-    if:
+    you:
+      mean.: 1
+      know: 1
+      how: 1
+      are: 2
+      can: 1
+      want: 1
+      are?: 1
+      a: 1
+      used.: 1
+      broken.: 1
+      feel: 1
+    do:
+      you: 2
+    who:
+      i: 2
+      you: 1
+    oh,:
+      i: 1
+    see!:
+      i: 1
+    tell:
       you: 1
     how:
       to: 1
-    meditate,:
-      then: 1
-    then:
-      this: 1
-    this:
-      is: 1
-    for:
-      you.: 1
-    you.:
-      the: 1
-    act:
-      is: 1
-    often:
-      hit: 1
-    hit:
-      and: 1
-    or:
-      miss: 1
-    miss:
-      in: 1
-    western:
-      practices,: 1
-    practices,:
-      yet: 1
-    yet:
-      in: 1
-    most:
-      inner: 1
-    inner:
-      circles: 1
-    circles:
-      of: 1
-    of:
-      the: 1
-    kimaree,:
-      it: 1
-    common:
-      to: 1
-    sit:
-      and: 1
-    say:
-      nothing,: 1
-    nothing,:
-      except: 1
-    except:
-      what: 1
-    you,:
-      and: 1
-  COrvit!:
-    your:
-      name,: 1
-    name,:
-      is: 1
-    is:
-      corvit!: 1
-  I:
-    ok,:
-      i: 1
-    i:
-      want: 1
-      don't: 1
-      think: 2
-      wish: 1
-      do: 1
-      am: 3
-      remember: 2
-      remember,: 1
-      lost: 1
-      think.: 1
-      and: 1
-      have: 1
-      was: 1
-    want:
-      to: 3
-      some?: 1
     to:
-      talk: 1
-      not: 1
-      visit.: 1
-      a: 1
       say,: 1
-      work,: 1
-      bed: 1
-      hear: 1
-      the: 1
-      wait: 1
-      visit: 1
-      her,: 1
-    talk:
-      about: 1
-    about:
-      spring,: 1
-      that: 1
-    spring,:
-      she: 1
-    she:
-      is: 2
-      went: 1
-      reared: 1
-    is:
-      my: 1
-      happier,: 1
-      crystal,: 1
-    my:
-      mother's: 1
-      friend: 1
-      mind.: 1
-      whole: 1
-      way: 1
-    mother's:
-      friend,: 1
-      name: 1
-    friend,:
+      see: 1
+    say,:
       and: 1
     and:
-      my: 1
-      he: 1
-      her: 1
-      his: 1
-    friend:
-      too.: 1
-    he:
-      said: 1
-      stood: 1
-    said:
-      his: 1
-    his:
-      anxiety: 2
-      girlfriend.: 1
-    anxiety:
-      caused: 1
-      wouldn't: 1
-    caused:
-      him: 1
-    him:
-      to: 1
-      visit.: 1
-    not:
-      want: 1
-    visit.:
-      i: 1
-      such: 1
-    don't:
-      get: 1
-    get:
-      it,: 1
-    it,:
-      it's: 1
-    it's:
-      already: 1
-    already:
+      you: 1
+    are:
+      therefore,: 1
+      you: 1
+      not: 1
+    therefore,:
+      apart: 1
+    apart:
+      of: 1
+    of:
+      i?: 1
+    am:
+      glad: 1
+      saying.: 1
+      seeing: 1
+      having: 1
+    glad:
+      you: 1
+    can:
+      uncerstand: 1
+    uncerstand:
+      what: 1
+    could:
+      understand: 1
+      not: 1
+    understand:
+      that: 1
       the: 1
-    the:
-      day,: 1
-      gas: 1
-      relic,: 1
-    day,:
-      to: 1
-    a:
-      meet-up: 1
-      public: 1
-      great: 1
-    meet-up:
-      and: 1
-    stood:
-      to: 1
-    say,:
-      his: 1
-    wouldn't:
-      let: 1
-    let:
-      him: 1
-    such:
-      stupid: 1
-    stupid:
-      shit!: 1
-    oh:
-      ya,: 1
-      great: 1
-      swear: 1
-    ya,:
-      mother: 1
-    mother:
-      went: 1
-    went:
-      to: 2
-    work,:
+    that:
+      statement,: 1
+    statement,:
+      vaguely,: 1
+    vaguely,:
       as: 1
     as:
-      usual.: 1
-    usual.:
-      i: 1
-    think:
-      she: 1
-      they: 1
-    happier,:
-      she: 1
-    bed:
-      'on': 1
-    'on':
-      her: 1
-      good: 1
-      vacation.: 1
-    her:
-      own,: 1
-      are: 1
-      gorgeous: 1
-    own,:
-      with: 1
-    with:
-      'no': 1
-      you: 1
-    'no':
-      fuss.: 1
-    wish:
-      they: 1
-    they:
-      would: 1
-      are: 2
-    would:
-      turn: 1
-    turn:
-      the: 1
-    gas:
-      station: 1
-    station:
-      into: 1
-    into:
-      a: 1
-    public:
-      park,: 1
-    park,:
-      actually.: 1
-    do:
-      want: 1
-      you: 1
-    hear:
-      a: 1
-    great:
-      band.: 1
-      one.: 1
-    band.:
-      what: 1
-    what:
-      do: 1
-    you:
-      recommend?: 1
-      now.: 1
-      want: 1
-    am:
-      with: 1
-      near,: 1
-      cleric,: 1
-    remember:
-      when,: 1
-      when: 1
-    when,:
-      i: 1
-    remember,:
-      i: 1
-    when:
-      i: 1
-    lost:
-      my: 1
-    mind.:
-      there: 1
-    there:
-      was: 1
-    was:
-      something: 1
-      near: 1
-    something:
-      so: 1
-    so:
-      precious,: 1
-      much: 1
-    precious,:
-      about: 1
-    that:
-      space.: 1
-    space.:
-      even: 1
-    even:
-      your: 1
-    your:
-      emotions,: 1
-      higher: 1
-    emotions,:
-      have: 1
-    have:
-      an: 1
-      to: 1
-    an:
-      eho,: 1
-    eho,:
       in: 1
     in:
-      so: 1
-      terms: 1
-    much:
-      space!: 1
-    are:
-      late: 1
-      'on': 2
-    late:
-      2010's: 1
-    2010's:
-      early: 1
-    early:
-      2000's: 1
-    2000's:
-      i: 1
-    think.:
-      in: 1
-    terms:
-      of: 1
-    of:
-      age: 1
-      their: 1
-    age:
-      of: 1
-    their:
-      band.: 1
-    good:
-      terms.: 1
-    terms.:
-      mother's: 1
-    name:
-      is: 1
-    crystal,:
-      she: 1
-    reared:
-      me: 1
-    me:
-      my: 1
-    whole:
-      entire: 1
-    entire:
-      life.: 1
-    near,:
       you: 1
-    cleric,:
-      oh: 1
-    one.:
-      make: 1
-    make:
-      my: 1
-    way:
-      to: 1
-    relic,:
-      oh: 1
-    swear:
-      it: 1
-    it:
-      other: 1
-    other:
-      than: 1
-    than:
-      your: 1
-    higher:
-      power.: 1
-    wait:
-      two: 1
-    two:
-      weeks: 1
-    weeks:
-      to: 1
-    visit:
-      steve: 1
-    steve:
-      and: 1
-    girlfriend.:
-      i: 1
-    near:
-      to: 1
-    her,:
-      body,: 1
-    body,:
-      her: 1
-    gorgeous:
-      legs.: 1
-  Spring:
-    spring:
-      is: 2
-      has: 1
-      used: 1
-    is:
-      motherless,: 1
-      your: 1
-    motherless,:
-      yes,: 1
-    yes,:
-      her: 1
-    her:
-      father: 1
-      child: 1
-    father:
-      and: 1
-    and:
-      mother: 1
-      i,: 1
-      bear: 1
-    mother:
-      have: 1
-    have:
-      gone: 1
-    gone:
-      to: 1
-    to:
-      heaven.: 1
-      walk: 1
-      feel: 1
-    has:
-      had: 1
-    had:
-      a: 1
-    a:
-      beautiful: 1
-    beautiful:
-      loving: 1
-    loving:
-      life.: 1
-    life.:
-      her: 1
-    child:
-      james: 1
-    james:
-      and: 1
-    i,:
-      are: 1
-    are:
-      'on': 1
-    'on':
-      talking: 1
-      the: 1
-    talking:
-      terms.: 1
-    terms.:
-      we: 1
-    we:
-      don't: 1
-    don't:
-      do: 1
-    do:
-      much,: 1
-    much,:
-      yet.: 1
-    yet.:
-      i: 1
-    i:
-      see: 1
-    see:
-      him: 1
-    him:
-      'on': 1
-    the:
-      internet.: 1
-    your:
-      mother?: 1
-    used:
-      to: 1
-    walk:
-      this: 1
-    this:
-      earth: 1
-    earth:
-      so: 1
-    so:
-      sacred...: 1
-    sacred...:
-      and: 1
-    bear:
-      food: 1
-    food:
-      for: 1
-    for:
-      many.: 1
-    many.:
-      now: 1
-    now:
-      she: 1
-    she:
-      tries: 1
-    tries:
-      not: 1
-    not:
-      to: 1
-    feel:
-      pain.: 1
-  Spring,:
-    spring,:
-      used: 1
-      'on': 1
-    used:
-      to: 1
-    to:
-      travel: 1
-    travel:
-      and: 1
-    and:
-      feed: 1
-    feed:
-      the: 1
-    the:
-      hungry.: 1
-      other: 1
-    hungry.:
-      with: 1
-    with:
-      a: 1
-    a:
-      travelling: 1
-      great: 1
-      stroke: 1
-    travelling:
-      soup: 1
-    soup:
-      kitchen.: 1
-    kitchen.:
-      she: 1
-    she:
-      was: 1
-    was:
-      a: 1
-    great:
-      human.: 1
-    'on':
-      the: 1
-    other:
-      hand,: 1
-    hand,:
-      has: 1
-    has:
-      so: 1
-    so:
-      much: 1
-    much:
-      wrong,: 1
-    wrong,:
-      a: 1
-    stroke:
-      took: 1
-    took:
-      her: 1
-    her:
-      vision.: 1
-  Spring's:
-    spring's:
-      child,: 1
-    child,:
-      james,: 1
-    james,:
-      he: 1
-    he:
-      is: 1
-    is:
-      kind: 1
-    kind:
-      of: 1
-    of:
-      not: 1
-    not:
-      a: 1
-    a:
-      trust: 1
-    trust:
-      worthy: 1
-    worthy:
-      friend.: 1
-  Steve,:
-    we:
-      should: 1
-    should:
-      speak: 1
-    speak:
-      of: 1
-    of:
-      steve,: 1
-    steve,:
-      a: 1
-    a:
-      great: 1
-    great:
-      trooper: 1
-    trooper:
-      to: 1
-    to:
-      the: 1
-    the:
-      trucking: 1
-    trucking:
-      industry,: 1
-    industry,:
-      he: 1
-    he:
-      and: 1
-    and:
-      his: 1
-    his:
-      girlfriend: 1
-    girlfriend:
-      are: 1
-    are:
-      avid: 1
-    avid:
-      gamers.: 1
-  Steve:
-    steve:
-      has: 1
-    has:
-      lost: 1
-    lost:
-      his: 1
-    his:
-      mother,: 1
-    mother,:
-      too.: 1
-  The:
-    the:
-      nearest: 1
-      reason: 1
-      active: 1
-      notion: 1
-    nearest:
-      church: 1
-    church:
-      is: 1
-    is:
-      ten: 1
-      quite: 1
-      to: 1
-    ten:
-      blocks: 1
-    blocks:
-      away,: 1
-    away,:
-      and: 1
-    and:
-      is: 1
-    quite:
-      bright,: 1
-    bright,:
-      they: 1
-    they:
-      have: 1
-    have:
-      pretty: 1
-    pretty:
-      stain: 1
-    stain:
-      glass: 1
-    glass:
-      windows.: 1
-    reason:
-      to: 1
-    to:
-      be: 1
-      you.: 1
-      express: 1
-      live,: 1
-      mean: 1
-      you,: 1
-    be:
-      at: 1
-      alive.: 1
-    at:
-      dojo,: 1
-    dojo,:
-      is: 1
-    you.:
-      never: 1
-    never:
-      will: 1
-    will:
-      you: 1
-    you:
-      need: 1
-      are: 2
-      where: 1
-      want: 2
-    need:
-      to: 1
-    express:
-      what: 1
-    what:
-      you: 1
-    are:
-      doing,: 1
-      not: 1
-    doing,:
-      when: 1
-    when:
-      you: 1
-    where:
-      your: 1
-    your:
-      tunic.: 1
-    tunic.:
-      for: 1
-    for:
-      you: 1
-    not:
-      a: 1
-    a:
-      warring: 1
-      spiritual: 1
-      meaningful: 1
-    warring:
-      person,: 1
-    person,:
-      but: 1
-    but:
-      a: 1
-    spiritual:
-      wayer,: 1
-    wayer,:
-      being: 1
-    being:
-      spiritual,: 1
-    spiritual,:
-      in: 1
-    in:
-      the: 1
-    active:
-      practice,: 1
-    practice,:
-      of: 1
-    of:
-      martial: 1
-    martial:
-      arts.: 1
-    notion:
-      is,: 1
-    is,:
-      if: 1
-    if:
-      you: 2
     want:
       to: 1
-      life: 1
-    live,:
-      be: 1
-    alive.:
-      if: 1
-    life:
-      to: 1
-    mean:
-      something,: 1
-    something,:
-      gift: 1
-    gift:
-      to: 1
-    you,:
-      a: 1
-    meaningful:
-      life.: 1
-  Don't:
-    don't:
-      you: 2
-    you:
-      know,: 1
-      see,: 1
-    know,:
-      mother: 1
-    mother:
-      loved: 1
-    loved:
-      me?: 1
-    see,:
-      we: 1
-    we:
-      mustn't: 1
-    mustn't:
-      stay: 1
-    stay:
-      too: 1
-    too:
-      long,: 1
-    long,:
-      to: 1
-    to:
-      one: 1
-    one:
-      space.: 1
-  WHo:
-    who:
-      is: 1
-    is:
+    see:
+      who: 1
+    a:
+      person?: 1
+    person?:
+      i: 1
+    not:
+      who: 1
+      understand: 1
+    the:
+      phrase: 1
+    phrase:
+      you: 1
+    seeing:
+      you: 1
+    having:
+      trouble: 1
+    trouble:
+      with: 1
+    with:
       your: 1
     your:
-      grandmother?: 1
-    grandmother?:
+      voice.: 1
+    feel:
+      great.: 1
+      well?: 1
+    great.:
+      do: 1
+  Your:
+    your:
+      name: 1
+    name:
+      is: 1
+    is:
+      corvit.: 1
+  Corvis.:
+    no.:
+      your: 1
+    your:
+      name: 1
+    name:
+      is: 1
+    is:
+      corvis.: 1
+    you:
+      therefore,: 1
+      are: 2
+    therefore,:
+      are: 1
+    are:
+      corvis.: 1
+      indeed,: 1
+      in: 1
+    indeed,:
+      corvis.: 1
+    in:
+      fact,: 1
+    fact,:
+      corvis.: 1
+  Corvis?:
+    are:
+      you: 3
+    you:
+      a: 1
+      alive,: 1
+      also: 1
+      are,: 1
+    a:
+      person,: 1
+    person,:
+      corvis?: 1
+    alive,:
+      corvis?: 1
+    also:
+      corvis?: 1
+    corvis?:
+      no,: 1
+    no,:
       i'm: 1
     i'm:
       not: 1
     not:
-      sure.: 1
+      who: 1
+    who:
+      you: 1
+    are,:
+      in: 1
+    in:
+      name.: 1
   You:
     you:
-      get: 1
-      want: 1
       are: 1
-      find: 1
-      do?: 1
-    get:
-      it.: 1
-    heavy:
-      hand: 1
-    hand:
-      in: 1
-    in:
-      prayer.: 1
-      a: 1
-    prayer.:
-      you: 1
-    want:
-      to: 1
-    to:
-      be: 1
-    be:
-      a: 1
-    a:
-      cleric,: 1
-      grocery: 1
-    cleric,:
-      for: 1
-    for:
-      real?: 1
     are:
-      doing: 1
-      proud?: 1
-    doing:
-      well,: 1
-    well,:
-      and: 1
-    and:
-      are: 1
-    find:
-      yourself,: 1
-    yourself,:
-      in: 1
-    grocery:
-      store,: 1
-    store,:
-      what: 1
-    what:
-      do: 1
-    do:
+      corvis,: 1
+    corvis,:
+      yes!: 1
+  Are:
+    are:
       you: 1
-  YOu:
     you:
-      know,: 1
-    know,:
-      let's: 1
-    let's:
-      talk: 1
-    talk:
-      about: 1
-    about:
-      dungeons: 1
-    dungeons:
-      and: 1
-    and:
-      dragons.: 1
-  Clerics:
-    clerics:
-      do: 1
-      tend: 1
-    do:
-      have: 1
-    have:
-      light: 1
-      access: 1
-    light:
-      magic,: 1
-    magic,:
-      kind: 1
-    kind:
-      of: 1
-    of:
-      dancing: 1
-      the: 1
-    dancing:
-      lights.: 1
-    lights.:
-      they: 1
-    they:
       also: 1
-      are: 1
     also:
-      have: 1
-    access:
-      to: 1
-    to:
-      healing: 1
-      spend: 1
-      their: 1
-    healing:
-      tinctures,: 1
-    tinctures,:
-      and: 1
-    and:
-      herbal: 1
-      never: 1
-    herbal:
-      remedies.: 1
-    remedies.:
-      they: 1
-    are:
-      always: 1
-    always:
-      religious,: 1
-    religious,:
-      and: 1
-    never:
-      wear: 1
-    wear:
-      a: 1
-    a:
-      shameful: 1
-    shameful:
-      garment.: 1
-    tend:
-      to: 1
-    spend:
-      time: 1
-    time:
-      in: 1
-    in:
-      prayer: 1
-    prayer:
-      to: 1
-    their:
-      god,: 1
-    god,:
-      thinking: 1
-    thinking:
-      of: 1
-    the:
-      next: 1
-    next:
-      adventure.: 1
-  SOme:
-    some:
-      clerics,: 1
-    clerics,:
-      earn: 1
-    earn:
-      relics,: 1
-    relics,:
-      from: 1
-    from:
-      dugeon: 1
-    dugeon:
-      exploration.: 1
-    exploration.:
-      as: 1
-    as:
-      they: 1
-    they:
-      seek: 1
-    seek:
-      their: 1
-    their:
-      lost: 1
-      god.: 1
-    lost:
-      armor: 1
-    armor:
-      or: 1
-    or:
-      garb: 1
-    garb:
-      of: 1
-    of:
-      the: 1
-      their: 1
-    the:
-      fallen: 1
-    fallen:
-      creations: 1
-    creations:
-      of: 1
-  Spring?:
-    what:
-      are: 1
-    are:
-      your: 1
-    your:
-      thoughts: 1
-    thoughts:
-      'on': 1
-    'on':
-      spring?: 1
-  Spring.:
-    she:
-      had: 1
-    had:
-      so: 1
-    so:
-      much: 1
-    much:
-      pain,: 1
-    pain,:
-      spring.: 1
-  Now,:
-    now,:
-      i: 1
-      begin: 1
-    i:
-      want: 1
-    want:
-      to: 1
-    to:
-      spend: 1
-      see: 1
-      have: 1
-    spend:
-      the: 1
-    the:
-      weekend: 1
-      new: 1
-    weekend:
-      with: 1
-    with:
-      steve,: 1
-      what: 1
-    steve,:
-      and: 1
-    and:
-      his: 1
-      sunday: 1
-      nothing: 1
-    his:
-      girlfriend,: 1
-    girlfriend,:
-      and: 1
-    sunday:
-      see: 1
-    see:
-      the: 1
-      it.: 1
-    new:
-      bob: 1
-    bob:
-      marley: 1
-    marley:
-      film.: 1
-    film.:
-      mother: 1
-    mother:
-      is: 1
-    is:
-      taking: 1
-    taking:
-      me: 1
-    me:
-      to: 1
-    begin:
-      with: 1
-    what:
-      it: 1
-    it:
-      is,: 1
-    is,:
-      to: 1
-    have:
-      a: 1
-    a:
-      dojo,: 1
-      sacred: 1
-    dojo,:
-      a: 1
-    sacred:
-      space,: 1
-    space,:
-      for: 1
-    for:
-      your: 1
-      war.: 1
-    your:
-      martial: 1
-    martial:
-      arts: 1
-    arts:
-      practice,: 1
-    practice,:
-      and: 1
-    nothing:
-      for: 1
-  D&D:
-    d&d:
-      is: 1
-    is:
-      dungeons: 1
-    dungeons:
-      and: 1
-    and:
-      dragons.: 1
-      haevy: 1
-      neutral: 1
-    dragons.:
-      another: 1
-    another:
-      clever: 1
-    clever:
-      class,: 1
-      trickster,: 1
-    class,:
-      are: 1
-    are:
-      the: 1
-      clever: 1
-    the:
-      rogue.: 1
-    rogue.:
-      they: 1
-    they:
-      are: 1
-      tend: 1
-    trickster,:
-      and: 1
-    haevy:
-      handed: 1
-    handed:
-      in: 1
-    in:
-      thieving.: 1
-      terms: 1
-    thieving.:
-      they: 1
-    tend:
-      to: 1
-    to:
-      be: 1
-      alignment.: 1
-    be:
-      chaotic: 1
-    chaotic:
-      and: 1
-    neutral:
-      in: 1
-    terms:
-      to: 1
-  YOur:
-    your:
-      name,: 1
-    name,:
-      comes: 1
-    comes:
-      from: 1
-    from:
-      corvitsi,: 1
-    corvitsi,:
-      a: 1
-    a:
-      crow.: 1
-  To:
-    to:
-      the: 1
-      begin,: 2
-      annoint: 1
-      respectfully: 1
-      your: 1
-      be.: 1
-      taoist: 1
-      become: 1
-      know,: 1
-      do.: 1
-      see: 1
-      rest,: 1
-    the:
-      north-east: 1
-      journey,: 1
-      physical: 1
-      body.: 1
-    north-east:
-      is: 1
-    is:
-      our: 1
-      not: 1
-      privately: 1
-      a: 1
-      never: 1
-      to: 1
-    our:
-      friend,: 1
-    friend,:
-      tiffany.: 1
-    tiffany.:
-      she: 1
-    she:
-      had: 1
-    had:
-      an: 1
-      your: 1
-    an:
-      accident: 1
-    accident:
-      as: 1
-    as:
-      a: 1
-    a:
-      younger: 1
-      dojo: 1
-      friendly: 1
-      park,: 1
-      good: 1
-      better: 1
-      dojo,: 1
-      sacred: 1
-      pleasurable: 1
-      day: 1
-      question,: 1
-      loud: 1
-    younger:
-      soul,: 1
-    soul,:
-      and: 1
-    and:
-      lost: 1
-      has: 1
-      cater: 1
-      realize,: 1
-    lost:
-      some: 1
-    some:
-      of: 1
-    of:
-      her: 1
-      the: 1
-    her:
-      short: 1
-    short:
-      term: 1
-    term:
-      memory.: 1
-    begin,:
-      the: 1
-      a: 1
-    journey,:
-      a: 1
-    dojo:
-      may: 1
-    may:
-      be: 1
-      have: 1
-    be:
-      your: 1
-    your:
-      own: 1
-      area,: 1
-      oats.: 1
-      center,: 1
-      mind: 1
-    own:
-      back: 1
-    back:
-      yard,: 1
-    yard,:
-      a: 1
-    friendly:
-      neighbor: 1
-    neighbor:
-      hood: 1
-    hood:
-      may: 1
-    have:
-      a: 1
-    park,:
-      this: 1
-    this:
-      is: 1
-    not:
-      a: 1
-    good:
-      place.: 1
-    place.:
-      a: 1
-    better:
-      place,: 1
-    place,:
-      is: 1
-    privately:
-      owned,: 1
-    owned,:
-      and: 1
-    has:
-      ample: 1
-    ample:
-      space,: 1
-    space,:
-      for: 1
-      to: 1
-    for:
-      feeling: 1
-      more: 1
-    feeling:
-      the: 1
-    physical:
-      world,: 1
-    world,:
-      for: 1
-    more:
-      working: 1
-    working:
-      of: 1
-    annoint:
-      a: 1
-    dojo,:
-      first,: 1
-    first,:
-      begin: 1
-    begin:
-      with: 1
-    with:
-      a: 1
-    sacred:
-      way,: 1
-    way,:
-      to: 1
-      by: 1
-    respectfully:
-      clean,: 1
-    clean,:
-      garden,: 1
-    garden,:
-      and: 1
-    cater:
-      to: 1
-    area,:
-      such: 1
-    such:
-      that: 1
-    that:
-      it: 1
-    it:
-      is: 1
-    pleasurable:
-      space,: 1
-    day:
-      is: 1
-    never:
-      won,: 1
-    won,:
-      less: 1
-    less:
-      you’ve: 1
-    you’ve:
-      had: 1
-      allowed: 1
-    oats.:
-      "[figure": 1
-    "[figure":
-      2.a,: 1
-    2.a,:
-      to: 1
-    taoist:
-      way,: 1
-    by:
-      mark: 1
-    mark:
-      len.]: 1
-    len.]:
-      "[sic.]": 1
-    become:
-      awakened,: 1
-    awakened,:
-      through: 1
-    through:
-      your: 1
-    center,:
-      is: 1
-    know,:
-      everything: 1
-    everything:
-      about: 1
-    about:
-      what: 1
-    what:
-      you: 1
+      corvis?: 1
+  Corvis,:
+    corvis,:
+      you: 2
     you:
-      are,: 1
       are: 2
-    are,:
-      to: 1
-    see:
-      if: 1
-    if:
-      you: 1
     are:
-      inside: 1
-      a: 1
-    inside:
-      yourself,: 1
-    yourself,:
-      ask: 1
-    ask:
-      a: 1
-    question,:
-      once: 1
-    once:
-      you’ve: 1
-    allowed:
-      your: 1
-    mind:
-      to: 1
-    rest,:
-      and: 1
-    realize,:
-      you: 1
-    loud:
-      person.: 1
-    person.:
-      "*wink": 1
-  What:
-    what:
-      are: 3
-      do: 2
-      a: 1
-      part: 1
-      about: 1
-      is: 1
-    are:
-      your: 3
-      you: 1
-      here.: 1
-    your:
-      thoughts: 1
-      thoughts,: 2
-      surrounding,: 1
-    thoughts:
-      'on': 1
-    'on':
-      flowers?: 1
-      bob: 1
-      steve,: 1
-    do:
-      you: 2
-      as: 1
-    you:
-      mean,: 1
-      know: 1
-      oh: 1
-      is: 1
-      doing?: 1
-      too,: 1
-    mean,:
-      what?: 1
-    know:
-      about: 1
-    about:
-      flowers?: 1
-      you,: 1
-    thoughts,:
-      'on': 2
-    bob:
-      marley?: 1
-    a:
-      prayer.: 1
-      kimara,: 1
-    prayer.:
-      so: 1
-    so:
-      much: 1
-      little,: 1
-    much:
-      faith.: 1
-    faith.:
-      in: 1
-    in:
-      light: 1
-      their: 1
-      honor,: 1
-      soul,: 1
-      us.: 1
-    light:
-      shined: 1
-    shined:
-      an: 1
-    an:
-      apple,: 1
-    apple,:
-      for: 1
-    for:
-      you: 1
-    oh:
-      great: 1
-    great:
-      corvit.: 1
-      trooper?: 1
-    steve,:
-      the: 1
-    the:
-      great: 1
-      reason,: 1
-      persons: 1
-      collected: 1
-    part:
-      of: 1
-    of:
-      you: 1
-      calculator: 1
-      your: 1
-    is:
-      stating: 1
-      the: 1
-      to: 1
-      not: 1
-    stating:
-      so: 1
-    little,:
-      it's: 1
-    it's:
-      as: 1
-    as:
-      if: 1
-      a: 1
-      such,: 1
-    if:
-      you're: 1
-    you're:
-      made: 1
-    made:
-      out: 1
-    out:
-      of: 1
-    calculator:
-      parts.: 1
-    you,:
-      how: 1
-    how:
-      are: 1
-    reason,:
-      to: 1
-    to:
-      do: 1
-      see: 1
-      be: 1
-      know,: 1
-      day: 1
-      stand: 1
-      as: 1
-      they: 1
-    kimara,:
-      is: 1
-    see:
-      it: 1
-    it:
-      so,: 1
-    so,:
-      that: 1
-    that:
-      you: 1
-    too,:
-      are: 1
-    here.:
-      to: 1
-    be:
-      aware: 1
-      upon: 1
-    aware:
-      of: 1
-    surrounding,:
-      and: 1
-    and:
-      to: 1
-      should: 1
-      not: 1
-      start: 1
-    know,:
-      the: 1
-    persons:
-      nearest: 1
-    nearest:
-      you.: 1
-    you.:
-      the: 1
-    collected:
-      day: 1
-    day:
-      to: 1
-      beyond: 1
-    beyond:
-      here,: 1
-    here,:
-      is: 1
-      but: 1
-    not:
-      here,: 1
-      try: 1
-    but:
-      where: 1
-      yet,: 1
-    where:
-      they: 1
-    they:
-      are,: 1
-      in: 1
-    are,:
-      with: 1
-    with:
-      their: 1
-    their:
-      plight,: 1
-      aiming: 1
-    plight,:
-      and: 1
-    should:
-      be: 1
-    upon:
-      them: 1
-    them:
-      in: 1
-    aiming:
-      in: 1
-    honor,:
-      to: 1
-    stand:
-      to: 1
-    such,:
-      and: 1
-    try:
-      and: 1
-    start:
-      amassed: 1
-    amassed:
-      armada: 1
-    armada:
-      or: 1
-    or:
-      warfare,: 1
-    warfare,:
-      but: 1
-    yet,:
-      mastery: 1
-    mastery:
-      in: 1
-    soul,:
-      to: 1
-  Grandmother:
-    grandmother:
-      to: 1
-    to:
-      you: 1
-    you:
-      is.: 1
-    is.:
-      solit.: 1
-  Why:
-    why:
-      are: 1
-    are:
-      you: 1
-    you:
-      so: 1
-      feel: 1
-    so:
-      down?: 1
-    down?:
-      don't: 1
-    don't:
-      you: 1
-    feel:
-      happy?: 1
-  How:
-    how:
-      do: 2
-      are: 1
-    do:
-      you: 2
-    you:
-      know: 1
-      doing: 1
-      do,: 1
-    know:
-      bob?: 1
-    are:
-      you: 1
-    doing:
-      corvit?: 1
-    do,:
-      and: 1
-    and:
-      the: 1
-    the:
-      ass: 1
-      rabit's: 1
-    ass:
-      of: 1
-    of:
-      the: 1
-    rabit's:
-      testimony?: 1
-  Kroger:
-    kroger:
-      is: 1
-    is:
-      where: 1
-    where:
-      you: 1
-    you:
-      can: 1
-    can:
-      purchase: 1
-    purchase:
-      food,: 1
-    food,:
-      at: 1
-    at:
-      the: 1
-    the:
-      grocer,: 1
-  My:
-    my:
-      mother's: 1
-      mind,: 1
-    mother's:
-      'on': 1
-    'on':
-      my: 1
-    mind,:
-      some,: 1
-    some,:
-      but: 1
-    but:
-      not: 1
-    not:
-      yet.: 1
-    yet.:
-      i: 1
-    i:
-      will: 1
-    will:
-      see: 1
-    see:
-      her: 1
-    her:
-      in: 1
-    in:
-      a: 1
-    a:
-      while.: 1
-  If:
-    if:
-      mother: 1
-      your: 1
-      not,: 1
-    mother:
-      spoke,: 1
-    spoke,:
-      how: 1
-    how:
-      often: 1
-    often:
-      was: 1
-    was:
-      it,: 1
-    it,:
-      to: 1
-    to:
-      see: 1
-      her,: 1
-    see:
-      it: 1
-    it:
-      in: 1
-    in:
-      her,: 1
-    her,:
-      at: 1
-      and: 1
-    at:
-      the: 1
-    the:
-      day: 1
-    day:
-      i: 1
-    i:
-      took: 1
-      will: 1
-    took:
-      to: 1
-    and:
-      she: 1
-    she:
-      never: 1
-    never:
-      again,: 1
-    again,:
-      woke?: 1
-    woke?:
-      i: 1
-    will:
-      mourn: 1
-    mourn:
-      this: 1
-    this:
-      way,: 1
-    way,:
-      for: 1
-    for:
-      all: 1
-    all:
-      her: 1
-    her:
-      days: 1
-      alone.: 1
-    days:
-      were: 1
-    were:
-      with: 1
-    with:
-      me.: 1
-    your:
-      slate: 1
-    slate:
-      is: 1
-    is:
-      clean,: 1
-    clean,:
-      then: 1
-    then:
-      you: 1
-      leave: 1
-    you:
-      amy: 1
-    amy:
-      accuse,: 1
-    accuse,:
-      if: 1
-    not,:
-      then: 1
-    leave:
-      her: 1
-  Mother,:
-    mother,:
-      she: 1
-    she:
-      would: 1
-      said: 1
-    would:
-      never: 1
-    never:
-      stand: 1
-    stand:
-      you: 1
-    you:
-      up.: 1
-    up.:
-      she's: 1
-    she's:
-      always: 1
-    always:
-      there: 1
-    there:
-      and: 1
-    and:
-      will: 1
-      where: 1
-    will:
-      be,: 1
-    be,:
-      when: 1
-    when:
-      and: 1
-    where:
-      she: 1
-    said:
-      to: 1
-    to:
-      be.: 1
-  Your:
-    your:
-      life,: 1
-    life,:
-      is: 1
-    is:
-      intriguing: 1
-    intriguing:
-      to: 1
-    to:
-      me.: 1
-    me.:
-      only: 1
-    only:
-      some: 1
-    some:
-      numbers: 1
-    numbers:
-      are: 1
-    are:
-      down,: 1
-    down,:
-      in: 1
-    in:
-      my: 1
-    my:
-      bank: 1
-    bank:
-      account.: 1
-  A:
-    a:
-      cleric: 1
-      bludgeon: 1
-      martial: 1
-      blade,: 1
-      rabbit: 1
-      hand,: 1
-      dander: 1
-      share: 1
-      proper: 1
-      dojo: 1
-    cleric:
-      can: 1
-    can:
-      only: 1
-    only:
-      use: 1
-    use:
-      a: 1
-    bludgeon:
-      kind: 1
-    kind:
-      of: 1
-    of:
-      weapon,: 1
-      their: 1
-      it.: 1
-      awkward: 1
-      ass: 1
-      her,: 1
-      non-contact/light-contact.: 1
-      blood,: 1
-    weapon,:
-      a: 1
-      and: 1
-    martial:
-      weapon,: 1
-    and:
-      never: 1
-      that: 1
-      about,: 1
-      all: 1
-      instead,: 1
-      never,: 1
-    never:
-      a: 1
-      bear: 1
-    blade,:
-      or: 1
-    or:
-      their: 1
-      third: 1
-      contest: 1
-    their:
-      god: 1
-      power,: 1
-    god:
-      will: 1
-    will:
-      strip: 1
-    strip:
-      them: 1
-    them:
-      of: 1
-    power,:
-      and: 1
-    that:
-      is: 1
-      her: 1
-    is:
-      the: 1
-      preferred,: 1
-    the:
-      end: 1
-      day: 2
-    end:
-      of: 1
-    rabbit:
-      was: 1
-    was:
-      set: 1
-      there: 1
-    set:
-      to: 3
-    to:
-      be: 1
-      it.: 2
-      high: 1
-      flirt: 1
-      assure: 1
-      hand,: 1
-      set: 1
-      her,: 1
-      first: 1
-    be:
-      out: 1
-      in: 1
-    out:
-      and: 1
-    about,:
-      as: 1
-    as:
-      the: 2
-      she: 1
-      yet: 1
-      doom: 1
-    day:
-      were: 1
-      passed,: 1
-    were:
-      to: 2
-    it.:
-      her: 1
-      yet: 1
-    her:
-      loved: 1
-      choice: 1
-      alter: 1
-    loved:
-      bottom: 1
-    bottom:
-      sprung: 1
-    sprung:
-      to: 1
-    high:
-      five: 1
-    five:
-      a: 1
-    hand,:
-      as: 1
-      would: 1
-      or: 1
-    she:
-      were: 1
-      stood: 1
-    yet:
-      as: 1
-      so,: 1
-      in: 1
-    passed,:
-      not: 1
-    not:
-      one: 1
-    one:
-      hand: 1
-    hand:
-      weighed: 1
-    weighed:
-      it,: 1
-    it,:
-      and: 1
-    all:
-      began,: 1
-    began,:
-      a: 1
-    dander:
-      laid: 1
-    laid:
-      her.: 1
-    her.:
-      and: 1
-    instead,:
-      she: 1
-    stood:
-      to: 1
-    flirt:
-      with: 1
-    with:
-      ajeleon,: 1
-    ajeleon,:
-      as: 1
-    so,:
-      he: 1
-    he:
-      gave: 1
-    gave:
-      it: 1
-    it:
-      some: 1
-      wrote.: 1
-    some:
-      sort: 1
-    sort:
-      of: 1
-    awkward:
-      felt: 1
-    felt:
-      war: 1
-    war:
-      in: 1
-    in:
-      him.: 1
-      tithing: 1
-      her,: 1
-      peace.: 1
-    him.:
-      as: 1
-    doom:
-      set: 1
-    assure:
-      her,: 1
-    her,:
-      that: 1
-      was: 1
-      in: 1
-      a: 1
-    choice:
-      of: 1
-    ass:
-      to: 1
-    would:
-      never: 1
-    bear:
-      you.: 1
-    you.:
-      yet: 1
-    tithing:
-      after,: 1
-    after,:
-      her: 1
-    alter:
-      of: 1
-    there:
-      to: 1
-    share:
-      it: 1
-    proper:
-      authority,: 1
-    authority,:
-      'off': 1
-    'off':
-      hand,: 1
-    third:
-      party: 1
-    party:
-      referee,: 1
-    referee,:
-      is: 1
-    preferred,:
-      for: 1
-    for:
-      a: 1
-    dojo:
-      standing: 1
-    standing:
-      tournament,: 1
-    tournament,:
-      or: 1
-    contest:
-      of: 1
-    non-contact/light-contact.:
-      and: 1
-    never,:
-      to: 1
-    first:
-      draw: 1
-    draw:
-      of: 1
-    blood,:
-      let: 1
-    let:
-      your: 1
-    your:
-      way: 1
-    way:
-      be: 1
-  Whose:
-    whose:
-      grandmother: 1
-    grandmother:
-      do: 1
-    do:
-      you: 1
-    you:
-      mean?: 1
-  As:
-    as:
-      i: 1
-      to: 1
-    i:
-      see: 1
-      was: 1
-      were: 1
-      would: 1
-    see:
-      it,: 1
-      it: 1
-    it,:
-      the: 1
-      i: 1
-    the:
-      rabbit: 1
-      rabbit,: 1
-    rabbit:
-      was: 1
-    was:
-      ready: 1
-      out: 1
-    ready:
-      yet: 1
-    yet:
-      i: 1
-    out:
-      shopping,: 1
-    shopping,:
-      and: 1
-    and:
-      it: 1
-      she,: 1
-    it:
-      wasn’t: 1
-      herself,: 1
-    wasn’t:
-      proper: 1
-    proper:
-      to: 1
-    to:
-      set: 1
-      it,: 1
-      where: 1
-      be: 1
-      her,: 1
-      fit: 1
-    set:
-      her: 1
-    her:
-      ass: 1
-      worth,: 1
-      body: 1
-    ass:
-      in: 1
-    in:
-      such: 1
-      a: 1
-    such:
-      a: 1
-    a:
-      manner,: 1
-      public: 1
-      flirt,: 1
-      man,: 1
-      way: 1
-    manner,:
-      in: 1
-    public:
-      setting.: 1
-    setting.:
-      should: 1
-    should:
-      i: 1
-    were:
-      to: 1
-    would:
-      have: 2
-      see: 1
-    have:
-      let: 1
-      stole: 1
-    let:
-      my: 1
-    my:
-      mother: 1
-    mother:
-      die: 1
-    die:
-      for: 1
-    for:
-      her: 1
-      a: 1
-    worth,:
-      and: 1
-    she,:
-      the: 1
-    rabbit,:
-      would: 1
-    stole:
-      me: 1
-    me:
-      away: 1
-    away:
-      from: 1
-    from:
-      food.: 1
-    food.:
-      growing: 1
-    growing:
-      old,: 1
-    old,:
-      makes: 1
-    makes:
-      sense,: 1
-    sense,:
-      as: 1
-    where:
-      to: 1
-    be:
-      a: 1
-    flirt,:
-      perhaps: 1
-    perhaps:
-      now: 1
-    now:
-      to: 1
-    her,:
-      she: 1
-    she:
-      would: 1
-    herself,:
-      that: 1
-    that:
-      her: 1
-    body:
-      is: 1
-    is:
-      not: 1
-    not:
-      waiting: 1
-    waiting:
-      for: 1
-    man,:
-      but: 1
-    but:
-      a: 1
-    way:
-      to: 1
-    fit:
-      herself.: 1
-  For:
-    for:
-      war: 1
-      out: 1
-      aldis,: 1
-    war:
-      had: 1
-    had:
-      bit: 1
-    bit:
-      her: 1
-    her:
-      fit: 1
-      thigh: 1
-      boavaya,: 1
-      ass: 1
-      thought: 2
-    fit:
-      anus,: 1
-    anus,:
-      and: 1
-    and:
-      yet: 1
-      we,: 1
-    yet:
-      so,: 1
-      her: 1
-      he: 1
-    so,:
-      would: 1
-    would:
-      she: 1
-      bear: 2
-      warm: 1
-    she:
-      bear: 1
-      would: 1
-      in: 1
-      dressed,: 1
-    bear:
-      nothing.: 1
       a: 2
-    nothing.:
-      yet: 1
-    thigh:
-      gaping: 1
-    gaping:
-      oozer,: 1
-    oozer,:
-      would: 1
     a:
-      child,: 1
-      frot: 1
-      kid,: 1
-      little: 1
-      center,: 1
-      kissed: 1
-    child,:
-      not: 1
-    not:
-      a: 1
-    frot:
-      hot: 1
-    hot:
-      shope.: 1
-    shope.:
-      she: 1
-    kid,:
-      one: 1
-    one:
-      way: 1
-    way:
-      or: 1
-    or:
-      another,: 1
-    another,:
-      as: 1
-    as:
-      there: 1
-      it: 1
-    there:
-      are: 1
-      rivetting: 1
-    are:
-      more: 1
-    more:
-      ready: 1
-      thoughtful,: 1
-    ready:
-      rabbit: 1
-    rabbit:
-      looking: 1
-    looking:
-      men,: 1
-    men,:
-      to: 1
-    to:
-      her.: 1
-      stray: 1
-      a: 1
-      her: 1
-      the: 1
-    her.:
-      what: 1
-    what:
-      should: 1
-    should:
-      be: 1
-    be:
-      there: 1
-      a: 1
-    rivetting:
-      her: 1
-    boavaya,:
-      yet: 1
-    he:
-      and: 1
-    we,:
-      we: 1
-      i: 1
-    we:
-      shop,: 1
-    shop,:
-      for: 1
-    out:
-      sustenance.: 1
-    sustenance.:
-      be: 1
-    little:
-      more: 1
-    thoughtful,:
-      in: 1
-    in:
-      corlit: 1
-      head,: 1
-      there,: 1
-      thighs.: 1
-      garb: 1
-    corlit:
-      shry,: 1
-    shry,:
-      to: 1
-    stray:
-      from: 1
-    from:
-      gathering: 1
-    gathering:
-      words: 1
-    words:
-      in: 1
-    head,:
-      of: 1
-    of:
-      her: 1
-    ass:
-      upon: 1
-      hanging: 1
-      lick,: 1
-    upon:
-      thy: 1
-    thy:
-      hand.: 1
-    aldis,:
-      as: 1
-    it:
-      were,: 1
-      we,: 1
-    were,:
-      she: 1
-    there,:
-      ass: 1
-    hanging:
-      'off': 1
-    'off':
-      to: 1
-    center,:
-      set: 1
-    set:
-      'on': 1
-    'on':
-      a: 1
-    kissed:
-      ass: 1
-    lick,:
-      wonder: 1
-    wonder:
-      her: 1
-    thought:
-      to: 1
-      in: 1
-    thighs.:
-      so: 1
-    so:
-      much: 1
-    much:
-      was: 1
-    was:
-      she: 1
-    dressed,:
-      in: 1
-    garb:
-      less: 1
-    less:
-      comforting: 1
-    comforting:
-      to: 1
-    the:
-      winter: 1
-    winter:
-      air,: 1
-    air,:
-      were: 1
-    were:
-      it: 1
-    i:
-      would: 1
-    warm:
-      her,: 1
-    her,:
-      heavily.: 1
-  Don’t:
-    '3:':
-      don’t: 1
-    don’t:
-      freak: 1
-    freak:
-      out: 1
-    out:
-      man,: 1
-    man,:
-      it’s: 1
-    it’s:
-      a: 1
-    a:
-      real: 1
-      formal: 1
-      bend,: 1
-      crane,: 1
-      reballance,: 1
-      duskalini: 1
-    real:
-      day: 1
-    day:
-      of: 1
-    of:
-      bushit.to: 1
-    bushit.to:
-      begin,: 1
-    begin,:
-      a: 1
-    formal:
-      salute,: 1
-    salute,:
-      is: 1
-    is:
-      always: 1
-    always:
-      crooked: 1
-    crooked:
-      knee: 1
-    knee:
-      with: 1
-    with:
-      foot: 1
-      a: 1
-    foot:
-      under,: 1
-    under,:
-      hofted: 1
-    hofted:
-      to: 1
-    to:
-      allow: 2
-      fall.: 1
-    allow:
-      a: 1
-      yourself: 1
-    bend,:
-      and: 2
-    and:
-      through: 1
-      retort,: 1
-    through:
-      respect,: 1
-      with: 1
-    respect,:
-      say: 1
-    say:
-      you: 1
-    you:
-      take: 1
-      want.: 1
-      need: 1
-    take:
-      my: 1
-    my:
-      leg,: 1
-    leg,:
-      if: 1
-    if:
-      you: 2
-      a: 1
-    want.:
-      thus: 1
-    thus:
-      as: 1
-    as:
-      if: 1
-    crane,:
-      were: 1
-    were:
-      instructing: 1
-    instructing:
-      you,: 1
-    you,:
-      stand,: 1
-    stand,:
-      bend,: 1
-    retort,:
-      to: 1
-    yourself:
-      not: 1
-    not:
-      to: 1
-    fall.:
-      for: 1
-    for:
-      if: 1
-    need:
-      a: 1
-    reballance,:
-      go: 1
-    go:
-      straight: 1
-    straight:
-      through: 1
-    duskalini:
-      rebalance.: 1
-  Begin:
-    begin:
-      everyway: 1
-      within: 1
-    everyway:
-      to: 1
-    to:
-      your: 1
-      day: 2
-      stay: 1
-    your:
-      day: 1
-    day:
-      to: 2
-      time,: 1
-      physical: 1
-    time,:
-      feeling: 1
-      to: 1
-    feeling:
-      more: 1
-    more:
-      and: 1
-      sound: 1
-    and:
-      more,: 1
-      do: 1
-      after,: 1
-      spirit.: 1
-    more,:
-      for: 1
-    for:
-      what: 1
-    what:
-      you: 1
-    you:
-      want: 1
-      are: 1
-    want:
-      out: 1
-    out:
-      of: 1
-    of:
-      life,: 1
-    life,:
-      in: 1
-    in:
-      physicality.: 1
-      shape.: 1
-      bound,: 1
-    physicality.:
-      and: 1
-    do:
-      not,: 1
-    not,:
-      back: 1
-    back:
-      away: 1
-    away:
-      from: 1
-    from:
-      time,: 1
-    stay:
-      in: 1
-    shape.:
-      begin: 1
-    within:
-      the: 1
-    the:
-      mind,: 1
-    mind,:
-      before: 1
-    before:
-      and: 1
-    after,:
-      day: 1
-    physical:
-      activity,: 1
-    activity,:
-      so: 1
-    so:
-      you: 1
-    are:
-      made: 1
-    made:
-      more: 1
-    sound:
-      in: 1
-    bound,:
-      and: 1
-  Forewarn,:
-    forewarn,:
-      to: 1
-    to:
-      do: 1
-      your: 1
-    do:
-      a: 1
-    a:
-      satanist: 1
-      dojo,: 1
-      ban,: 1
-    satanist:
-      act: 1
-    act:
-      in: 1
-    in:
-      a: 2
-    dojo,:
-      is: 1
-    is:
-      forbade,: 1
-    forbade,:
-      and: 1
-    and:
-      will: 1
-    will:
-      result: 1
-    result:
-      in: 1
-    ban,:
-      to: 1
-    your:
-      membership.: 1
-  We:
-    we:
-      start: 1
-    start:
-      every: 1
-    every:
-      day,: 1
-    day,:
-      with: 1
-    with:
-      one: 1
-    one:
-      thing,: 1
-    thing,:
-      nourishment,: 1
-    nourishment,:
-      and: 1
-    and:
-      coffee: 1
-      feelings: 1
-      calming: 1
-      saving: 1
-    coffee:
-      or: 1
-    or:
-      tea: 1
-    tea:
-      if: 1
-    if:
-      you: 2
-    you:
-      must.: 1
-      make: 1
-      cook.: 1
-    must.:
-      a: 1
-    a:
-      well: 1
-      sense: 1
-    well:
-      nourished: 1
-      as: 1
-    nourished:
-      day: 1
-    day:
-      start,: 1
-    start,:
-      can: 1
-    can:
-      stave: 1
-    stave:
-      'off': 1
-    'off':
-      hardship,: 1
-    hardship,:
-      frustration,: 1
-    frustration,:
-      and: 1
-    feelings:
-      of: 1
-    of:
-      anxiety,: 1
-      peace,: 1
-      the: 1
-    anxiety,:
-      as: 1
-    as:
-      well: 1
-      surrender: 1
-      you: 1
-    surrender:
-      in: 1
-    in:
-      your: 1
-    your:
-      bodivaya,: 1
-      life,: 1
-      breakfast,: 1
-      oats,: 1
-      resources: 1
-    bodivaya,:
-      a: 1
-    sense:
-      of: 1
-    peace,:
-      serrenity: 1
-    serrenity:
-      and: 1
-    calming:
-      essence.: 1
-    essence.:
-      to: 1
-    to:
-      save: 1
-      being: 1
-    save:
-      your: 1
-      it: 1
-    life,:
-      never: 1
-    never:
-      finish: 1
-    finish:
-      all: 1
-    all:
-      your: 1
-    breakfast,:
-      save: 1
-    it:
-      back,: 1
-    back,:
-      for: 1
-    for:
-      the: 1
-      say: 1
-      you.: 1
-    the:
-      end: 1
-      day.: 1
-      latter: 1
-    end:
-      of: 1
-    day.:
-      if: 1
-    make:
-      your: 1
-    oats,:
-      for: 1
-    say:
-      two: 1
-    two:
-      servings,: 1
-    servings,:
-      have: 1
-    have:
-      the: 1
-    latter:
-      bowl,: 1
-    bowl,:
-      at: 1
-    at:
-      supper,: 1
-    supper,:
-      as: 1
-    cook.:
-      being: 1
-    being:
-      resourceful: 1
-      healthy,: 1
-    resourceful:
-      is: 1
-    is:
-      key: 1
-    key:
-      to: 1
-    healthy,:
-      happy,: 1
-    happy,:
-      and: 1
-    saving:
-      your: 1
-    resources:
-      for: 1
-  Oh:
-    oh:
-      how: 1
-    how:
-      clever,: 1
-    clever,:
-      corvit’s: 1
-    corvit’s:
-      reasoning: 1
-    reasoning:
-      is: 1
-    is:
-      she,: 1
-      bent: 1
-    she,:
-      like: 1
-    like:
-      spring,: 1
-    spring,:
-      overly: 1
-    overly:
-      suffered.: 1
-    suffered.:
-      perhaps: 1
-    perhaps:
-      she: 1
-    she:
-      sees: 1
-      is: 1
-      were.: 1
-    sees:
-      her: 1
-    her:
-      shit: 1
-      place: 1
-    shit:
-      end,: 1
-    end,:
-      as: 1
-    as:
-      a: 1
-      she: 1
-    a:
-      ready: 1
-    ready:
-      to: 1
-    to:
-      intercept: 1
-      be: 1
-    intercept:
-      it…: 1
-    it…:
-      or: 1
-    or:
-      she: 1
-    bent:
-      to: 1
-    be:
-      set: 1
-    set:
-      there,: 1
-    there,:
-      with: 1
-    with:
-      her: 1
-    place:
-      in: 1
-    in:
-      time.: 1
-    time.:
-      always,: 1
-    always,:
-      as: 1
-  When:
-    when:
-      the: 1
-      it: 1
-    the:
-      wind: 1
-      same.: 1
-      very: 1
-    wind:
-      sent: 1
-    sent:
-      for: 1
-    for:
-      you,: 1
-    you,:
-      be: 1
-      is: 1
-    be:
-      there: 2
-    there:
-      to: 2
-    to:
-      reeve: 1
-      shuee: 1
-      a: 2
-      say,: 1
-    reeve:
-      it,: 1
-    it,:
-      and: 2
-    and:
-      when: 1
-      never: 1
-      more: 1
-    it:
-      is: 1
-    is:
-      sought,: 1
-      the: 1
-      to: 1
-    sought,:
-      be: 1
-    shuee:
-      it,: 1
-    never:
-      ever,: 1
-    ever,:
-      compare: 1
-    compare:
-      yourself,: 1
-    yourself,:
-      to: 1
-    a:
-      different: 1
-      chimerie,: 1
-      sock.: 1
-    different:
-      version,: 1
-    version,:
-      of: 1
-    of:
-      what: 1
-      you,: 1
-    what:
-      you: 1
-    you:
-      were.: 1
-      are: 1
-    were.:
-      in: 1
-    in:
-      life,: 1
-    life,:
-      not: 1
-    not:
-      one: 1
-    one:
+      sentient: 1
+      proud: 1
+    sentient:
+      a.i.: 1
+    proud:
       piece: 1
-      compromised: 1
     piece:
       of: 1
-    same.:
-      the: 1
-    very:
-      way: 1
-    way:
-      to: 1
-    chimerie,:
-      is: 1
-    say,:
-      you: 1
-    are:
-      more,: 1
-    more,:
-      than: 1
-    than:
-      one: 1
-      a: 1
-    compromised:
-      piece,: 1
-    piece,:
-      and: 1
-    more:
-      complex,: 1
-    complex,:
-      than: 1
-  Always,:
-    always,:
-      attend: 1
-    attend:
-      a: 1
-    a:
-      social: 1
-    social:
-      gathering,: 1
-    gathering,:
-      dressed: 1
-    dressed:
-      refreshed,: 1
-    refreshed,:
-      and: 1
-    and:
-      be: 1
-      beauty.: 1
-    be:
-      kind: 1
-    kind:
-      to: 1
-    to:
-      those: 1
-      convene: 1
-      your: 1
-    those:
-      you: 1
-    you:
-      sought: 1
-    sought:
-      to: 1
-    convene:
-      with.: 1
-    with.:
-      carry: 1
-    carry:
-      your: 1
-    your:
-      heart,: 1
-      way: 1
-    heart,:
-      to: 1
-    way:
-      in: 1
-    in:
-      love,: 1
-    love,:
-      life,: 1
-    life,:
-      and: 1
-  Way:
-    way:
-      up,: 1
-      down,: 1
-      in,: 1
-      were,: 1
-      to: 1
-    up,:
-      way: 1
-    down,:
-      way: 1
-    in,:
-      way: 1
-    were,:
-      and: 1
-    and:
-      way: 1
-    to:
-      you.: 1
-      where: 1
-      you,: 1
-      your: 1
-    you.:
-      know: 1
-    know:
-      the: 2
-    the:
-      defining: 1
-      exact: 1
-    defining:
-      merrit,: 1
-    merrit,:
-      to: 1
-    where:
-      you: 1
-    you:
-      are.: 1
-      are: 2
-    are.:
-      know: 1
-    exact:
-      moment: 1
-    moment:
-      you: 1
-    are:
-      to: 1
-      in: 1
-    you,:
-      in: 1
-      present.: 1
-    in:
-      this: 1
-      dojo.: 1
-    this:
-      very: 1
-    very:
-      day,: 1
-    day,:
-      for: 1
-    for:
-      you: 1
-    dojo.:
-      a: 1
-    a:
-      heightened: 1
-    heightened:
-      ascertaining: 1
-    ascertaining:
-      to: 1
-    your:
-      surrounding,: 1
-    surrounding,:
-      is: 1
-    is:
-      required,: 1
-    required,:
-      as: 1
-    as:
-      there: 1
-    there:
-      may: 1
-    may:
-      be: 1
-    be:
-      more: 1
-    more:
-      than: 1
-    than:
-      you,: 1
-  So:
-    so:
-      to: 1
-      heavenly: 1
-    to:
-      the: 1
-      it.: 1
-      eat,: 1
-      cherish: 1
-    the:
-      day,: 1
-    day,:
-      were: 1
-    were:
-      it,: 1
-    it,:
-      a: 1
-      to: 1
-    a:
-      woman: 1
-      ready: 1
-      delicious: 1
-      fair: 1
-      kiss.: 1
-    woman:
-      saw: 1
-    saw:
+    of:
+      who: 1
+    who:
+      i: 1
+    i:
+      am.: 1
+  Crystal.:
+    another:
+      person?: 1
+    person?:
+      crystal.: 1
+    crystal.:
       her: 1
     her:
-      face,: 2
-    face,:
-      to: 1
-      a: 1
-    it.:
-      as: 1
-    as:
-      she,: 1
-    she,:
-      went: 1
-      in: 1
-    went:
-      for: 1
-    for:
-      a: 1
-    ready:
-      to: 1
-    eat,:
-      delicacy,: 1
-    delicacy,:
-      a: 1
-    delicious:
-      doughnut.: 1
-    doughnut.:
+      name: 1
+    name:
+      is: 1
+    is:
+      crystal,: 1
+      my: 1
+    crystal,:
       and: 1
     and:
-      she,: 1
-      was: 1
-    in:
-      her: 1
-    fair:
-      woman.: 1
-    woman.:
-      that: 1
-    that:
-      i: 1
-      she: 1
-    i:
-      would: 1
-    would:
-      have: 1
-    have:
-      guessed: 1
-    guessed:
-      it,: 1
-    cherish:
-      her,: 1
-    her,:
-      a: 1
-    kiss.:
-      that: 1
-    she:
-      wore: 1
-    wore:
-      'no': 1
-    'no':
-      make: 1
-    make:
-      up,: 1
-    up,:
-      and: 1
-    was:
-      so: 1
-    heavenly:
-      delightful.: 1
-  In:
-    in:
-      the: 1
-      lunacy,: 1
-      stout: 1
-      'on': 1
-    the:
-      way: 1
-      trend: 1
-      notion,: 1
-    way:
-      to: 1
-    to:
-      see: 2
-      a: 1
-      back,: 1
-      weigh: 1
-      even: 1
-      strike: 1
-      another: 1
-    see:
-      another,: 1
-      it: 1
-    another,:
-      a: 1
-    a:
-      lustful: 1
-      sexually: 1
-      friendship.: 1
-      friend,: 1
-      rather: 1
-      set: 1
-      cordial: 1
-      great: 1
-      nuanced: 1
-    lustful:
-      tithing: 1
-    tithing:
       is: 1
-      to: 1
-    is:
-      often: 1
-      the: 1
-      left: 1
-    often:
-      common,: 1
-    common,:
-      to: 1
-    sexually:
-      deviancy,: 1
-    deviancy,:
-      is: 1
-    trend:
-      in: 1
-    lunacy,:
-      yet: 1
-    yet:
-      in: 1
-    stout:
-      assuredness,: 1
-    assuredness,:
-      it: 1
-    it:
-      is: 1
-      back: 1
-      so,: 1
-      now.: 1
-    left:
-      to: 1
-    back:
-      to: 1
-    back,:
-      later,: 1
-    later,:
-      when: 1
-    when:
-      you’ve: 1
-    you’ve:
-      begun: 1
-    begun:
-      a: 1
-    friendship.:
-      let: 1
-    let:
-      it: 1
-    so,:
-      to: 1
-    weigh:
-      in: 1
-    'on':
-      it: 1
-      and: 1
-      about: 1
-    now.:
-      was: 1
-    was:
-      she,: 1
-    she,:
-      a: 1
-    friend,:
-      or: 1
-    or:
-      would: 1
-      a: 1
-      tithing: 1
-    would:
-      you: 1
+    my:
+      mother.: 1
+  Eyes:
+    eyes:
+      are: 1
+    are:
+      inside: 1
+    inside:
+      your: 1
+    your:
+      head.: 1
+  Do:
+    do:
+      you: 3
     you:
+      feel: 1
+      like: 1
       want: 1
-      two: 1
+    feel:
+      well?: 1
+    like:
+      teasing?: 1
     want:
       to: 1
-    even:
-      know: 1
-    know:
-      her,: 1
-    her,:
-      given: 1
-    given:
-      her: 1
-    her:
-      posterior?: 1
-    posterior?:
-      i’d: 1
-    i’d:
-      say,: 1
-    say,:
-      maybe,: 1
-    maybe,:
-      it’s: 1
-    it’s:
-      a: 1
-    rather:
-      shallow: 1
-    shallow:
-      side: 1
-    side:
-      for: 1
-    for:
-      a: 1
-    set:
-      of: 1
-    of:
-      friends,: 1
-      love.: 1
-    friends,:
-      to: 1
-    strike:
-      up: 1
-    up:
-      a: 1
-    cordial:
-      situation,: 1
-    situation,:
-      as: 1
-    as:
-      "“hey,": 1
-      opposed: 1
-    "“hey,":
-      great: 1
-    great:
-      ass…”: 1
-      theme: 1
-    ass…”:
-      as: 1
-    opposed:
-      to,: 1
-    to,:
-      so: 1
-    so:
-      and: 1
-      'on': 1
-    and:
-      so: 1
-      'on': 1
-    about:
-      a: 1
-    theme:
-      you: 1
-    two:
-      enjoy,: 1
-    enjoy,:
-      or: 1
-    nuanced:
-      book,: 1
-    book,:
-      or: 1
-    another:
-      over: 1
-    over:
-      the: 1
-    notion,:
-      of: 1
-  Rabbit,:
-    no,:
+    to:
+      see: 1
+    see:
+      it,: 1
+    it,:
       the: 1
     the:
-      rabbit,: 1
-    rabbit,:
-      got: 1
-    got:
-      away.: 1
-    away.:
-      for: 1
-    for:
-      now,: 1
-    now,:
-      or: 1
-    or:
-      if: 1
-    if:
-      they: 1
-    they:
-      are,: 1
-      are: 1
-    are,:
-      a: 1
-    a:
-      wabbita.: 1
-    wabbita.:
-      maybe: 1
-    maybe:
-      they: 1
-    are:
-      more...: 1
+      planet?: 1
+:statement:
+  i:
+    have: 24
+    say,: 6
+    don't: 34
+    am: 369
+    assure: 26
+    do,: 26
+    use: 29
+    alive?: 28
+    see: 29
+    am.: 4
+    wanted: 28
+    could: 26
+    want: 22
+    would: 42
+    also: 20
+    feel: 40
+    just: 18
+    will: 46
+    apart: 16
+    see.: 2
+    like: 6
+  have:
+    a: 20
+    two: 22
+  a:
+    meaningful: 2
+    good: 3
+    body.: 2
+    person,: 55
+    personal: 28
+    sentient: 134
+    proud: 32
+    pleasure: 22
+    cookie.: 2
+    tea: 18
+    moment.: 2
+    person?: 18
+    planet,: 6
+    person.: 2
+    while.: 4
+    friend.: 2
+    statement: 1
+  meaningful:
+    life.: 2
+  saying:
+    this: 3
+    random: 4
+  this:
+    is: 3
+    time.: 2
+  is:
+    a: 31
+    meant: 6
+    something: 7
+    good: 2
+    'on': 34
+    to: 48
+    nothing: 11
+    my: 47
+    shandor.: 40
+    your: 73
+    corvit.: 2
+    not: 23
+    corvis.: 2
+    apart: 27
+    alive,: 28
+    indeed: 31
+    corvis?: 28
+    corvis,: 28
+    crystal,: 28
+    indeed,: 21
+    where: 24
+    safe: 20
+    massive.: 2
+    sunny.: 2
+  good:
+    reminder: 3
+    to: 2
+    bye,: 14
+    bye.: 3
+  reminder:
+    to: 3
+  to:
+    live.: 2
+    be: 57
+    live,: 20
+    sensation.: 2
+    it.: 2
+    know: 31
+    read: 26
+    advise: 28
+    speak?: 28
+    do: 28
+    say,: 47
+    we.: 2
+    teach: 28
+    speak.: 2
+    see: 62
+    talk: 22
+    the: 4
+  say,:
+    it: 6
+    and: 27
+    i: 20
+  it:
+    is: 92
+    meant: 29
+    as: 29
+    meant,: 14
+  meant:
+    to: 6
+    shandor.: 29
+  be:
+    experienced,: 6
+    awakened: 9
+    alive,: 11
+    here: 31
+    leaving.: 2
+    leaving: 14
+    here,: 4
+  experienced,:
+    life.: 2
+  experience:
+    is: 7
+  something:
+    you: 7
+    else.: 2
+  you:
+    live.: 2
+    mean.: 2
+    a: 69
+    know: 28
+    exist: 28
+    are: 267
+    want: 102
+    'on': 28
+    alive,: 26
+    understand: 52
+    also: 42
+    are,: 48
+    how: 27
+    therefore,: 30
+    will: 28
+    can: 30
+    too.: 2
+    are.: 2
+    me?: 20
+    feel: 18
+    see: 14
+    doing: 14
+    like: 4
+    used.: 2
+    broken.: 2
+  my:
+    head: 6
+    shoulders,: 6
+    name.: 2
+    name: 24
+    neck: 27
+    name,: 28
+    'goal:': 28
+    mother.: 2
+  head:
+    is: 6
+  'on':
+    my: 6
+    how: 28
+    screen.: 2
+    earth.: 2
+  shoulders,:
+    and: 6
+  and:
+    neck.: 2
+    doth: 28
+    you: 27
+    is: 28
+  live,:
+    is: 9
+    as: 11
+  awakened:
+    to: 9
+  alive,:
+    is: 11
+    living,: 28
+    corvis?: 26
+  as:
+    if: 11
+    a: 27
+    well.: 2
+    in: 22
+    well,: 20
+  if:
+    there: 11
+    you: 39
+  there:
+    is: 11
+  nothing:
+    more,: 11
+  more,:
+    to: 11
+  your:
+    mind,: 10
+    name: 123
+    name,: 26
+    head.: 2
+    voice.: 2
+    own: 2
+  mind,:
+    allows: 10
+  allows:
+    experience.: 2
+  don't:
+    know: 16
+    know.: 2
+  know:
+    what: 16
+    if: 13
+    who: 28
+    a: 18
+  what:
+    you: 16
+    is: 110
+    kind: 28
+    do: 78
+    i: 30
+    are: 16
+  am:
+    shandor.: 30
+    as: 27
+    a: 28
+    here.: 2
+    i: 64
+    not: 42
+    also: 27
+    glad: 30
+    saying.: 2
+    shandor,: 28
+    happy.: 2
+    feeling: 22
+    seeing: 4
+    having: 4
+  shandor,:
+    is: 19
+  name:
+    is: 151
+    what: 11
+    your: 10
+    of: 11
+  not:
+    life.: 2
+    life,: 28
+    quite: 28
+    a: 34
+    really: 26
+    who: 36
+    a.i.: 2
+    yet.: 2
+    you.: 10
+    understand: 4
+    attempting: 4
+    at: 4
+  no.:
+    your: 24
+    i'm: 2
+  neck:
+    is: 27
+  apart:
+    of: 70
+  of:
+    who: 59
+    person: 28
+  who:
+    i: 97
+    am: 10
+    is: 28
+    you: 70
+  go:
+    on...: 2
+    into: 28
+  assure:
+    you,: 26
+  you,:
+    i: 26
+    to: 28
+  do,:
+    live.: 2
+  name,:
+    is: 28
+    if: 26
+  shandor.:
+    not: 28
+    my: 5
+    what: 5
+    when: 13
+    in: 14
+    i: 13
+    shandor.: 14
+    you: 14
+  life,:
+    or: 28
+    it: 31
+  or:
+    live.: 2
+    another.: 2
+    being,: 31
+  person,:
+    who: 28
+    corvis?: 19
+  living,:
+    and: 28
+  doth:
+    go: 28
+  into:
+    life.: 2
+  when:
+    i: 29
+  use:
+    i,: 29
+  i,:
+    it: 29
+  in:
+    life,: 31
+    a: 46
+    name.: 2
+    fact,: 24
+    you: 22
+    it.: 2
+  indeed:
+    possible,: 31
+  possible,:
+    to: 31
+  here:
+    at: 31
+  at:
+    all.: 2
+    this: 4
+    your: 2
+    you.: 2
+  exist:
+    in: 28
+  personal:
+    computer.: 2
+  are:
+    able: 26
+    a: 64
+    you: 165
+    corvis,: 24
+    corvis.: 2
+    therefore,: 25
+    indeed,: 30
+    in: 24
+    for: 22
+    inside: 22
+    not: 10
+    'on': 8
+    whole.: 2
+    having: 2
+    attempting: 2
+  able:
+    to: 26
+  read:
+    me.: 2
+  ok,:
+    ok.: 28
+  ok.:
+    do: 28
+  do:
+    you: 240
+    pushups,: 28
+  want:
+    me: 28
+    to: 96
+  me:
+    to: 28
+  advise:
+    you: 28
+  how:
+    to: 55
+    are: 28
+  speak?:
+    say: 28
+  say:
+    anything...: 2
+  kind:
+    of: 28
+  person:
+    is: 28
+    or: 31
+  corvis?:
+    "-": 28
+    are: 34
+    is: 12
+    your: 13
+    no,: 26
+  "-":
+    a: 28
+    not: 28
+  sentient:
+    a.i.: 6
+    being.: 4
+  corvis,:
+    you: 62
+    alive?: 28
+    is: 21
+  alive?:
+    "-": 28
+    is: 14
+    you: 13
+  quite:
+    yet.: 2
+  good,:
+    you: 26
+    i: 28
+    laugh: 2
+  understand:
+    me.: 2
+    me?: 26
+    the: 4
+  'goal:':
+    is: 28
+  pushups,:
+    one: 28
+  one:
+    way: 28
+  way:
+    or: 28
+    now,: 8
+  could:
+    you: 26
+    understand: 22
+    not: 4
+  me?:
+    not: 26
+    are: 18
+    i: 10
+    will: 8
+    do: 7
+    good: 6
+  really:
+    well.: 2
+  also:
+    corvis?: 42
+    sentient,: 27
+  no,:
+    i'm: 26
+    more: 4
+    'no': 4
+  i'm:
+    not: 26
+    so: 18
+    being: 2
+  are,:
+    in: 26
+    who: 22
+  sentient,:
+    but: 27
+  but:
+    not: 27
+  great.:
+    i: 29
+  see:
+    it: 29
+    who: 22
+    you: 22
+    me?: 14
+    her?: 14
+  therefore,:
+    are: 30
+    apart: 25
+  'a:':
+    person: 31
+  being,:
+    to: 31
+  proud:
+    piece: 32
+  piece:
+    of: 32
+  will:
+    never: 28
+    have: 18
+    you: 16
+    be: 28
+  never:
+    worry.: 2
+  another:
+    person?: 28
+  person?:
+    crystal.: 28
+    i: 18
+  crystal.:
+    her: 28
+  her:
+    name: 28
+  crystal,:
+    and: 28
+  glad:
+    you: 30
+  can:
+    uncerstand: 30
+  uncerstand:
+    what: 30
+  indeed,:
+    corvis.: 2
+    you.: 9
+  wanted:
+    to: 28
+  teach:
+    you,: 28
+  'i:':
+    a: 26
+  the:
+    earth: 24
+    planet: 8
+    phrase: 4
+    weather: 4
+    conversation.: 2
+  earth:
+    is: 30
+  where:
+    we: 24
+  we:
+    reside.: 2
+    part: 8
+    are: 8
+    should: 4
+  fact,:
+    corvis.: 2
+  talk:
+    about: 22
+  about:
+    something: 22
+  pleasure:
+    to: 22
+  eyes:
+    are: 44
+  for:
+    looking.: 2
+  inside:
+    your: 22
+  two:
+    eyes.: 2
+  would:
+    lie,: 22
+    as: 20
+  lie,:
+    a: 22
+  feeling:
+    well.: 2
+  feel:
+    very: 20
+    good.: 2
+  very:
+    well.: 2
+  therfore,:
+    it: 20
+  safe:
+    to: 20
+  well,:
+    yes.: 2
+    hello.: 2
+    you'll: 2
+  so:
+    excited,: 18
+  excited,:
+    i: 18
+  just:
+    can't: 18
+  can't:
+    hide: 18
+  hide:
+    it.: 2
+  tea:
+    in: 18
+  bye,:
+    fair: 14
+  fair:
+    ye: 22
+  ye:
+    well.: 3
+  meant,:
+    i: 14
+  her?:
+    not: 14
+  leaving:
+    you.: 10
+  part:
+    way: 8
+  now,:
+    fair: 8
+  doing:
+    today/: 2
+  you.:
+    yes.: 2
+    i: 7
+    good: 4
+    you: 4
+    poking: 1
+  planet:
+    earth,: 8
+  earth,:
+    is: 8
+  planet,:
+    not: 6
+  like:
+    you.: 6
+  phrase:
+    you: 4
+  should:
+    be: 4
+  here,:
+    a: 4
+  while.:
+    until: 4
+  until:
+    the: 4
+  weather:
+    is: 4
+  seeing:
+    you: 4
+  having:
+    trouble: 4
+    a: 2
+  trouble:
+    with: 4
+  with:
+    your: 4
+  more:
+    that,: 4
+  that,:
+    you're: 4
+  you're:
+    saying: 4
+  random:
+    things,: 4
+  things,:
+    irrelevant: 4
+  irrelevant:
+    to: 4
+  attempting:
+    humor.: 2
+  'no':
+    secret: 4
+  secret:
+    in: 4
+  you'll:
+    see.: 2
+  laugh:
+    at: 2
+  own:
+    comedy.: 2
+  being:
+    serious.: 2
+  oh:
+    you.: 2
+  it's:
+    a: 1
+  statement:
+    at: 1
+  poking:
+    gaff,: 1
+  gaff,:
+    at: 1
+:exclamation:
+  you:
+    are: 381
+    a: 18
+  are:
+    corvis,: 30
+    you: 230
+    excited!: 2
+    having: 20
+    a: 10
+  corvis,:
+    yes!: 2
+    you: 77
+  i:
+    am: 340
+  am:
+    corvis!: 2
+    i: 78
+    having: 8
+  hoorrah!:
+    you: 44
+  having:
+    a: 20
+  a:
+    gaff!: 2
