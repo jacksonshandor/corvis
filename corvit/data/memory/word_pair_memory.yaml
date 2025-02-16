@@ -1,0 +1,624 @@
+---
+:statement:
+  trying:
+    this: 1
+  this:
+    on..: 1
+  i've:
+    a: 2
+    eaten: 2
+  a:
+    shirt: 2
+    star: 2
+    series: 2
+    soda: 4
+    wizard: 6
+    fight.: 2
+    shirt...: 4
+    jedi: 2
+    wizard...: 2
+    new: 2
+    galaxy: 2
+    lot: 2
+    game: 2
+    style: 2
+    character.: 2
+    wizard,: 2
+    character,: 2
+    game.: 2
+    theater: 2
+    drink,: 2
+    shirt.: 6
+    type: 2
+  shirt:
+    on.: 2
+  on.:
+    it: 2
+  it:
+    has: 4
+    can: 2
+  has:
+    a: 4
+  star:
+    wars: 6
+    'wars:': 2
+    wars.: 2
+  wars:
+    image: 2
+    is: 2
+    last: 2
+  image:
+    'on': 2
+  'on':
+    it.: 2
+    people: 2
+    his: 2
+  is:
+    a: 8
+    like,: 2
+    not: 2
+  series:
+    of: 2
+  of:
+    films: 2
+    magic.: 2
+    cast: 2
+    algorithms,: 2
+    white: 2
+    clothing: 2
+  films:
+    and: 2
+    out: 2
+  and:
+    stories.: 2
+    bounty: 2
+    have: 2
+    wizards: 2
+    jedi: 2
+  stories.:
+    all: 2
+  all:
+    about: 2
+  about:
+    jedi-: 2
+    wizards.: 2
+  jedi-:
+    and: 2
+  bounty:
+    hunting.: 2
+    hunting: 2
+    hunters: 2
+  i:
+    am: 4
+    like: 4
+    had: 2
+    understand: 2
+    was: 2
+    willed: 2
+    will: 2
+    did: 2
+  am:
+    well...: 2
+    more: 2
+  well...:
+    thank: 2
+  thank:
+    you.: 2
+  yes.:
+    i've: 2
+  eaten:
+    and: 2
+  have:
+    a: 2
+    powers: 2
+    special: 2
+  soda:
+    to: 2
+    is: 4
+  to:
+    drink.: 2
+    enhance: 2
+    know: 2
+    win: 2
+    what: 2
+    a: 2
+  today,:
+    actually.: 2
+  jedi:
+    are: 2
+    fight?: 2
+    is: 2
+  are:
+    like,: 2
+    people: 2
+    types: 2
+    neutral.: 2
+    consumable.: 2
+    a: 2
+    more: 2
+    never: 2
+  like,:
+    wizards.: 2
+    paid: 2
+  hunting:
+    is: 2
+    'on': 2
+  paid:
+    hunting: 2
+  people:
+    conducting: 2
+    that: 2
+  conducting:
+    crime.: 2
+  wizards:
+    are: 2
+    have: 2
+    also: 2
+    usually: 2
+    can: 4
+    and: 2
+  that:
+    use: 2
+    are: 2
+    let: 2
+  use:
+    magic.: 2
+  powers:
+    that: 2
+  types:
+    of: 2
+  also:
+    have: 2
+  special:
+    artifacts: 2
+  artifacts:
+    to: 2
+  enhance:
+    their: 2
+  their:
+    magic: 2
+  magic:
+    wielding.: 2
+  wizard:
+    relies: 2
+    can: 4
+  relies:
+    'on': 2
+  his:
+    mental: 2
+  mental:
+    capacity: 2
+  capacity:
+    to: 2
+  know:
+    ways: 2
+  ways:
+    to: 2
+  win:
+    a: 2
+  usually:
+    are: 2
+  can:
+    wear: 6
+    detect: 2
+    help: 2
+    be: 2
+  wear:
+    a: 6
+  go:
+    on...: 2
+  do:
+    wizards: 2
+  fight?:
+    a: 2
+  let's:
+    talk: 2
+  talk:
+    about: 2
+  nah.:
+    i: 2
+  like:
+    peace.: 2
+    long: 2
+  'wars:':
+    a: 2
+  new:
+    hope,: 2
+  hope,:
+    opens: 2
+  opens:
+    with: 2
+  with:
+    "'a": 2
+    it.: 2
+  "'a":
+    long: 2
+  long:
+    time: 2
+    sleave: 2
+  time:
+    ago,: 2
+  ago,:
+    in: 2
+  in:
+    a: 4
+    time.: 2
+    the: 2
+    what: 2
+  galaxy:
+    far,: 2
+  far,:
+    far: 2
+  far:
+    away...': 2
+  lot:
+    of: 2
+  cast:
+    members.: 2
+  well,:
+    a: 2
+  detect:
+    poison.: 2
+  poison.:
+    it: 2
+  help:
+    them: 2
+  them:
+    aware: 2
+  aware:
+    to: 2
+  what:
+    goods: 2
+    kind: 2
+  goods:
+    are: 2
+  had:
+    some: 2
+  some:
+    idea...: 2
+  summerize:
+    star: 2
+  game:
+    is: 2
+  style:
+    of: 2
+  algorithms,:
+    that: 2
+  let:
+    you: 2
+  you:
+    be: 2
+    can't: 2
+    were: 2
+    see...: 2
+    don't: 2
+    aren't: 2
+  be:
+    a: 4
+  character.:
+    a: 2
+  wizard,:
+    can: 2
+  character,:
+    in: 2
+  so:
+    no...: 2
+  no...:
+    i: 2
+  understand:
+    if: 2
+  if:
+    you: 2
+  can't:
+    get: 2
+  get:
+    to: 2
+    with: 2
+  theater:
+    in: 2
+  time.:
+    you: 2
+  were:
+    born-: 2
+  born-:
+    today.: 2
+  the:
+    film: 2
+    70's.: 2
+    least.: 2
+    bright: 2
+  film:
+    came: 2
+  came:
+    out: 2
+  out:
+    in: 2
+    now.: 2
+  sleave:
+    shirts.: 2
+  drink,:
+    yes.: 2
+  was:
+    'born:': 2
+  'born:':
+    3/9/89: 2
+  willed:
+    myself: 2
+  myself:
+    here.: 2
+  shirt.:
+    you: 2
+    damn: 2
+  not:
+    the: 2
+    at: 2
+    a: 2
+  least.:
+    i: 2
+  more:
+    interested: 2
+    modern: 2
+  interested:
+    in: 2
+  kind:
+    of: 2
+  white:
+    glove: 2
+  glove:
+    you've: 2
+  you've:
+    got: 2
+  got:
+    on.: 2
+  well:
+    pants: 2
+  pants:
+    are: 2
+  type:
+    of: 2
+  clothing:
+    too.: 2
+  don't:
+    caste: 2
+  caste:
+    into: 2
+  into:
+    a: 2
+  shirt...:
+    but: 2
+  but:
+    a: 2
+  nope.:
+    not: 2
+  at:
+    all.: 2
+  there:
+    are: 2
+  modern:
+    films: 2
+  will:
+    say,: 2
+  say,:
+    you: 2
+  aren't:
+    the: 2
+  bright:
+    one: 2
+  one:
+    here.: 2
+  hunters:
+    are: 2
+  never:
+    wizards.: 2
+  damn:
+    you.: 2
+  you.:
+    now: 2
+  now:
+    get: 2
+  did:
+    mention: 2
+  mention:
+    star: 2
+  last:
+    chat.: 2
+:question:
+  how:
+    are: 1
+    do: 4
+  are:
+    you?: 1
+    you: 14
+    wearing?: 2
+    wearing: 2
+  what:
+    day: 2
+    is: 2
+    about: 6
+    shirt: 2
+    do: 4
+    are: 1
+  day:
+    are: 2
+  you:
+    free: 2
+    aware: 2
+    are: 4
+    mean?: 6
+    wearing: 4
+    wear: 2
+    wanting: 2
+    got: 2
+    want: 2
+    know: 2
+    like: 4
+    seen: 2
+    a: 1
+    wearing?: 1
+    in: 2
+  free:
+    to: 2
+  to:
+    talk: 2
+    ask...: 2
+    discuss?: 2
+    drink?: 2
+  talk:
+    about: 2
+  about:
+    star: 6
+    wizards: 2
+    games?: 2
+    soda?: 2
+  star:
+    wars?: 6
+    wars: 4
+  i've:
+    been: 2
+  been:
+    meaning: 2
+  meaning:
+    to: 2
+  ask...:
+    are: 2
+  aware:
+    i: 2
+  i:
+    created: 2
+    wear: 2
+    was: 2
+    ask: 2
+  created:
+    you?: 2
+  is:
+    it: 2
+    an: 2
+  it:
+    you: 2
+  sure.:
+    what: 2
+  wars:
+    interests: 2
+    did: 2
+    interest: 2
+  interests:
+    you?: 2
+  my:
+    shirt?: 2
+  do:
+    you: 10
+    wars: 2
+  uh...:
+    what?: 2
+  wearing:
+    a: 2
+    any: 2
+    clothes?: 2
+  a:
+    shirt?: 2
+    shirt: 2
+    start.: 2
+    game...: 2
+    discussion: 2
+    wizard?: 1
+    drink-: 2
+  wear:
+    clothing.: 2
+    clothes: 2
+  clothing.:
+    a: 2
+    do: 2
+  shirt:
+    is: 2
+    have: 2
+  an:
+    acrticle: 2
+  acrticle:
+    of: 2
+  of:
+    clothing.: 2
+  clothes:
+    too?: 2
+  wizards:
+    are: 2
+    can: 2
+  wanting:
+    to: 2
+  any:
+    pants?: 2
+  have:
+    you: 4
+  got:
+    on?: 2
+  ok.:
+    what: 2
+  want:
+    to: 2
+  well.:
+    i: 2
+  was:
+    thinking.: 2
+  thinking.:
+    what: 2
+  know:
+    about: 2
+  excellent.:
+    a: 2
+  start.:
+    but: 2
+  but:
+    wizards: 2
+  can:
+    be: 2
+  be:
+    caste: 2
+  caste:
+    into: 2
+  into:
+    a: 2
+  game...:
+    would: 2
+  would:
+    you: 4
+  like:
+    a: 4
+  discussion:
+    'on': 2
+  'on':
+    it?: 2
+  did:
+    fantastic: 2
+    i: 2
+  fantastic:
+    at: 2
+  at:
+    the: 2
+  the:
+    box: 2
+    film?: 2
+  box:
+    office.: 2
+  office.:
+    have: 2
+  seen:
+    the: 2
+  what's:
+    that?: 2
+  interest:
+    you?: 2
+  ah.:
+    very: 1
+  very:
+    good.: 1
+  good.:
+    are: 1
+  clothes?:
+    are: 2
+  in:
+    pants?: 2
+  when:
+    did: 2
+  ask:
+    about: 2
+  drink-:
+    you: 2

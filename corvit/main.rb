@@ -246,8 +246,7 @@ class ChatBot
       long_term_response = generate_long_term_response
       word_pair_response = generate_word_pair_response
       short_term_match_response = generate_short_term_match_response
-      response = short_term_match_response ? construct_long_term_memory_response(short_term_match_response) :
-      word_pair_response || long_term_response || generate_generic_response
+      response = word_pair_response || long_term_response || short_term_match_response
     end
     @session_logger.log_interaction(nil, response)
     
@@ -308,7 +307,7 @@ class ChatBot
 
   def weighted_phrase_length(weighted_word_pairs)
     total_weight = weighted_word_pairs.values.map(&:values).flatten.sum
-    phrase_length_probabilities = { 3 => 0.1, 5 => 0.3, 7 => 0.4, 10 => 0.2 }
+    phrase_length_probabilities = { 13 => 0.1, 15 => 0.3, 27 => 0.4, 30 => 0.2 }
     weighted_lengths = phrase_length_probabilities.transform_values { |prob| prob * total_weight }
     length_sample(weighted_lengths)
   end

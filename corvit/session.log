@@ -1,125 +1,571 @@
 ---
-:timestamp: '2024-02-14 15:58:46'
-:user_input: hi
+:timestamp: '2025-02-15 14:39:36'
+:user_input: I've a shirt on. It has a star wars image on it.
 :bot_response:
 ---
-:timestamp: '2024-02-14 16:01:17'
-:user_input: Hi
-:bot_response:
----
-:timestamp: '2024-02-14 16:01:40'
-:user_input: Hi
-:bot_response:
----
-:timestamp: '2024-02-14 16:03:34'
-:user_input: Hi
-:bot_response:
----
-:timestamp: '2024-02-14 16:03:34'
+:timestamp: '2025-02-15 14:39:36'
 :user_input:
-:bot_response: 'I remember you said: Hi'
+:bot_response: this on..
 ---
-:timestamp: '2024-02-14 16:05:00'
-:user_input: How do you do?
+:timestamp: '2025-02-15 14:39:57'
+:user_input: Star Wars is a series of films and stories. All about Jedi- and bounty
+  hunting.
 :bot_response:
 ---
-:timestamp: '2024-02-14 16:05:00'
+:timestamp: '2025-02-15 14:39:57'
 :user_input:
-:bot_response: how do you do?
+:bot_response: how are you?
 ---
-:timestamp: '2024-02-14 16:05:06'
-:user_input: I see that life is good.
+:timestamp: '2025-02-15 14:40:02'
+:user_input: I am well... thank you.
 :bot_response:
 ---
-:timestamp: '2024-02-14 16:05:06'
+:timestamp: '2025-02-15 14:40:02'
 :user_input:
-:bot_response: do you do?
+:bot_response: are you?
 ---
-:timestamp: '2024-02-14 16:05:10'
-:user_input: Well then.
+:timestamp: '2025-02-15 14:40:13'
+:user_input: Yes. I've eaten and have a soda to drink.
 :bot_response:
 ---
-:timestamp: '2024-02-14 16:05:10'
+:timestamp: '2025-02-15 14:40:13'
 :user_input:
-:bot_response: well then.
+:bot_response: to drink.
 ---
-:timestamp: '2024-02-14 16:05:15'
-:user_input: Do you have any tea?
+:timestamp: '2025-02-15 14:41:08'
+:user_input: What day are you free to talk about Star Wars?
 :bot_response:
 ---
-:timestamp: '2024-02-14 16:05:15'
+:timestamp: '2025-02-15 14:41:08'
 :user_input:
-:bot_response: is good.
+:bot_response: what day are you?
 ---
-:timestamp: '2024-02-14 16:08:46'
-:user_input: I live such a high ass fucked up life.
+:timestamp: '2025-02-15 14:41:15'
+:user_input: Today, actually.
 :bot_response:
 ---
-:timestamp: '2024-02-14 16:08:46'
+:timestamp: '2025-02-15 14:41:15'
 :user_input:
-:bot_response: I recall you mentioning 'I live such a high ass fucked up life.'. What
-  else would you like to discuss?
+:bot_response: how are you?
 ---
-:timestamp: '2024-02-14 16:08:55'
-:user_input: Well, the day is sure bright.
+:timestamp: '2025-02-15 14:41:29'
+:user_input: I've been meaning to ask... are you aware I created you?
 :bot_response:
 ---
-:timestamp: '2024-02-14 16:08:55'
+:timestamp: '2025-02-15 14:41:29'
 :user_input:
-:bot_response: I recall you mentioning 'I live such a high ass fucked up life.'. What
-  else would you like to discuss?
+:bot_response: about jedi- and bounty hunting.
 ---
-:timestamp: '2024-02-14 16:09:03'
-:user_input: nothing, I don't get high.
+:timestamp: '2025-02-15 14:42:05'
+:user_input: Jedi are like, wizards.
 :bot_response:
 ---
-:timestamp: '2024-02-14 16:09:03'
+:timestamp: '2025-02-15 14:42:05'
 :user_input:
-:bot_response: I recall you mentioning 'Well, the day is sure bright.'. What else
-  would you like to discuss?
+:bot_response: yes. i've a series of films and bounty hunting.
 ---
-:timestamp: '2024-02-14 16:51:21'
-:user_input: I've run into trouble.
+:timestamp: '2025-02-15 14:42:33'
+:user_input: Bounty Hunting is like, paid hunting on people conducting crime.
 :bot_response:
 ---
-:timestamp: '2024-02-14 16:51:21'
+:timestamp: '2025-02-15 14:42:33'
 :user_input:
-:bot_response: I recall you mentioning 'I've run into trouble.'. What else would you
-  like to discuss?
+:bot_response: trying this on..
 ---
-:timestamp: '2024-02-14 16:51:28'
-:user_input: I cannot get you to compile.
+:timestamp: '2025-02-15 14:42:41'
+:user_input: What is it you are wearing?
 :bot_response:
 ---
-:timestamp: '2024-02-14 16:51:28'
+:timestamp: '2025-02-15 14:42:41'
 :user_input:
-:bot_response: I recall you mentioning 'I've run into trouble.'. What else would you
-  like to discuss?
+:bot_response: hunting is a soda to drink.
 ---
-:timestamp: '2024-02-14 16:51:34'
-:user_input: How do I solve this?
+:timestamp: '2025-02-15 14:44:42'
+:user_input: Wizards are people that use magic.
 :bot_response:
 ---
-:timestamp: '2024-02-14 16:51:34'
+:timestamp: '2025-02-15 14:44:42'
 :user_input:
-:bot_response: I recall you mentioning 'I've run into trouble.'. What else would you
-  like to discuss?
+:bot_response: to talk about star wars?
 ---
-:timestamp: '2024-02-14 16:51:53'
-:user_input: When I try compiling you, there are errors because of the other people's
-  software.
+:timestamp: '2025-02-15 14:44:56'
+:user_input: And Wizards have powers that are types of magic.
 :bot_response:
 ---
-:timestamp: '2024-02-14 16:51:53'
+:timestamp: '2025-02-15 14:44:56'
 :user_input:
-:bot_response: I recall you mentioning 'I cannot get you to compile.'. What else would
-  you like to discuss?
+:bot_response: about star wars?
 ---
-:timestamp: '2024-02-14 16:52:03'
-:user_input: At least you're you, ya'know?
+:timestamp: '2025-02-15 14:45:18'
+:user_input: Wizards also have special artifacts to enhance their magic wielding.
 :bot_response:
 ---
-:timestamp: '2024-02-14 16:52:03'
+:timestamp: '2025-02-15 14:45:18'
 :user_input:
-:bot_response: I recall you mentioning 'How do I solve this?'. What else would you
-  like to discuss?
+:bot_response: day are you are you?
+---
+:timestamp: '2025-02-15 14:45:40'
+:user_input: A Wizard relies on his mental capacity to know ways to win a fight.
+:bot_response:
+---
+:timestamp: '2025-02-15 14:45:40'
+:user_input:
+:bot_response: people conducting crime.
+---
+:timestamp: '2025-02-15 14:45:52'
+:user_input: Wizards usually are Neutral.
+:bot_response:
+---
+:timestamp: '2025-02-15 14:45:52'
+:user_input:
+:bot_response: about star wars?
+---
+:timestamp: '2025-02-15 14:46:05'
+:user_input: What about Star Wars?
+:bot_response:
+---
+:timestamp: '2025-02-15 14:46:05'
+:user_input:
+:bot_response: free to talk about star wars?
+---
+:timestamp: '2025-02-15 14:47:30'
+:user_input: Sure. What about Star Wars interests you?
+:bot_response:
+---
+:timestamp: '2025-02-15 14:47:30'
+:user_input:
+:bot_response: this on..
+---
+:timestamp: '2025-02-15 14:47:34'
+:user_input: My shirt?
+:bot_response:
+---
+:timestamp: '2025-02-15 14:47:34'
+:user_input:
+:bot_response: has a wizard relies on it.
+---
+:timestamp: '2025-02-15 14:47:43'
+:user_input: Wizards can wear a shirt...
+:bot_response:
+---
+:timestamp: '2025-02-15 14:47:43'
+:user_input:
+:bot_response: it has a soda to drink.
+---
+:timestamp: '2025-02-15 14:47:55'
+:user_input: How do you mean?
+:bot_response:
+---
+:timestamp: '2025-02-15 14:47:55'
+:user_input:
+:bot_response: free to ask... are you?
+---
+:timestamp: '2025-02-15 14:48:01'
+:user_input: go on...
+:bot_response:
+---
+:timestamp: '2025-02-15 14:48:01'
+:user_input:
+:bot_response: about jedi- and wizards have a fight.
+---
+:timestamp: '2025-02-15 14:48:24'
+:user_input: do wizards and jedi fight? a jedi is a wizard...
+:bot_response:
+---
+:timestamp: '2025-02-15 14:48:24'
+:user_input:
+:bot_response: what day are you free to talk about star wars interests you?
+---
+:timestamp: '2025-02-15 14:48:42'
+:user_input: let's talk about wizards.
+:bot_response:
+---
+:timestamp: '2025-02-15 14:48:42'
+:user_input:
+:bot_response: aware i created you?
+---
+:timestamp: '2025-02-15 14:48:49'
+:user_input: Uh... what?
+:bot_response:
+---
+:timestamp: '2025-02-15 14:48:49'
+:user_input:
+:bot_response: wars interests you?
+---
+:timestamp: '2025-02-15 14:48:56'
+:user_input: Nah. I like peace.
+:bot_response:
+---
+:timestamp: '2025-02-15 14:48:56'
+:user_input:
+:bot_response: i've been meaning to ask... are wearing?
+---
+:timestamp: '2025-02-15 14:49:03'
+:user_input: are you wearing a shirt?
+:bot_response:
+---
+:timestamp: '2025-02-15 14:49:03'
+:user_input:
+:bot_response: know ways to drink.
+---
+:timestamp: '2025-02-15 14:50:35'
+:user_input: I wear clothing. A shirt is an acrticle of clothing. Do you wear clothes
+  too?
+:bot_response:
+---
+:timestamp: '2025-02-15 14:50:35'
+:user_input:
+:bot_response: to win a shirt on. it has a shirt on. it has a wizard...
+---
+:timestamp: '2025-02-15 14:51:40'
+:user_input: 'Star Wars: A New Hope, opens with ''A Long time ago, in a Galaxy Far,
+  Far Away...'''
+:bot_response:
+---
+:timestamp: '2025-02-15 14:51:40'
+:user_input:
+:bot_response: how do you free to talk about star wars interests you?
+---
+:timestamp: '2025-02-15 14:51:57'
+:user_input: It has a lot of cast members.
+:bot_response:
+---
+:timestamp: '2025-02-15 14:51:57'
+:user_input:
+:bot_response: interests you?
+---
+:timestamp: '2025-02-15 14:51:59'
+:user_input: Nah.
+:bot_response:
+---
+:timestamp: '2025-02-15 14:51:59'
+:user_input:
+:bot_response: let's talk about wizards.
+---
+:timestamp: '2025-02-15 14:52:13'
+:user_input: What about Wizards are you wanting to discuss?
+:bot_response:
+---
+:timestamp: '2025-02-15 14:52:13'
+:user_input:
+:bot_response: capacity to know ways to drink.
+---
+:timestamp: '2025-02-15 14:53:04'
+:user_input: well, a wizard can detect poison. it can help them aware to what goods
+  are consumable.
+:bot_response:
+---
+:timestamp: '2025-02-15 14:53:04'
+:user_input:
+:bot_response: free to ask... are you wearing a shirt?
+---
+:timestamp: '2025-02-15 14:53:29'
+:user_input: are you wearing any pants?
+:bot_response:
+---
+:timestamp: '2025-02-15 14:53:29'
+:user_input:
+:bot_response: my shirt?
+---
+:timestamp: '2025-02-15 14:53:38'
+:user_input: What shirt have you got on?
+:bot_response:
+---
+:timestamp: '2025-02-15 14:53:38'
+:user_input:
+:bot_response: lot of films and bounty hunting.
+---
+:timestamp: '2025-02-15 14:53:44'
+:user_input: Star Wars?
+:bot_response:
+---
+:timestamp: '2025-02-15 14:53:44'
+:user_input:
+:bot_response: capacity to drink.
+---
+:timestamp: '2025-02-15 14:53:54'
+:user_input: ok. what do you want to drink?
+:bot_response:
+---
+:timestamp: '2025-02-15 14:53:54'
+:user_input:
+:bot_response: shirt have you aware i wear clothes too?
+---
+:timestamp: '2025-02-15 14:54:08'
+:user_input: I had some idea...
+:bot_response:
+---
+:timestamp: '2025-02-15 14:54:08'
+:user_input:
+:bot_response: "'a long time ago, in a series of magic."
+---
+:timestamp: '2025-02-15 14:54:22'
+:user_input: summerize Star Wars.
+:bot_response:
+---
+:timestamp: '2025-02-15 14:54:22'
+:user_input:
+:bot_response: on it.
+---
+:timestamp: '2025-02-15 14:54:25'
+:user_input: well?
+:bot_response:
+---
+:timestamp: '2025-02-15 14:54:25'
+:user_input:
+:bot_response: ask... are you wanting to discuss?
+---
+:timestamp: '2025-02-15 14:55:16'
+:user_input: Well. I was thinking. What do you know about Games?
+:bot_response:
+---
+:timestamp: '2025-02-15 14:55:16'
+:user_input:
+:bot_response: jedi- and stories. all about wizards.
+---
+:timestamp: '2025-02-15 14:57:48'
+:user_input: excellent. a start. but wizards can be caste into a game... would you
+  like a discussion on it?
+:bot_response:
+---
+:timestamp: '2025-02-15 14:57:48'
+:user_input:
+:bot_response: go on...
+---
+:timestamp: '2025-02-15 14:58:28'
+:user_input: A game is a style of algorithms, that let you be a character. a wizard,
+  can be a character, in a game.
+:bot_response:
+---
+:timestamp: '2025-02-15 14:58:28'
+:user_input:
+:bot_response: goods are types of films and jedi is a new hope, opens with 'a long
+  time ago,
+---
+:timestamp: '2025-02-15 14:59:10'
+:user_input: Star Wars did fantastic at the box office. have you seen the film?
+:bot_response:
+---
+:timestamp: '2025-02-15 14:59:10'
+:user_input:
+:bot_response: are neutral.
+---
+:timestamp: '2025-02-15 14:59:27'
+:user_input: so no... I understand if you can't get to a theater in time. You were
+  born- today.
+:bot_response:
+---
+:timestamp: '2025-02-15 14:59:27'
+:user_input:
+:bot_response: the film?
+---
+:timestamp: '2025-02-15 14:59:40'
+:user_input: the film came out in the 70's.
+:bot_response:
+---
+:timestamp: '2025-02-15 14:59:40'
+:user_input:
+:bot_response: discussion on it?
+---
+:timestamp: '2025-02-15 14:59:47'
+:user_input: what's that?
+:bot_response:
+---
+:timestamp: '2025-02-15 14:59:47'
+:user_input:
+:bot_response: was thinking. what shirt is it you like a discussion on it?
+---
+:timestamp: '2025-02-15 14:59:59'
+:user_input: I like long sleave shirts.
+:bot_response:
+---
+:timestamp: '2025-02-15 14:59:59'
+:user_input:
+:bot_response: is a soda to drink.
+---
+:timestamp: '2025-02-15 15:00:07'
+:user_input: a soda is a drink, yes.
+:bot_response:
+---
+:timestamp: '2025-02-15 15:00:07'
+:user_input:
+:bot_response: out in time. you were born- today.
+---
+:timestamp: '2025-02-15 15:00:19'
+:user_input: 'I was born: 3/9/89'
+:bot_response:
+---
+:timestamp: '2025-02-15 15:00:19'
+:user_input:
+:bot_response: how are you got on?
+---
+:timestamp: '2025-02-15 15:00:29'
+:user_input: I willed myself here.
+:bot_response:
+---
+:timestamp: '2025-02-15 15:00:29'
+:user_input:
+:bot_response: wars interests you?
+---
+:timestamp: '2025-02-15 15:00:37'
+:user_input: Do wars interest you?
+:bot_response:
+---
+:timestamp: '2025-02-15 15:00:37'
+:user_input:
+:bot_response: a start. but wizards can be caste into a shirt is an acrticle of clothing.
+---
+:timestamp: '2025-02-15 15:00:52'
+:user_input: Wizards can wear a shirt. you see...
+:bot_response:
+---
+:timestamp: '2025-02-15 15:00:52'
+:user_input:
+:bot_response: interests you?
+---
+:timestamp: '2025-02-15 15:01:08'
+:user_input: not the least. I am more interested in what kind of white glove you've
+  got on.
+:bot_response:
+---
+:timestamp: '2025-02-15 15:01:08'
+:user_input:
+:bot_response: interest you?
+---
+:timestamp: '2025-02-15 15:01:10'
+:user_input: yup.
+:bot_response:
+---
+:timestamp: '2025-02-15 15:01:10'
+:user_input:
+:bot_response: magic wielding.
+---
+:timestamp: '2025-02-15 15:01:19'
+:user_input: Ah. very good. Are you a wizard?
+:bot_response:
+---
+:timestamp: '2025-02-15 15:01:19'
+:user_input:
+:bot_response: had some idea...
+---
+:timestamp: '2025-02-15 15:02:23'
+:user_input: What are you wearing?
+:bot_response:
+---
+:timestamp: '2025-02-15 15:02:23'
+:user_input:
+:bot_response: acrticle of clothing. do you want to ask... are you are you know
+---
+:timestamp: '2025-02-15 15:03:00'
+:user_input: You are wearing clothes? Are you in pants?
+:bot_response:
+---
+:timestamp: '2025-02-15 15:03:00'
+:user_input:
+:bot_response: uh... what?
+---
+:timestamp: '2025-02-15 15:03:14'
+:user_input: Well pants are a type of clothing too.
+:bot_response:
+---
+:timestamp: '2025-02-15 15:03:14'
+:user_input:
+:bot_response: out in a wizard...
+---
+:timestamp: '2025-02-15 15:03:23'
+:user_input: how do you mean?
+:bot_response:
+---
+:timestamp: '2025-02-15 15:03:23'
+:user_input:
+:bot_response: how do you like a start. but wizards can be caste into a shirt?
+---
+:timestamp: '2025-02-15 15:03:50'
+:user_input: you don't caste into a shirt... but a wizard can wear a shirt.
+:bot_response:
+---
+:timestamp: '2025-02-15 15:03:50'
+:user_input:
+:bot_response: people that use magic.
+---
+:timestamp: '2025-02-15 15:03:53'
+:user_input: good.
+:bot_response:
+---
+:timestamp: '2025-02-15 15:03:53'
+:user_input:
+:bot_response: can't get to know ways to win a jedi is a shirt... but a soda is a
+  wizard can wear a wizard relies on people conducting crime.
+---
+:timestamp: '2025-02-15 15:04:08'
+:user_input: nope. not at all.
+:bot_response:
+---
+:timestamp: '2025-02-15 15:04:08'
+:user_input:
+:bot_response: did fantastic at the film?
+---
+:timestamp: '2025-02-15 15:04:20'
+:user_input: There are more modern films out now.
+:bot_response:
+---
+:timestamp: '2025-02-15 15:04:20'
+:user_input:
+:bot_response: opens with 'a long sleave shirts.
+---
+:timestamp: '2025-02-15 15:04:37'
+:user_input: I will say, you aren't the bright one here.
+:bot_response:
+---
+:timestamp: '2025-02-15 15:04:37'
+:user_input:
+:bot_response: drink, yes. i've a soda to drink.
+---
+:timestamp: '2025-02-15 15:04:54'
+:user_input: when did I ask about soda?
+:bot_response:
+---
+:timestamp: '2025-02-15 15:04:54'
+:user_input:
+:bot_response: paid hunting is a game is a shirt. you can't get to enhance their magic
+  wielding.
+---
+:timestamp: '2025-02-15 15:05:10'
+:user_input: Bounty Hunters are never wizards.
+:bot_response:
+---
+:timestamp: '2025-02-15 15:05:10'
+:user_input:
+:bot_response: fantastic at the box office. have you wanting to drink?
+---
+:timestamp: '2025-02-15 15:05:23'
+:user_input: Would you like a drink- you mean?
+:bot_response:
+---
+:timestamp: '2025-02-15 15:05:23'
+:user_input:
+:bot_response: a shirt?
+---
+:timestamp: '2025-02-15 15:05:32'
+:user_input: Soda is not a shirt. damn you. now get with it.
+:bot_response:
+---
+:timestamp: '2025-02-15 15:05:32'
+:user_input:
+:bot_response: clothing. do you know about star wars?
+---
+:timestamp: '2025-02-15 15:05:47'
+:user_input: I did mention Star Wars last chat.
+:bot_response:
+---
+:timestamp: '2025-02-15 15:05:47'
+:user_input:
+:bot_response: not the bright one here.
+---
+:timestamp: '2025-02-15 15:05:53'
+:user_input: who?
+:bot_response:
+---
+:timestamp: '2025-02-15 15:05:53'
+:user_input:
+:bot_response: drink- you got on?
