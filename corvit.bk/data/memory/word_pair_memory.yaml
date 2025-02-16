@@ -12,7 +12,7 @@
     star: 2
     series: 2
     soda: 4
-    wizard: 6
+    wizard: 8
     fight.: 2
     shirt...: 4
     jedi: 2
@@ -30,6 +30,20 @@
     drink,: 2
     shirt.: 6
     type: 2
+    robe.: 2
+    wizard-: 2
+    soda.: 2
+    coca-cola.: 2
+    drink.: 2
+    butler: 2
+    'wizard:': 2
+    drink-: 2
+    bit: 2
+    drink: 2
+    film: 2
+    decent: 2
+    great: 2
+    wizard.: 2
   shirt:
     on.: 2
   on.:
@@ -37,6 +51,7 @@
   it:
     has: 4
     can: 2
+    that: 2
   has:
     a: 4
   star:
@@ -53,10 +68,16 @@
     it.: 2
     people: 2
     his: 2
+    me.: 2
   is:
-    a: 8
+    a: 14
     like,: 2
     not: 2
+    smart.: 2
+    fit: 2
+    life.: 2
+    about: 2
+    ridley.: 2
   series:
     of: 2
   of:
@@ -66,6 +87,8 @@
     algorithms,: 2
     white: 2
     clothing: 2
+    characters.: 2
+    magic...: 2
   films:
     and: 2
     out: 2
@@ -75,13 +98,17 @@
     have: 2
     wizards: 2
     jedi: 2
+    a: 2
+    loose: 2
   stories.:
     all: 2
   all:
     about: 2
+    wizards,: 2
   about:
     jedi-: 2
-    wizards.: 2
+    wizards.: 4
+    aliens.: 2
   jedi-:
     and: 2
   bounty:
@@ -89,7 +116,7 @@
     hunting: 2
     hunters: 2
   i:
-    am: 4
+    am: 6
     like: 4
     had: 2
     understand: 2
@@ -97,21 +124,28 @@
     willed: 2
     will: 2
     did: 2
+    want: 2
+    have: 2
+    saw: 2
   am:
     well...: 2
     more: 2
+    well.: 2
   well...:
     thank: 2
+    there: 2
   thank:
     you.: 2
   yes.:
     i've: 2
+    i: 2
   eaten:
     and: 2
   have:
-    a: 2
+    a: 6
     powers: 2
     special: 2
+    light: 2
   soda:
     to: 2
     is: 4
@@ -122,12 +156,18 @@
     win: 2
     what: 2
     a: 2
+    speak: 2
+    be: 2
+    have: 2
+    claim: 1
   today,:
     actually.: 2
   jedi:
     are: 2
     fight?: 2
     is: 2
+    wear: 2
+    drink: 2
   are:
     like,: 2
     people: 2
@@ -137,6 +177,8 @@
     a: 2
     more: 2
     never: 2
+    you: 2
+    evil.: 2
   like,:
     wizards.: 2
     paid: 2
@@ -157,10 +199,15 @@
     usually: 2
     can: 4
     and: 2
+    typically: 2
+    tend: 2
+    caste: 2
   that:
     use: 2
     are: 2
     let: 2
+    is: 2
+    way...: 2
   use:
     magic.: 2
   powers:
@@ -182,6 +229,7 @@
   wizard:
     relies: 2
     can: 4
+    will: 2
   relies:
     'on': 2
   his:
@@ -192,19 +240,23 @@
     to: 2
   know:
     ways: 2
+    algorithms...: 2
+    a: 2
   ways:
     to: 2
   win:
     a: 2
   usually:
     are: 2
+    light: 2
   can:
     wear: 6
     detect: 2
     help: 2
     be: 2
   wear:
-    a: 6
+    a: 8
+    clothing: 2
   go:
     on...: 2
   do:
@@ -243,8 +295,9 @@
   in:
     a: 4
     time.: 2
-    the: 2
+    the: 6
     what: 2
+    show: 2
   galaxy:
     far,: 2
   far,:
@@ -293,8 +346,10 @@
     see...: 2
     don't: 2
     aren't: 2
+    thirsty?: 2
   be:
     a: 4
+    smarty: 2
   character.:
     a: 2
   wizard,:
@@ -323,12 +378,16 @@
   born-:
     today.: 2
   the:
-    film: 2
+    film: 10
     70's.: 2
     least.: 2
     bright: 2
+    theater.: 2
   film:
     came: 2
+    called: 2
+    predator: 4
+    predator,: 4
   came:
     out: 2
   out:
@@ -351,8 +410,9 @@
     damn: 2
   not:
     the: 2
-    at: 2
+    at: 4
     a: 2
+    interest: 2
   least.:
     i: 2
   more:
@@ -375,13 +435,16 @@
   pants:
     are: 2
   type:
-    of: 2
+    of: 4
   clothing:
     too.: 2
+    that: 2
   don't:
     caste: 2
+    word: 2
   caste:
     into: 2
+    magic.: 2
   into:
     a: 2
   shirt...:
@@ -392,12 +455,16 @@
     not: 2
   at:
     all.: 2
+    all-: 2
+    the: 2
   there:
     are: 2
+    is: 2
   modern:
     films: 2
   will:
     say,: 2
+    know: 2
   say,:
     you: 2
   aren't:
@@ -406,6 +473,7 @@
     one: 2
   one:
     here.: 2
+    in: 2
   hunters:
     are: 2
   never:
@@ -422,13 +490,143 @@
     star: 2
   last:
     chat.: 2
+  hello.:
+    i: 2
+  want:
+    to: 2
+  speak:
+    about: 2
+  typically:
+    wear: 2
+  tend:
+    to: 2
+  smarty:
+    type: 2
+  no.:
+    war: 2
+    the: 2
+    to: 1
+  war:
+    does: 2
+  does:
+    not: 2
+  interest:
+    me.: 2
+    me: 2
+  wizard-:
+    is: 2
+  they:
+    interest: 2
+    are: 2
+  me:
+    as: 2
+  as:
+    well...: 2
+  i'm:
+    having: 2
+    wearing: 2
+  having:
+    a: 2
+  soda.:
+    a: 2
+  wearing:
+    a: 2
+  butler:
+    t-shirt.: 2
+  t-shirt.:
+    in: 2
+  show:
+    to: 2
+  light:
+    attire.: 2
+    and: 2
+  interesting.:
+    a: 2
+  algorithms...:
+    yet: 2
+  yet:
+    not: 2
+  all-:
+    is: 2
+  'wizard:':
+    algorithm.: 2
+  fit:
+    for: 2
+  for:
+    combat.: 2
+  combat.:
+    usually: 2
+  loose:
+    fitting.: 2
+  word:
+    it: 2
+  oh.:
+    cheers.: 2
+  cheers.:
+    have: 2
+  drink-:
+    'on': 2
+  wizards,:
+    know: 2
+  bit:
+    of: 2
+  thirsty?:
+    a: 2
+  drink:
+    would: 2
+    only: 2
+  would:
+    quench: 2
+  quench:
+    your: 2
+  your:
+    thirst.: 2
+  only:
+    water.: 2
+  water:
+    is: 2
+  called:
+    predator.: 2
+  predator.:
+    it's: 2
+  it's:
+    a: 2
+  decent:
+    one.: 2
+  predator:
+    is: 2
+    at: 2
+  aliens.:
+    they: 2
+  predator,:
+    is: 4
+  ridley.:
+    a: 2
+  great:
+    actress.: 2
+  'no':
+    one: 2
+  saw:
+    the: 2
+  theater.:
+    yup.: 2
+  claim:
+    said: 1
+  said:
+    magical: 1
+  magical:
+    shirt.: 1
+  'yes':
+    i: 2
+  oh:
+    shit.: 1
 :question:
   how:
     are: 1
     do: 4
   are:
     you?: 1
-    you: 14
+    you: 16
     wearing?: 2
     wearing: 2
   what:
@@ -436,8 +634,9 @@
     is: 2
     about: 6
     shirt: 2
-    do: 4
+    do: 8
     are: 1
+    kind: 2
   day:
     are: 2
   you:
@@ -450,12 +649,15 @@
     wanting: 2
     got: 2
     want: 2
-    know: 2
+    know: 6
     like: 4
-    seen: 2
+    seen: 4
     a: 1
     wearing?: 1
     in: 2
+    hunt: 2
+    envy: 2
+    well?: 2
   free:
     to: 2
   to:
@@ -470,6 +672,8 @@
     wizards: 2
     games?: 2
     soda?: 2
+    wizards?: 2
+    jedi?: 2
   star:
     wars?: 6
     wars: 4
@@ -488,13 +692,15 @@
     wear: 2
     was: 2
     ask: 2
+    understand: 2
   created:
     you?: 2
   is:
-    it: 2
+    it: 4
     an: 2
   it:
     you: 2
+    free?: 2
   sure.:
     what: 2
   wars:
@@ -506,7 +712,7 @@
   my:
     shirt?: 2
   do:
-    you: 10
+    you: 16
     wars: 2
   uh...:
     what?: 2
@@ -522,6 +728,8 @@
     discussion: 2
     wizard?: 1
     drink-: 2
+    living?: 2
+    tailor?: 2
   wear:
     clothing.: 2
     clothes: 2
@@ -537,6 +745,7 @@
     of: 2
   of:
     clothing.: 2
+    character?: 2
   clothes:
     too?: 2
   wizards:
@@ -546,8 +755,9 @@
     to: 2
   any:
     pants?: 2
+    films: 2
   have:
-    you: 4
+    you: 6
   got:
     on?: 2
   ok.:
@@ -561,7 +771,7 @@
   thinking.:
     what: 2
   know:
-    about: 2
+    about: 6
   excellent.:
     a: 2
   start.:
@@ -572,6 +782,7 @@
     be: 2
   be:
     caste: 2
+    a: 2
   caste:
     into: 2
   into:
@@ -602,6 +813,7 @@
     have: 2
   seen:
     the: 2
+    any: 2
   what's:
     that?: 2
   interest:
@@ -610,6 +822,7 @@
     very: 1
   very:
     good.: 1
+    interesting...: 2
   good.:
     are: 1
   clothes?:
@@ -622,3 +835,31 @@
     about: 2
   drink-:
     you: 2
+  films:
+    lately?: 2
+  really?:
+    do: 2
+  hunt:
+    for: 2
+  for:
+    a: 2
+  kind:
+    of: 2
+  might:
+    be: 2
+  get:
+    with: 2
+  with:
+    what?: 2
+  understand:
+    you: 2
+  envy:
+    your: 2
+  your:
+    creator?: 2
+  magic:
+    shirt?: 2
+  shirt?:
+    very: 2
+  interesting...:
+    is: 2
