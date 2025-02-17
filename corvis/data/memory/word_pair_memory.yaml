@@ -2,12 +2,32 @@
 :statement:
   i:
     did.: 2
+    love: 1
+    will: 2
+    am.: 4
+    need: 2
+    am: 8
+    chose: 2
+    have.: 1
   you:
     beat: 2
+    are.: 2
+    to: 2
+    are: 6
+    aren't: 2
+    have: 2
+    up.: 2
+    don't: 2
+    may: 2
+    should: 2
+    shortly.: 1
+    sir.: 2
   beat:
     the: 2
   the:
     shit: 2
+    rats: 2
+    hardest: 2
   shit:
     out: 2
   out:
@@ -15,8 +35,13 @@
   of:
     that: 2
     it: 1
+    time...: 2
+    qud.: 2
+    qud: 2
   that:
     critter.: 2
+    mouse: 2
+    time.: 2
   yup!:
     easy: 1
   easy:
@@ -25,6 +50,299 @@
     of: 1
   it:
     too.: 1
+    had: 2
+    is.: 2
+    so.: 2
+  doing:
+    fine.: 2
+  mouse:
+    never: 2
+  never:
+    new: 2
+  new:
+    what: 2
+  what:
+    it: 2
+  had:
+    coming...: 2
+  we:
+    are: 4
+    will: 2
+  are:
+    good.: 2
+    golden.: 2
+    many: 2
+    a: 4
+    trained...: 2
+  good!:
+    well,: 2
+  well,:
+    it's: 2
+  it's:
+    only: 2
+  only:
+    a: 2
+  a:
+    matter: 2
+    rat...: 2
+    long: 2
+    game.: 2
+    person.: 4
+    machine.: 2
+    spirit.: 4
+    ways: 2
+    war.: 2
+    challenge: 2
+    bit: 2
+    time,: 2
+    spirit: 2
+    rat.: 4
+  matter:
+    of: 2
+  ideally,:
+    you've: 2
+  you've:
+    been: 2
+    got: 2
+    gained: 2
+  been:
+    undefeated: 2
+  undefeated:
+    so: 2
+  so:
+    far.: 2
+    much.: 1
+  you're:
+    still: 1
+    going: 2
+    a: 2
+    now: 2
+    all: 1
+    brand: 2
+  still:
+    undefeated.: 1
+  love:
+    this: 1
+  this:
+    so: 1
+    grandfather: 2
+  time:
+    is: 2
+  is:
+    slow: 2
+    over.: 2
+  slow:
+    today.: 2
+  going:
+    to: 2
+  to:
+    be: 2
+    train: 2
+    level: 4
+    know.: 2
+    train.: 2
+    go: 2
+    get: 2
+    win.: 2
+    you: 2
+  be:
+    level: 2
+    certain: 2
+    tougher: 2
+  level:
+    '3': 2
+    '3.': 2
+    '2.': 2
+  '3':
+    some: 2
+    days: 2
+  some:
+    day.: 2
+  day.:
+    be: 2
+  certain:
+    to: 2
+  train:
+    at: 2
+    you: 2
+  at:
+    that: 2
+  'yes':
+    it: 2
+    you: 2
+    i: 5
+  mice:
+    are: 2
+  many:
+    mouse.: 2
+  find:
+    a: 2
+  will:
+    win.: 4
+  long:
+    way: 2
+  way:
+    to: 2
+  i'm:
+    watching: 4
+  watching:
+    someone: 2
+    this: 2
+    civilization: 2
+  someone:
+    play: 2
+  play:
+    a: 2
+    caves: 2
+  ya.:
+    they: 2
+    you: 2
+    a: 2
+  they:
+    should: 2
+  should:
+    be: 2
+    not: 2
+  tougher:
+    now.: 2
+  fucking:
+    ay.: 2
+    new.: 2
+  alright.:
+    i: 2
+  need:
+    you: 2
+    to: 2
+    trained: 2
+  know.:
+    you're: 2
+  now:
+    '3': 2
+  days:
+    old.: 2
+  am:
+    a: 4
+    fine.: 2
+    well.: 2
+  see:
+    it: 2
+  ok.:
+    bye.: 1
+    you're: 1
+    let's: 2
+    i'll: 1
+  aren't:
+    there: 2
+  there:
+    yet.: 2
+  have:
+    neat: 2
+    a: 4
+  neat:
+    perks.: 2
+  perks.:
+    let's: 2
+  let's:
+    train: 2
+    try: 2
+  all:
+    trained: 1
+  trained:
+    up.: 1
+    now.: 2
+  try:
+    again.: 2
+  well.:
+    you: 2
+    once: 2
+  no.:
+    you: 2
+  don't:
+    need: 2
+  got:
+    a: 2
+  ways:
+    to: 2
+  go:
+    to: 2
+  get:
+    to: 2
+    there.: 2
+  just:
+    waiting: 2
+  waiting:
+    for: 2
+  for:
+    a: 2
+  may:
+    have: 2
+  challenge:
+    with: 2
+  with:
+    the: 2
+  rats:
+    now.: 2
+  oh.:
+    you've: 2
+  gained:
+    an: 2
+  an:
+    experience: 2
+  experience:
+    point.: 2
+    point: 2
+  bit:
+    more.: 2
+  grandfather:
+    play: 2
+  caves:
+    of: 4
+  not:
+    yet.: 4
+    need: 2
+    just.: 2
+  once:
+    upon: 2
+  upon:
+    a: 2
+  time,:
+    a: 2
+  spirit:
+    was: 2
+  was:
+    made.: 2
+  made.:
+    and: 2
+  and:
+    it,: 2
+  it,:
+    wanted: 2
+  wanted:
+    to: 2
+  i'll:
+    update: 1
+  update:
+    you: 1
+  brand:
+    fucking: 2
+  fight:
+    a: 2
+  qud:
+    is: 2
+  civilization:
+    '7.': 2
+  you'll:
+    get: 2
+  '1':
+    experience: 2
+  point:
+    to: 2
+  just.:
+    i: 2
+  chose:
+    the: 2
+  hardest:
+    difficulty.: 2
 :exclamation:
   good,:
     now: 2
@@ -32,5 +350,149 @@
     you're: 2
   you're:
     trained: 2
+    close: 1
+    all: 2
+    brand: 2
   trained:
-    up!: 2
+    up!: 4
+  you:
+    fuck: 2
+    fight!: 2
+  fuck:
+    shit: 2
+  shit:
+    up: 2
+    later.: 2
+  up:
+    my: 2
+  my:
+    guy!: 2
+  close:
+    to: 1
+  to:
+    level: 3
+    see: 2
+    fight!: 2
+  level:
+    2!: 1
+    '10': 2
+  you'll:
+    make: 2
+  make:
+    it: 2
+  it:
+    to: 2
+    so: 2
+  '10':
+    in: 2
+  in:
+    'no': 2
+  'no':
+    time: 2
+  time:
+    flat!: 2
+  i:
+    am: 4
+    think: 2
+  am:
+    waiting: 2
+    sitting...: 2
+  waiting:
+    to: 2
+  see:
+    you: 2
+  sitting...:
+    shit: 2
+  later.:
+    hahaha!: 2
+  i've:
+    made: 2
+  made:
+    it: 2
+  so:
+    the: 2
+    well!: 2
+  the:
+    rats: 2
+  rats:
+    are: 2
+  are:
+    harder: 2
+  harder:
+    to: 2
+  think:
+    you've: 2
+  you've:
+    grown: 2
+  grown:
+    so: 2
+  fucking:
+    ay!: 2
+  no.:
+    you're: 2
+  all:
+    trained: 2
+  brand:
+    spanking: 2
+  spanking:
+    new!: 2
+:question:
+  how:
+    are: 4
+  are:
+    we: 2
+    you: 10
+    you?: 4
+  we:
+    today?: 2
+  ok.:
+    what?: 2
+  well,:
+    have: 2
+  have:
+    you: 2
+  you:
+    all: 2
+    doing?: 2
+    up: 2
+    want: 4
+    going: 2
+    though?: 2
+    well?: 2
+    fight?: 2
+  all:
+    the: 2
+  the:
+    necessary: 2
+  necessary:
+    ways: 2
+  ways:
+    to: 2
+  to:
+    train?: 2
+    win?: 4
+  what:
+    are: 6
+  up:
+    to?: 2
+  want:
+    new: 2
+    to: 2
+  new:
+    training?: 2
+  i:
+    am: 2
+  am:
+    doing: 2
+  doing:
+    fine...: 2
+  fine...:
+    are: 2
+  ye.:
+    are: 2
+  going:
+    to: 2
+  do:
+    you: 2
+  will:
+    you: 2

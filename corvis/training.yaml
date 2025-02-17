@@ -1,7 +1,3 @@
 ---
-- Attack:
-  - 1
-  - A standard attack
-- Heal:
-  - 1
-  - Heal 10 HP
+- Attack0: 0
+- Heal1: 2

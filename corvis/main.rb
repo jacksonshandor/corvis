@@ -14,18 +14,22 @@ class SessionLogger
 end
 
 class RatBot
-  attr_reader :name, :level, :exp_gain, :exp_to_next_level, :stats, :training
+  attr_reader :name, :level, :exp_gain, :exp_to_next_level, :stats, :training, :image
 
   def initialize(name, level, exp_gain, difficulty = 1)
     name_list = ["Rat", "Mouse", "Rodent", "Vermin", "Pest", "Critter"]
     @name = name_list.sample + " Bot"
-    @stats = { hp: rand(10 * difficulty) + 1, attack: rand(5 * difficulty) + 1, defense: rand(5 * difficulty) + 1 }
+    @stats = { hp: rand(50 * difficulty) + 1, attack: rand(10 * difficulty) + 1, defense: rand(10 * difficulty) + 1 }
     @level = level
     @exp_gain = exp_gain
     @training = []
     (@level + 1).times do
-      @training << ["Attack", "Defend"].sample
+      @training << ["Attack", "Heal", "Attack"].sample
     end
+    @image = [
+      "*~",
+      "_"
+    ]
   end
 
   def gain_exp(exp)
@@ -34,14 +38,14 @@ class RatBot
 
   def attack(player_stats)
     damage = @stats[:attack] - player_stats[:defense]
-    player_stats[:hp] -= damage if damage > 0
+    player_stats[:hp] -= damage + rand(6) + 1 if damage > 0
     return "#{@name} attacks! Dealt #{damage} damage! \n"
   end
 
-  def defend(player_stats)
-    damage = player_stats[:attack] - @stats[:defense]
-    @stats[:hp] -= damage if damage > 0
-    return "#{@name} defends! Took #{damage} damage! \n"
+  def heal
+    amnt = rand(5) + 1
+    @stats[:hp] += amnt
+    return "#{@name} heals #{amnt} HP! \n"
   end
 end
 
@@ -69,14 +73,20 @@ class ChatBot
     @emotional_state = { happiness: 0, sadness: 0, anger: 0 }
     @word_frequency = Hash.new(0)
     @ai_keywords = ["you", "yourself", "yours", "bot", "chatbot"]
-    @stats = { level: 1, exp: 0, exp_to_next_level: 100, hp: 100, attack: 10, defense: 5 }
     @perks = { "Attack" => [1, "A standard attack"], "Defense" => [1, "A standard defense"], "Heal" => [1, "Heal 10 HP"] }
+    @stats = { level: 1, exp: 0, exp_to_next_level: 100, hp: 100, attack: 10, defense: 5, "Perks" => @perks }
     @training = []
     @ratbots = []
     @spawn_rate = 0.1
     @spawn_rate_increase = 0.1
     @spawn_rate_cap = 0.5
     @spawn_difficulty = 1
+    @corvis_image = [
+      "^",
+      "||",
+      "v"
+    ]
+    @help = { "train" => "Train Corvis in combat", "stats" => "View your stats", "quit" => "Exit the game", "help" => "View available commands", "h?" => "View available commands" }
     load_memory_from_file
 
   end
@@ -85,16 +95,18 @@ class ChatBot
     lines_printed = 0
     puts "Welcome to the Corvit! Type 'quit' to exit."
     puts "Type 'stats' to view your stats."
+    puts "Type 'train' to train Corvis in combat."
     puts "Please select a difficulty setting: 1[default], 2, 3"
     @spawn_difficulty = gets.chomp.downcase.to_i
     if @spawn_difficulty == ''
       @spawn_difficulty = 1
     end
+    load_stats if File.exist?('stats.yaml')
+    load_training if File.exist?('training.yaml')
+    puts "Corvis: Hello..."
     loop do
       print "> "
       input = gets.chomp
-      load_stats if File.exist?('stats.yaml')
-      load_training if File.exist?('training.yaml')
       break if input.downcase == 'quit' || @stats[:hp] <= 0
       if input.downcase == 'stats'
         puts "Level: #{@stats[:level]}"
@@ -102,12 +114,18 @@ class ChatBot
         puts "HP: #{@stats[:hp]}"
         puts "Attack: #{@stats[:attack]}"
         puts "Defense: #{@stats[:defense]}"
+        puts "Perks: #{@stats["Perks"]}"
+        puts "Training: #{@training}"
       end
       if input.downcase == 'train'
         train_corvis
       end
       if input.downcase == 'trained'
         puts @training
+      end
+      if input.downcase == 'help' || input.downcase == 'h?'
+        puts @help
+        next
       end
       @session_logger.log_interaction(input, nil)
       get_user_input(input)
@@ -128,7 +146,7 @@ class ChatBot
       update_word_frequency(input)
       #spawn_ratbots if rand(10) * @spawn_rate < 0.5
       #spawn ratbots if random is less than spawn rate
-      spawn_ratbots if rand(10 + @spawn_rate * 10) < @spawn_rate * 10
+      spawn_ratbots if rand(10 * @stats[:level]) < @spawn_rate * 10
     end
     puts "Goodbye! Thanks for chatting with Corvit."
   end
@@ -137,19 +155,21 @@ class ChatBot
 
   def train_corvis
     puts "Corvis can be trained in advance up to #{@stats[:level]+1} moves based on its level."
-    (@stats[:level] + 1).times do
+    @training = []
+    (@stats[:level] + 1).times do |i|
       puts "Choose a perk to use: "
-      puts @perks.keys
-      input = gets.chomp
-      if @perks.keys.include?(input)
-        @training << { input => @perks[input] }
+      puts @stats["Perks"].keys
+      input = gets.chomp.capitalize
+      if @stats["Perks"].keys.include?(input)
+        @training << { input + i.to_s => @stats["Perks"].keys.index(input) }
       end
     end
+    puts @training
     save_training(@training)
   end
 
   def save_training(training)
-    File.open('training.yaml', 'w') { |file| file.write(training.to_yaml) }
+    File.open('training.yaml', 'w') { |file| file.write(@training.to_yaml) }
   end
 
   def load_training
@@ -183,14 +203,21 @@ class ChatBot
 
   def go_to_combat(ratbot)
     response = "A #{ratbot.name} has appeared! \n"
+    response += ratbot.stats.to_s + "\n"
+    puts response
+    repsonse = ""
     combat_round = 0
     loop do
+      puts "Corvis:"
+      @corvis_image.each { |line| puts line }
+      puts ratbot.name
+      ratbot.image.each { |line| puts line }
       response += "Corvis: #{@stats[:hp]} HP \n"
       if @training.size == 0
         decision = @perks.keys.sample
       else
-        choices = @training[combat_round].keys
-        decision = choices[combat_round % @training.size]
+        choices = @training[combat_round % @training.size - 1].keys
+        decision = choices[combat_round % @training.size - 1].tr("0-9", "")
       end
       response += "Corvis will #{decision}... \n"
       if decision == "Attack"
@@ -198,15 +225,16 @@ class ChatBot
       elsif decision == "Defend"
         response += defend(ratbot) + "\n"
       elsif decision == "Heal"
-        @stats[:hp] += 10
-        response += "Corvis heals 10 HP! \n"
+        amnt = rand(10) + 1
+        @stats[:hp] += amnt
+        response += "Corvis heals #{amnt} HP! \n"
       end
       response += "#{ratbot.name}: #{ratbot.stats[:hp]} HP \n"
       decision_ratbot = ratbot.training[combat_round % ratbot.training.size]
       if decision_ratbot == "attack"
         response += ratbot.attack(@stats)
       else
-        response += ratbot.defend(@stats)
+        response += ratbot.heal()
       end
       combat_round += 1
       puts response
@@ -227,7 +255,7 @@ class ChatBot
 
   def attack(ratbot)
     damage = @stats[:attack] - ratbot.stats[:defense]
-    ratbot.stats[:hp] -= damage if damage > 0
+    ratbot.stats[:hp] -= damage + rand(6) + 1 if damage > 0
     return "Corvis attacks! Dealt #{damage} damage!"
   end
 
@@ -249,7 +277,7 @@ class ChatBot
     @stats[:hp] += 10
     @stats[:attack] += 5
     @stats[:defense] += 2
-    puts "Corvis has leveled up to level #{@stats[:level]}!"
+    puts "Corvis has leveled up to level #{@stats}!"
     @spawn_rate += @spawn_rate_increase
   end
 
@@ -443,7 +471,7 @@ class ChatBot
     end
     @session_logger.log_interaction(nil, response)
     
-    puts response
+    puts "Corvis: " + response
   end
 
   def clear_screen
