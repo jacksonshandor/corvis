@@ -127,6 +127,7 @@
     want: 2
     have: 2
     saw: 2
+    am...: 1
   am:
     well...: 2
     more: 2
@@ -620,6 +621,14 @@
     i: 2
   oh:
     shit.: 1
+  why:
+    ya,: 1
+  ya,:
+    i: 1
+  am...:
+    shorts: 1
+  shorts:
+    too.: 1
 :question:
   how:
     are: 1
@@ -637,6 +646,7 @@
     do: 8
     are: 1
     kind: 2
+    news: 2
   day:
     are: 2
   you:
@@ -758,6 +768,7 @@
     films: 2
   have:
     you: 6
+    you???: 2
   got:
     on?: 2
   ok.:
@@ -863,3 +874,5 @@
     very: 2
   interesting...:
     is: 2
+  news:
+    have: 2

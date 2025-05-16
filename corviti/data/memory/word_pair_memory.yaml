@@ -9,6 +9,7 @@
     weight: 22
     great: 16
     time: 2
+    older: 1
   meaning:
     of: 31
   of:
@@ -59,7 +60,7 @@
   what:
     do: 214
     is: 115
-    are: 94
+    are: 96
     you: 25
     did: 138
     i: 35
@@ -108,7 +109,7 @@
     a: 78
     therefore,: 28
     corvis,: 21
-    you?: 22
+    you?: 24
     in: 48
     attempting: 38
     to: 16
@@ -202,6 +203,7 @@
     i: 28
     you: 38
     a: 6
+    the: 1
   see!:
     i: 28
     oh,: 3
@@ -438,6 +440,8 @@
   i.:
     are: 6
     you,: 2
+  older:
+    system?: 1
 :third_person_subjects:
   The:
     the:

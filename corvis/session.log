@@ -1151,3 +1151,167 @@
     - Heal 10 HP
 :ratbot: "Corvis: 100 HP \nCorvis will Heal... \nCorvis heals 10 HP! \nCritter Bot:
   100 HP \nCritter Bot heals 5 HP! \n"
+---
+:timestamp: '2025-05-16 04:48:04'
+:user_input: stats
+:bot_response:
+---
+:timestamp: '2025-05-16 04:48:04'
+:user_input:
+:bot_response: spanking new!
+---
+:timestamp: '2025-05-16 04:48:33'
+:user_input: you aren't experienced? did I not store the stats on you?
+:bot_response:
+---
+:timestamp: '2025-05-16 04:48:33'
+:user_input:
+:bot_response: fine... are you going to win?
+---
+:timestamp: '2025-05-16 04:48:33'
+:player:
+  :level: 1
+  :exp: 0
+  :exp_to_next_level: 100
+  :hp: 109
+  :attack: 10
+  :defense: 5
+  Perks:
+    Attack:
+    - 1
+    - A standard attack
+    Defense:
+    - 1
+    - A standard defense
+    Heal:
+    - 1
+    - Heal 10 HP
+:ratbot: "A Rat Bot has appeared! \n{:hp=>10, :attack=>17, :defense=>9}\nCorvis: 100
+  HP \nCorvis will Heal... \nCorvis heals 9 HP! \nRat Bot: 10 HP \nRat Bot heals 4
+  HP! \n"
+---
+:timestamp: '2025-05-16 04:48:34'
+:player:
+  :level: 1
+  :exp: 0
+  :exp_to_next_level: 100
+  :hp: 109
+  :attack: 10
+  :defense: 5
+  Perks:
+    Attack:
+    - 1
+    - A standard attack
+    Defense:
+    - 1
+    - A standard defense
+    Heal:
+    - 1
+    - Heal 10 HP
+:ratbot: "Corvis: 109 HP \nCorvis will Attack... \nCorvis attacks! Dealt 1 damage!\nRat
+  Bot: 8 HP \nRat Bot heals 2 HP! \n"
+---
+:timestamp: '2025-05-16 04:48:35'
+:player:
+  :level: 1
+  :exp: 0
+  :exp_to_next_level: 100
+  :hp: 119
+  :attack: 10
+  :defense: 5
+  Perks:
+    Attack:
+    - 1
+    - A standard attack
+    Defense:
+    - 1
+    - A standard defense
+    Heal:
+    - 1
+    - Heal 10 HP
+:ratbot: "Corvis: 109 HP \nCorvis will Heal... \nCorvis heals 10 HP! \nRat Bot: 10
+  HP \nRat Bot heals 1 HP! \n"
+---
+:timestamp: '2025-05-16 04:48:36'
+:player:
+  :level: 1
+  :exp: 0
+  :exp_to_next_level: 100
+  :hp: 119
+  :attack: 10
+  :defense: 5
+  Perks:
+    Attack:
+    - 1
+    - A standard attack
+    Defense:
+    - 1
+    - A standard defense
+    Heal:
+    - 1
+    - Heal 10 HP
+:ratbot: "Corvis: 119 HP \nCorvis will Attack... \nCorvis attacks! Dealt 1 damage!\nRat
+  Bot: 5 HP \nRat Bot heals 1 HP! \n"
+---
+:timestamp: '2025-05-16 04:48:37'
+:player:
+  :level: 1
+  :exp: 0
+  :exp_to_next_level: 100
+  :hp: 129
+  :attack: 10
+  :defense: 5
+  Perks:
+    Attack:
+    - 1
+    - A standard attack
+    Defense:
+    - 1
+    - A standard defense
+    Heal:
+    - 1
+    - Heal 10 HP
+:ratbot: "Corvis: 119 HP \nCorvis will Heal... \nCorvis heals 10 HP! \nRat Bot: 6
+  HP \nRat Bot heals 3 HP! \n"
+---
+:timestamp: '2025-05-16 04:48:38'
+:player:
+  :level: 1
+  :exp: 0
+  :exp_to_next_level: 100
+  :hp: 129
+  :attack: 10
+  :defense: 5
+  Perks:
+    Attack:
+    - 1
+    - A standard attack
+    Defense:
+    - 1
+    - A standard defense
+    Heal:
+    - 1
+    - Heal 10 HP
+:ratbot: "Corvis: 129 HP \nCorvis will Attack... \nCorvis attacks! Dealt 1 damage!\nRat
+  Bot: 3 HP \nRat Bot heals 1 HP! \n"
+---
+:timestamp: '2025-05-16 04:48:39'
+:player:
+  :level: 1
+  :exp: 0
+  :exp_to_next_level: 100
+  :hp: 139
+  :attack: 10
+  :defense: 5
+  Perks:
+    Attack:
+    - 1
+    - A standard attack
+    Defense:
+    - 1
+    - A standard defense
+    Heal:
+    - 1
+    - Heal 10 HP
+:ratbot: "Corvis: 129 HP \nCorvis will Heal... \nCorvis heals 10 HP! \nRat Bot: 4
+  HP \nRat Bot heals 1 HP! \n"

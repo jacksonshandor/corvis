@@ -460,10 +460,12 @@
     though?: 2
     well?: 2
     fight?: 2
+    aren't: 1
   all:
     the: 2
   the:
     necessary: 2
+    stats: 1
   necessary:
     ways: 2
   ways:
@@ -482,6 +484,7 @@
     training?: 2
   i:
     am: 2
+    not: 1
   am:
     doing: 2
   doing:
@@ -496,3 +499,17 @@
     you: 2
   will:
     you: 2
+  aren't:
+    experienced?: 1
+  experienced?:
+    did: 1
+  did:
+    i: 1
+  not:
+    store: 1
+  store:
+    the: 1
+  stats:
+    'on': 1
+  'on':
+    you?: 1

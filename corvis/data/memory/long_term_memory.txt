@@ -1,6 +1,3 @@
-No. you don't need to train.
-No. you don't need to train.
-No. you don't need to train.
 You've got a ways to go to get to level 2.
 You've got a ways to go to get to level 2.
 You've got a ways to go to get to level 2.
@@ -117,3 +114,7 @@ Not just. I chose the hardest difficulty.
 Not just. I chose the hardest difficulty.
 Not just. I chose the hardest difficulty.
 Yes I have.
+stats
+stats
+stats
+you aren't experienced? did I not store the stats on you?

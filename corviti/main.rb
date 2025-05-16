@@ -1,6 +1,6 @@
 require 'yaml'
 require 'fileutils'
-require 'wikipedia'
+#require 'wikipedia'
 
 class SessionLogger
   def initialize(log_file)

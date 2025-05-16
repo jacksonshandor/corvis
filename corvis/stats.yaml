@@ -1,0 +1,17 @@
+---
+:level: 1
+:exp: 10
+:exp_to_next_level: 100
+:hp: 139
+:attack: 10
+:defense: 5
+Perks:
+  Attack:
+  - 1
+  - A standard attack
+  Defense:
+  - 1
+  - A standard defense
+  Heal:
+  - 1
+  - Heal 10 HP
